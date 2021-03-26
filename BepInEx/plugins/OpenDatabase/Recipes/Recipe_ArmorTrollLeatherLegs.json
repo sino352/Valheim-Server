@@ -1,0 +1,14 @@
+{
+	"recipe_id": "Recipe_ArmorTrollLeatherLegs",
+	"result_item_id": "ArmorTrollLeatherLegs",
+	"result_amount": 1,
+	"CraftingStation": "$piece_workbench",
+	"minStationLevel": 3,
+	"ingredients": [
+		{
+			"id": "TrollHide",
+			"amount": 5,
+			"amountPerLevel": 2
+		}
+	]
+}

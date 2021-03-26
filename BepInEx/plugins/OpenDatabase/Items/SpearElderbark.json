@@ -1,0 +1,29 @@
+{
+	"name": "SpearElderbark",
+	"itemData": {
+		"m_name": "$item_spear_ancientbark",
+		"m_description": "$item_spear_ancientbark_description",
+		"m_weight": 1.5,
+		"m_maxStackSize": 1,
+		"m_armor": 15,
+		"m_armorPerLevel": 1,
+		"m_blockPower": 10,
+		"m_canBeReparied": true,
+		"m_damages": {
+			"m_pierce": 55
+		},
+		"m_damagesPerLevel": {
+			"m_pierce": 6
+		},
+		"m_timedBlockBonus": 2,
+		"m_destroyBroken": false,
+		"m_dodgeable": true,
+		"m_maxDurability": 100,
+		"m_durabilityPerLevel": 50,
+		"m_maxQuality": 4,
+		"m_useDurability": true,
+		"m_useDurabilityDrain": 1,
+		"m_questItem": false,
+		"m_teleportable": true
+	}
+}

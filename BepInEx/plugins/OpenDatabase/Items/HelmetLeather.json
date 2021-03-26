@@ -1,0 +1,27 @@
+{
+	"name": "HelmetLeather",
+	"itemData": {
+		"m_name": "$item_helmet_leather",
+		"m_description": "$item_helmet_leather_description",
+		"m_weight": 1,
+		"m_maxStackSize": 1,
+		"m_armor": 2,
+		"m_armorPerLevel": 2,
+		"m_blockPower": 10,
+		"m_canBeReparied": true,
+		"m_damages": {
+			"m_blunt": 10
+		},
+		"m_timedBlockBonus": 1.5,
+		"m_destroyBroken": false,
+		"m_dodgeable": true,
+		"m_maxDurability": 400,
+		"m_durabilityPerLevel": 100,
+		"m_equipDuration": 1,
+		"m_maxQuality": 4,
+		"m_useDurability": true,
+		"m_useDurabilityDrain": 1,
+		"m_questItem": false,
+		"m_teleportable": true
+	}
+}

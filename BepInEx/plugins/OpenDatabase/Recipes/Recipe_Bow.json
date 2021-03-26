@@ -1,0 +1,23 @@
+{
+	"recipe_id": "Recipe_Bow",
+	"result_item_id": "Bow",
+	"result_amount": 1,
+	"CraftingStation": "$piece_workbench",
+	"minStationLevel": 1,
+	"ingredients": [
+		{
+			"id": "Wood",
+			"amount": 10,
+			"amountPerLevel": 5
+		},
+		{
+			"id": "LeatherScraps",
+			"amount": 8,
+			"amountPerLevel": 4
+		},
+		{
+			"id": "DeerHide",
+			"amountPerLevel": 1
+		}
+	]
+}

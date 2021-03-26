@@ -1,0 +1,28 @@
+{
+	"recipe_id": "Recipe_SledgeStagbreaker",
+	"result_item_id": "SledgeStagbreaker",
+	"result_amount": 1,
+	"CraftingStation": "$piece_workbench",
+	"minStationLevel": 2,
+	"ingredients": [
+		{
+			"id": "RoundLog",
+			"amount": 20,
+			"amountPerLevel": 5
+		},
+		{
+			"id": "TrophyDeer",
+			"amount": 5,
+			"amountPerLevel": 2
+		},
+		{
+			"id": "LeatherScraps",
+			"amount": 2,
+			"amountPerLevel": 1
+		},
+		{
+			"id": "BoneFragments",
+			"amountPerLevel": 10
+		}
+	]
+}

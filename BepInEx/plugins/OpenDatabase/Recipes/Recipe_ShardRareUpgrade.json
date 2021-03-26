@@ -1,0 +1,18 @@
+{
+	"recipe_id": "Recipe_ShardRareUpgrade",
+	"result_item_id": "ShardRare",
+	"result_amount": 1,
+	"minStationLevel": 1,
+	"ingredients": [
+		{
+			"id": "ShardMagic",
+			"amount": 5,
+			"amountPerLevel": 1
+		},
+		{
+			"id": "Coins",
+			"amount": 1,
+			"amountPerLevel": 1
+		}
+	]
+}

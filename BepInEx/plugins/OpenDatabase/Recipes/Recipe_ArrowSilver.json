@@ -1,0 +1,24 @@
+{
+	"recipe_id": "Recipe_ArrowSilver",
+	"result_item_id": "ArrowSilver",
+	"result_amount": 20,
+	"CraftingStation": "$piece_forge",
+	"minStationLevel": 3,
+	"ingredients": [
+		{
+			"id": "Wood",
+			"amount": 8,
+			"amountPerLevel": 1
+		},
+		{
+			"id": "Silver",
+			"amount": 1,
+			"amountPerLevel": 1
+		},
+		{
+			"id": "Feathers",
+			"amount": 2,
+			"amountPerLevel": 1
+		}
+	]
+}

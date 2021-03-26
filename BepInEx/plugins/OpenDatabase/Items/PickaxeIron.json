@@ -1,0 +1,34 @@
+{
+	"name": "PickaxeIron",
+	"itemData": {
+		"m_name": "$item_pickaxe_iron",
+		"m_description": "$item_pickaxe_iron_description",
+		"m_weight": 2,
+		"m_maxStackSize": 1,
+		"m_armor": 20,
+		"m_armorPerLevel": 1,
+		"m_blockPower": 10,
+		"m_canBeReparied": true,
+		"m_damages": {
+			"m_pickaxe": 33,
+			"m_pierce": 33
+		},
+		"m_damagesPerLevel": {
+			"m_pickaxe": 5,
+			"m_pierce": 5
+		},
+		"m_timedBlockBonus": 2,
+		"m_deflectionForce": 20,
+		"m_deflectionForcePerLevel": 5,
+		"m_destroyBroken": false,
+		"m_dodgeable": true,
+		"m_maxDurability": 150,
+		"m_durabilityPerLevel": 50,
+		"m_maxQuality": 4,
+		"m_useDurability": true,
+		"m_useDurabilityDrain": 1,
+		"m_questItem": false,
+		"m_teleportable": true,
+		"m_toolTier": 2
+	}
+}

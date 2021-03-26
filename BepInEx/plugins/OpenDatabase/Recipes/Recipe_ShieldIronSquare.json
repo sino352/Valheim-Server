@@ -1,0 +1,19 @@
+{
+	"recipe_id": "Recipe_ShieldIronSquare",
+	"result_item_id": "ShieldIronSquare",
+	"result_amount": 1,
+	"CraftingStation": "$piece_forge",
+	"minStationLevel": 2,
+	"ingredients": [
+		{
+			"id": "FineWood",
+			"amount": 10,
+			"amountPerLevel": 10
+		},
+		{
+			"id": "Iron",
+			"amount": 6,
+			"amountPerLevel": 3
+		}
+	]
+}

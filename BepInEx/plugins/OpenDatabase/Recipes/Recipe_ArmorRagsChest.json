@@ -1,0 +1,14 @@
+{
+	"recipe_id": "Recipe_ArmorRagsChest",
+	"result_item_id": "ArmorRagsChest",
+	"result_amount": 1,
+	"CraftingStation": "$piece_workbench",
+	"minStationLevel": 1,
+	"ingredients": [
+		{
+			"id": "LeatherScraps",
+			"amount": 5,
+			"amountPerLevel": 5
+		}
+	]
+}

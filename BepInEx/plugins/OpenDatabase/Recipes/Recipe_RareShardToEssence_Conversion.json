@@ -1,0 +1,18 @@
+{
+	"recipe_id": "Recipe_RareShardToEssence_Conversion",
+	"result_item_id": "EssenceRare",
+	"result_amount": 1,
+	"minStationLevel": 1,
+	"ingredients": [
+		{
+			"id": "ShardRare",
+			"amount": 2,
+			"amountPerLevel": 1
+		},
+		{
+			"id": "Coins",
+			"amount": 2,
+			"amountPerLevel": 1
+		}
+	]
+}

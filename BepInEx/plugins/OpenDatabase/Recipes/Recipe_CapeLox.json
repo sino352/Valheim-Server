@@ -1,0 +1,18 @@
+{
+	"recipe_id": "Recipe_CapeLox",
+	"result_item_id": "CapeLox",
+	"result_amount": 1,
+	"CraftingStation": "$piece_workbench",
+	"minStationLevel": 2,
+	"ingredients": [
+		{
+			"id": "LoxPelt",
+			"amount": 6,
+			"amountPerLevel": 2
+		},
+		{
+			"id": "Silver",
+			"amount": 2
+		}
+	]
+}

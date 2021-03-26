@@ -1,0 +1,34 @@
+{
+	"name": "Battleaxe",
+	"itemData": {
+		"m_name": "$item_battleaxe",
+		"m_description": "$item_battleaxe_description",
+		"m_weight": 2.5,
+		"m_maxStackSize": 1,
+		"m_armor": 15,
+		"m_armorPerLevel": 1,
+		"m_blockPower": 20,
+		"m_canBeReparied": true,
+		"m_damages": {
+			"m_chop": 40,
+			"m_slash": 75
+		},
+		"m_damagesPerLevel": {
+			"m_chop": 2.5,
+			"m_slash": 6
+		},
+		"m_timedBlockBonus": 2,
+		"m_deflectionForce": 70,
+		"m_deflectionForcePerLevel": 5,
+		"m_destroyBroken": false,
+		"m_dodgeable": true,
+		"m_maxDurability": 200,
+		"m_durabilityPerLevel": 50,
+		"m_maxQuality": 4,
+		"m_useDurability": true,
+		"m_useDurabilityDrain": 1,
+		"m_questItem": false,
+		"m_teleportable": true,
+		"m_toolTier": 3
+	}
+}

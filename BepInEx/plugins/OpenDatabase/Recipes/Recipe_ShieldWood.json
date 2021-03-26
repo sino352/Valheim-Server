@@ -1,0 +1,24 @@
+{
+	"recipe_id": "Recipe_ShieldWood",
+	"result_item_id": "ShieldWood",
+	"result_amount": 1,
+	"CraftingStation": "$piece_workbench",
+	"minStationLevel": 1,
+	"ingredients": [
+		{
+			"id": "Wood",
+			"amount": 10,
+			"amountPerLevel": 5
+		},
+		{
+			"id": "Resin",
+			"amount": 4,
+			"amountPerLevel": 2
+		},
+		{
+			"id": "LeatherScraps",
+			"amount": 4,
+			"amountPerLevel": 2
+		}
+	]
+}

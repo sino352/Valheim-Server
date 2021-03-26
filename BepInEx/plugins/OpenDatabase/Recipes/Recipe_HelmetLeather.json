@@ -1,0 +1,18 @@
+{
+	"recipe_id": "Recipe_HelmetLeather",
+	"result_item_id": "HelmetLeather",
+	"result_amount": 1,
+	"CraftingStation": "$piece_workbench",
+	"minStationLevel": 2,
+	"ingredients": [
+		{
+			"id": "DeerHide",
+			"amount": 6,
+			"amountPerLevel": 6
+		},
+		{
+			"id": "BoneFragments",
+			"amountPerLevel": 5
+		}
+	]
+}

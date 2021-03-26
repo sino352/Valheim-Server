@@ -1,0 +1,19 @@
+{
+	"recipe_id": "Recipe_GoldRubyRing",
+	"result_item_id": "GoldRubyRing",
+	"result_amount": 1,
+	"CraftingStation": "$piece_forge",
+	"minStationLevel": 1,
+	"ingredients": [
+		{
+			"id": "Coins",
+			"amount": 200,
+			"amountPerLevel": 1
+		},
+		{
+			"id": "Ruby",
+			"amount": 1,
+			"amountPerLevel": 1
+		}
+	]
+}

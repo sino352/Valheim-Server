@@ -1,0 +1,23 @@
+{
+	"recipe_id": "Recipe_AxeBronze",
+	"result_item_id": "AxeBronze",
+	"result_amount": 1,
+	"CraftingStation": "$piece_forge",
+	"minStationLevel": 1,
+	"ingredients": [
+		{
+			"id": "Wood",
+			"amount": 4
+		},
+		{
+			"id": "Bronze",
+			"amount": 8,
+			"amountPerLevel": 4
+		},
+		{
+			"id": "LeatherScraps",
+			"amount": 2,
+			"amountPerLevel": 1
+		}
+	]
+}

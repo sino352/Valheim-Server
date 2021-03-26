@@ -1,0 +1,14 @@
+{
+	"recipe_id": "Recipe_ArrowWood",
+	"result_item_id": "ArrowWood",
+	"result_amount": 20,
+	"CraftingStation": "$piece_workbench",
+	"minStationLevel": 1,
+	"ingredients": [
+		{
+			"id": "Wood",
+			"amount": 8,
+			"amountPerLevel": 2
+		}
+	]
+}

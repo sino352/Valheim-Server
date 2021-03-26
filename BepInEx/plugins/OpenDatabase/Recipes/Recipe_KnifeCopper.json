@@ -1,0 +1,22 @@
+{
+	"recipe_id": "Recipe_KnifeCopper",
+	"result_item_id": "KnifeCopper",
+	"result_amount": 1,
+	"CraftingStation": "$piece_forge",
+	"minStationLevel": 1,
+	"ingredients": [
+		{
+			"id": "Wood",
+			"amount": 2
+		},
+		{
+			"id": "Copper",
+			"amount": 8,
+			"amountPerLevel": 4
+		},
+		{
+			"id": "GreydwarfEye",
+			"amountPerLevel": 8
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"name": "ShieldKnight",
+	"itemData": {
+		"m_name": "Knight shield",
+		"m_description": "A wooden shield reinforced with iron.",
+		"m_weight": 4,
+		"m_maxStackSize": 1,
+		"m_armorPerLevel": 1,
+		"m_blockPower": 120,
+		"m_blockPowerPerLevel": 5,
+		"m_canBeReparied": true,
+		"m_timedBlockBonus": 1.5,
+		"m_deflectionForce": 40,
+		"m_destroyBroken": false,
+		"m_dodgeable": true,
+		"m_maxDurability": 100,
+		"m_durabilityPerLevel": 50,
+		"m_maxQuality": 1,
+		"m_useDurability": true,
+		"m_useDurabilityDrain": 1,
+		"m_questItem": false,
+		"m_teleportable": true
+	}
+}

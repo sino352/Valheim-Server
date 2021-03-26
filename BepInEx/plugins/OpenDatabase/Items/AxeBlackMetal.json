@@ -1,0 +1,32 @@
+{
+	"name": "AxeBlackMetal",
+	"itemData": {
+		"m_name": "$item_axe_blackmetal",
+		"m_description": "\u0016$item_axe_blackmetal_description",
+		"m_weight": 2,
+		"m_maxStackSize": 1,
+		"m_armor": 20,
+		"m_armorPerLevel": 1,
+		"m_blockPower": 20,
+		"m_canBeReparied": true,
+		"m_damages": {
+			"m_chop": 60,
+			"m_slash": 95
+		},
+		"m_damagesPerLevel": {
+			"m_chop": 3,
+			"m_slash": 5
+		},
+		"m_timedBlockBonus": 2,
+		"m_destroyBroken": false,
+		"m_dodgeable": true,
+		"m_maxDurability": 175,
+		"m_durabilityPerLevel": 50,
+		"m_maxQuality": 4,
+		"m_useDurability": true,
+		"m_useDurabilityDrain": 1,
+		"m_questItem": false,
+		"m_teleportable": true,
+		"m_toolTier": 4
+	}
+}

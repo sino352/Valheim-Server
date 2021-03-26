@@ -1,0 +1,25 @@
+{
+	"name": "ShieldIronSquare",
+	"itemData": {
+		"m_name": "\u0016\u0016$item_shield_iron_square",
+		"m_description": "\u0016\u0016$item_shield_iron_square_description",
+		"m_weight": 4,
+		"m_maxStackSize": 1,
+		"m_armor": 100,
+		"m_armorPerLevel": 1,
+		"m_blockPower": 35,
+		"m_blockPowerPerLevel": 5,
+		"m_canBeReparied": true,
+		"m_timedBlockBonus": 1,
+		"m_deflectionForce": 30,
+		"m_destroyBroken": false,
+		"m_dodgeable": true,
+		"m_maxDurability": 200,
+		"m_durabilityPerLevel": 50,
+		"m_maxQuality": 3,
+		"m_useDurability": true,
+		"m_useDurabilityDrain": 1,
+		"m_questItem": false,
+		"m_teleportable": true
+	}
+}

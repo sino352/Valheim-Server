@@ -1,0 +1,23 @@
+{
+	"recipe_id": "Recipe_Battleaxe",
+	"result_item_id": "Battleaxe",
+	"result_amount": 1,
+	"CraftingStation": "$piece_forge",
+	"minStationLevel": 2,
+	"ingredients": [
+		{
+			"id": "ElderBark",
+			"amount": 30,
+			"amountPerLevel": 5
+		},
+		{
+			"id": "Iron",
+			"amount": 35,
+			"amountPerLevel": 15
+		},
+		{
+			"id": "LeatherScraps",
+			"amount": 4
+		}
+	]
+}

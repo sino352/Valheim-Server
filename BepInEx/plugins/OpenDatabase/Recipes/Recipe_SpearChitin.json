@@ -1,0 +1,21 @@
+{
+	"recipe_id": "Recipe_SpearChitin",
+	"result_item_id": "SpearChitin",
+	"result_amount": 1,
+	"CraftingStation": "$piece_workbench",
+	"minStationLevel": 2,
+	"ingredients": [
+		{
+			"id": "FineWood",
+			"amount": 8
+		},
+		{
+			"id": "Chitin",
+			"amount": 30
+		},
+		{
+			"id": "LeatherScraps",
+			"amount": 3
+		}
+	]
+}

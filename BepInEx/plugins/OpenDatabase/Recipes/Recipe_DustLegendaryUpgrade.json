@@ -1,0 +1,18 @@
+{
+	"recipe_id": "Recipe_DustLegendaryUpgrade",
+	"result_item_id": "DustLegendary",
+	"result_amount": 1,
+	"minStationLevel": 1,
+	"ingredients": [
+		{
+			"id": "DustEpic",
+			"amount": 5,
+			"amountPerLevel": 1
+		},
+		{
+			"id": "Coins",
+			"amount": 10,
+			"amountPerLevel": 1
+		}
+	]
+}

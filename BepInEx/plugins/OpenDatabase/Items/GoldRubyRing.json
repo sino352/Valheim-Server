@@ -1,0 +1,23 @@
+{
+	"name": "GoldRubyRing",
+	"itemData": {
+		"m_name": "Gold Ruby Ring",
+		"m_description": "A beautiful ring of fine gold,
+		 set with a square-cut ruby",
+		"m_maxStackSize": 1,
+		"m_armorPerLevel": 1,
+		"m_blockPower": 10,
+		"m_canBeReparied": true,
+		"m_timedBlockBonus": 1.5,
+		"m_destroyBroken": false,
+		"m_dodgeable": false,
+		"m_maxDurability": 100,
+		"m_durabilityPerLevel": 50,
+		"m_equipDuration": 1,
+		"m_maxQuality": 1,
+		"m_useDurability": false,
+		"m_useDurabilityDrain": 1,
+		"m_questItem": false,
+		"m_teleportable": true
+	}
+}

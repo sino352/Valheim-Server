@@ -1,0 +1,28 @@
+{
+	"recipe_id": "Recipe_SledgeIron",
+	"result_item_id": "SledgeIron",
+	"result_amount": 1,
+	"CraftingStation": "$piece_forge",
+	"minStationLevel": 2,
+	"ingredients": [
+		{
+			"id": "ElderBark",
+			"amount": 10,
+			"amountPerLevel": 2
+		},
+		{
+			"id": "Iron",
+			"amount": 30,
+			"amountPerLevel": 15
+		},
+		{
+			"id": "YmirRemains",
+			"amount": 4,
+			"amountPerLevel": 2
+		},
+		{
+			"id": "TrophyDraugrElite",
+			"amount": 1
+		}
+	]
+}

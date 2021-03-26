@@ -1,0 +1,171 @@
+
+
+[2021-03-23 14:17:34] Loaded 0 apps from install folder "E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\steamapps\appmanifest_*.acf".
+
+
+[2021-03-23 14:20:30] Loaded 0 apps from install folder "E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\steamapps\appmanifest_*.acf".
+
+
+[2021-03-23 14:23:29] Loaded 0 apps from install folder "E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\steamapps\appmanifest_*.acf".
+
+
+[2021-03-23 14:25:12] Loaded 0 apps from install folder "E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\steamapps\appmanifest_*.acf".
+
+
+[2021-03-23 14:28:22] Loaded 0 apps from install folder "E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\steamapps\appmanifest_*.acf".
+
+
+[2021-03-23 14:36:14] Loaded 0 apps from install folder "E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\steamapps\appmanifest_*.acf".
+
+
+[2021-03-23 14:40:00] Loaded 0 apps from install folder "E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\steamapps\appmanifest_*.acf".
+
+
+[2021-03-23 14:48:10] Loaded 0 apps from install folder "E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\steamapps\appmanifest_*.acf".
+
+
+[2021-03-23 15:04:56] Loaded 0 apps from install folder "E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\steamapps\appmanifest_*.acf".
+
+
+[2021-03-23 15:09:14] Loaded 0 apps from install folder "E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\steamapps\appmanifest_*.acf".
+
+
+[2021-03-23 15:20:29] Loaded 0 apps from install folder "E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\steamapps\appmanifest_*.acf".
+
+
+[2021-03-23 16:41:15] Loaded 0 apps from install folder "E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\steamapps\appmanifest_*.acf".
+
+
+[2021-03-23 16:54:32] Loaded 0 apps from install folder "E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\steamapps\appmanifest_*.acf".
+
+
+[2021-03-23 17:20:10] Loaded 0 apps from install folder "E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\steamapps\appmanifest_*.acf".
+
+
+[2021-03-23 17:37:25] Loaded 0 apps from install folder "E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\steamapps\appmanifest_*.acf".
+
+
+[2021-03-23 18:16:52] Loaded 0 apps from install folder "E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\steamapps\appmanifest_*.acf".
+
+
+[2021-03-23 18:28:18] Loaded 0 apps from install folder "E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\steamapps\appmanifest_*.acf".
+
+
+[2021-03-23 21:18:00] Loaded 0 apps from install folder "E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\steamapps\appmanifest_*.acf".
+
+
+[2021-03-23 21:27:31] Loaded 0 apps from install folder "E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\steamapps\appmanifest_*.acf".
+
+
+[2021-03-23 21:30:55] Loaded 0 apps from install folder "E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\steamapps\appmanifest_*.acf".
+
+
+[2021-03-23 21:33:29] Loaded 0 apps from install folder "E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\steamapps\appmanifest_*.acf".
+
+
+[2021-03-23 21:45:11] Loaded 0 apps from install folder "E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\steamapps\appmanifest_*.acf".
+
+
+[2021-03-23 21:51:13] Loaded 0 apps from install folder "E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\steamapps\appmanifest_*.acf".
+
+
+[2021-03-23 23:50:41] Loaded 0 apps from install folder "E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\steamapps\appmanifest_*.acf".
+
+
+[2021-03-24 00:16:41] Loaded 0 apps from install folder "E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\steamapps\appmanifest_*.acf".
+
+
+[2021-03-24 01:11:39] Loaded 0 apps from install folder "E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\steamapps\appmanifest_*.acf".
+
+
+[2021-03-24 01:20:45] Loaded 0 apps from install folder "E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\steamapps\appmanifest_*.acf".
+
+
+[2021-03-24 01:46:38] Loaded 0 apps from install folder "E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\steamapps\appmanifest_*.acf".
+
+
+[2021-03-24 01:50:27] Loaded 0 apps from install folder "E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\steamapps\appmanifest_*.acf".
+
+
+[2021-03-24 02:34:18] Loaded 0 apps from install folder "E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\steamapps\appmanifest_*.acf".
+
+
+[2021-03-24 02:54:34] Loaded 0 apps from install folder "E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\steamapps\appmanifest_*.acf".
+
+
+[2021-03-24 07:35:58] Loaded 0 apps from install folder "E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\steamapps\appmanifest_*.acf".
+
+
+[2021-03-24 07:41:42] Loaded 0 apps from install folder "E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\steamapps\appmanifest_*.acf".
+
+
+[2021-03-24 08:48:05] Loaded 0 apps from install folder "E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\steamapps\appmanifest_*.acf".
+
+
+[2021-03-24 09:02:30] Loaded 0 apps from install folder "E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\steamapps\appmanifest_*.acf".
+
+
+[2021-03-24 10:13:33] Loaded 0 apps from install folder "E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\steamapps\appmanifest_*.acf".
+
+
+[2021-03-24 10:22:31] Loaded 0 apps from install folder "E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\steamapps\appmanifest_*.acf".
+
+
+[2021-03-24 12:25:19] Loaded 0 apps from install folder "E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\steamapps\appmanifest_*.acf".
+
+
+[2021-03-24 13:10:13] Loaded 0 apps from install folder "E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\steamapps\appmanifest_*.acf".
+
+
+[2021-03-24 15:15:42] Loaded 0 apps from install folder "E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\steamapps\appmanifest_*.acf".
+
+
+[2021-03-24 15:17:34] Loaded 0 apps from install folder "E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\steamapps\appmanifest_*.acf".
+
+
+[2021-03-24 21:11:44] Loaded 0 apps from install folder "E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\steamapps\appmanifest_*.acf".
+
+
+[2021-03-24 22:14:47] Loaded 0 apps from install folder "E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\steamapps\appmanifest_*.acf".
+
+
+[2021-03-24 23:19:34] Loaded 0 apps from install folder "E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\steamapps\appmanifest_*.acf".
+
+
+[2021-03-25 00:52:28] Loaded 0 apps from install folder "E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\steamapps\appmanifest_*.acf".
+
+
+[2021-03-25 02:22:22] Loaded 0 apps from install folder "E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\steamapps\appmanifest_*.acf".
+
+
+[2021-03-25 03:22:21] Loaded 0 apps from install folder "E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\steamapps\appmanifest_*.acf".
+
+
+[2021-03-25 14:03:37] Loaded 0 apps from install folder "E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\steamapps\appmanifest_*.acf".
+
+
+[2021-03-25 15:56:41] Loaded 0 apps from install folder "E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\steamapps\appmanifest_*.acf".
+
+
+[2021-03-25 17:15:26] Loaded 0 apps from install folder "E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\steamapps\appmanifest_*.acf".
+
+
+[2021-03-25 19:05:14] Loaded 0 apps from install folder "E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\steamapps\appmanifest_*.acf".
+
+
+[2021-03-25 20:20:05] Loaded 0 apps from install folder "E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\steamapps\appmanifest_*.acf".
+
+
+[2021-03-25 21:03:05] Loaded 0 apps from install folder "E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\steamapps\appmanifest_*.acf".
+
+
+[2021-03-26 01:55:37] Loaded 0 apps from install folder "E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\steamapps\appmanifest_*.acf".
+
+
+[2021-03-26 02:25:13] Loaded 0 apps from install folder "E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\steamapps\appmanifest_*.acf".
+
+
+[2021-03-26 02:48:19] Loaded 0 apps from install folder "E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\steamapps\appmanifest_*.acf".
+
+
+[2021-03-26 03:30:50] Loaded 0 apps from install folder "E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\steamapps\appmanifest_*.acf".

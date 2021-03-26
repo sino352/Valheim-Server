@@ -1,0 +1,19 @@
+{
+	"recipe_id": "Recipe_ShieldWoodTower",
+	"result_item_id": "ShieldWoodTower",
+	"result_amount": 1,
+	"CraftingStation": "$piece_workbench",
+	"minStationLevel": 1,
+	"ingredients": [
+		{
+			"id": "Wood",
+			"amount": 10,
+			"amountPerLevel": 5
+		},
+		{
+			"id": "LeatherScraps",
+			"amount": 6,
+			"amountPerLevel": 3
+		}
+	]
+}

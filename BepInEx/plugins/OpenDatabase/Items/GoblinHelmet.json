@@ -1,0 +1,24 @@
+{
+	"name": "GoblinHelmet",
+	"itemData": {
+		"m_name": "Iron plate armor",
+		"m_description": "$item_chest_iron_description",
+		"m_weight": 1,
+		"m_maxStackSize": 1,
+		"m_armor": 60,
+		"m_armorPerLevel": 5,
+		"m_blockPower": 10,
+		"m_canBeReparied": true,
+		"m_timedBlockBonus": 1.5,
+		"m_destroyBroken": true,
+		"m_dodgeable": false,
+		"m_maxDurability": 100,
+		"m_durabilityPerLevel": 50,
+		"m_equipDuration": 1,
+		"m_maxQuality": 4,
+		"m_useDurability": false,
+		"m_useDurabilityDrain": 1,
+		"m_questItem": false,
+		"m_teleportable": true
+	}
+}

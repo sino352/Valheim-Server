@@ -1,0 +1,18 @@
+{
+	"recipe_id": "Recipe_ArmorBronzeChest",
+	"result_item_id": "ArmorBronzeChest",
+	"result_amount": 1,
+	"CraftingStation": "$piece_forge",
+	"minStationLevel": 1,
+	"ingredients": [
+		{
+			"id": "Bronze",
+			"amount": 5,
+			"amountPerLevel": 3
+		},
+		{
+			"id": "DeerHide",
+			"amount": 2
+		}
+	]
+}

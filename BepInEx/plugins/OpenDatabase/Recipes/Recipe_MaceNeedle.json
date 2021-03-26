@@ -1,0 +1,27 @@
+{
+	"recipe_id": "Recipe_MaceNeedle",
+	"result_item_id": "MaceNeedle",
+	"result_amount": 1,
+	"CraftingStation": "$piece_forge",
+	"minStationLevel": 4,
+	"ingredients": [
+		{
+			"id": "FineWood",
+			"amount": 5
+		},
+		{
+			"id": "Iron",
+			"amount": 20,
+			"amountPerLevel": 2
+		},
+		{
+			"id": "Needle",
+			"amount": 5,
+			"amountPerLevel": 2
+		},
+		{
+			"id": "LinenThread",
+			"amount": 10
+		}
+	]
+}

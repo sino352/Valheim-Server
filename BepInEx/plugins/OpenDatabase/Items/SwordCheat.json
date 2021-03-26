@@ -1,0 +1,29 @@
+{
+	"name": "SwordCheat",
+	"itemData": {
+		"m_name": "Cheat sword",
+		"m_description": "Cheater!",
+		"m_weight": 2,
+		"m_maxStackSize": 1,
+		"m_armor": 20,
+		"m_armorPerLevel": 1,
+		"m_blockPower": 10,
+		"m_canBeReparied": true,
+		"m_damages": {
+			"m_chop": 10000,
+			"m_pickaxe": 10000,
+			"m_slash": 10000
+		},
+		"m_timedBlockBonus": 2,
+		"m_destroyBroken": false,
+		"m_dodgeable": true,
+		"m_maxDurability": 100,
+		"m_durabilityPerLevel": 50,
+		"m_maxQuality": 1,
+		"m_useDurability": false,
+		"m_useDurabilityDrain": 1,
+		"m_questItem": false,
+		"m_teleportable": true,
+		"m_toolTier": 10
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"recipe_id": "Recipe_HelmetPadded",
+	"result_item_id": "HelmetPadded",
+	"result_amount": 1,
+	"CraftingStation": "$piece_forge",
+	"minStationLevel": 1,
+	"ingredients": [
+		{
+			"id": "Iron",
+			"amount": 10,
+			"amountPerLevel": 5
+		},
+		{
+			"id": "LinenThread",
+			"amount": 15
+		}
+	]
+}

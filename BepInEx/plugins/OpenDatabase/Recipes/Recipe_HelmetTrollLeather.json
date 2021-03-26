@@ -1,0 +1,19 @@
+{
+	"recipe_id": "Recipe_HelmetTrollLeather",
+	"result_item_id": "HelmetTrollLeather",
+	"result_amount": 1,
+	"CraftingStation": "$piece_workbench",
+	"minStationLevel": 3,
+	"ingredients": [
+		{
+			"id": "TrollHide",
+			"amount": 5,
+			"amountPerLevel": 2
+		},
+		{
+			"id": "BoneFragments",
+			"amount": 3,
+			"amountPerLevel": 1
+		}
+	]
+}

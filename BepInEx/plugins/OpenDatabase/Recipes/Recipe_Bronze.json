@@ -1,0 +1,19 @@
+{
+	"recipe_id": "Recipe_Bronze",
+	"result_item_id": "Bronze",
+	"result_amount": 1,
+	"CraftingStation": "$piece_forge",
+	"minStationLevel": 1,
+	"ingredients": [
+		{
+			"id": "Copper",
+			"amount": 2,
+			"amountPerLevel": 1
+		},
+		{
+			"id": "Tin",
+			"amount": 1,
+			"amountPerLevel": 1
+		}
+	]
+}

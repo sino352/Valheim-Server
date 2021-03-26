@@ -1,0 +1,23 @@
+{
+	"name": "Hoe",
+	"itemData": {
+		"m_name": "$item_hoe",
+		"m_description": "\u0016$item_hoe_description",
+		"m_weight": 2,
+		"m_maxStackSize": 1,
+		"m_armor": 10,
+		"m_armorPerLevel": 1,
+		"m_blockPower": 10,
+		"m_canBeReparied": true,
+		"m_timedBlockBonus": 1.5,
+		"m_destroyBroken": false,
+		"m_dodgeable": false,
+		"m_maxDurability": 200,
+		"m_durabilityPerLevel": 200,
+		"m_maxQuality": 3,
+		"m_useDurability": true,
+		"m_useDurabilityDrain": 1,
+		"m_questItem": false,
+		"m_teleportable": true
+	}
+}

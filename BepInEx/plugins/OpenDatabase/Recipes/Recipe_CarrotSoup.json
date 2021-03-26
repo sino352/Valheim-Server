@@ -1,0 +1,19 @@
+{
+	"recipe_id": "Recipe_CarrotSoup",
+	"result_item_id": "CarrotSoup",
+	"result_amount": 1,
+	"CraftingStation": "$piece_cauldron",
+	"minStationLevel": 1,
+	"ingredients": [
+		{
+			"id": "Mushroom",
+			"amount": 1,
+			"amountPerLevel": 1
+		},
+		{
+			"id": "Carrot",
+			"amount": 3,
+			"amountPerLevel": 1
+		}
+	]
+}

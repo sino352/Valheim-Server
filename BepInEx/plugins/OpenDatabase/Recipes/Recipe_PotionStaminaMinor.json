@@ -1,0 +1,24 @@
+{
+	"recipe_id": "Recipe_PotionStaminaMinor",
+	"result_item_id": "MeadStaminaMinor",
+	"result_amount": 1,
+	"CraftingStation": "$piece_cauldron",
+	"minStationLevel": 1,
+	"ingredients": [
+		{
+			"id": "MushroomYellow",
+			"amount": 1,
+			"amountPerLevel": 1
+		},
+		{
+			"id": "Raspberry",
+			"amount": 1,
+			"amountPerLevel": 1
+		},
+		{
+			"id": "Honey",
+			"amount": 1,
+			"amountPerLevel": 1
+		}
+	]
+}

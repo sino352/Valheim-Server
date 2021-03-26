@@ -1,0 +1,29 @@
+{
+	"recipe_id": "Recipe_MeadBasePoisonResist",
+	"result_item_id": "MeadBasePoisonResist",
+	"result_amount": 1,
+	"CraftingStation": "$piece_cauldron",
+	"minStationLevel": 1,
+	"ingredients": [
+		{
+			"id": "Honey",
+			"amount": 10,
+			"amountPerLevel": 1
+		},
+		{
+			"id": "Thistle",
+			"amount": 5,
+			"amountPerLevel": 1
+		},
+		{
+			"id": "NeckTail",
+			"amount": 1,
+			"amountPerLevel": 1
+		},
+		{
+			"id": "Coal",
+			"amount": 10,
+			"amountPerLevel": 1
+		}
+	]
+}

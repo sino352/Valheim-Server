@@ -1,0 +1,22 @@
+{
+	"recipe_id": "Recipe_AtgeirBronze",
+	"result_item_id": "AtgeirBronze",
+	"result_amount": 1,
+	"CraftingStation": "$piece_forge",
+	"minStationLevel": 1,
+	"ingredients": [
+		{
+			"id": "Wood",
+			"amount": 10
+		},
+		{
+			"id": "Bronze",
+			"amount": 8,
+			"amountPerLevel": 4
+		},
+		{
+			"id": "LeatherScraps",
+			"amount": 2
+		}
+	]
+}

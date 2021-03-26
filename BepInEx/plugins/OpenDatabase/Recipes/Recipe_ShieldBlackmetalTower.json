@@ -1,0 +1,24 @@
+{
+	"recipe_id": "Recipe_ShieldBlackmetalTower",
+	"result_item_id": "ShieldBlackmetalTower",
+	"result_amount": 1,
+	"CraftingStation": "$piece_forge",
+	"minStationLevel": 3,
+	"ingredients": [
+		{
+			"id": "FineWood",
+			"amount": 15,
+			"amountPerLevel": 10
+		},
+		{
+			"id": "BlackMetal",
+			"amount": 10,
+			"amountPerLevel": 4
+		},
+		{
+			"id": "Chain",
+			"amount": 7,
+			"amountPerLevel": 2
+		}
+	]
+}

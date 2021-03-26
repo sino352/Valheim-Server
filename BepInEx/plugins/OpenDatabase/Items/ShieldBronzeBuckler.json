@@ -1,0 +1,25 @@
+{
+	"name": "ShieldBronzeBuckler",
+	"itemData": {
+		"m_name": "$item_shield_bronzebuckler",
+		"m_description": "$item_shield_bronzebuckler_description",
+		"m_weight": 3,
+		"m_maxStackSize": 1,
+		"m_armor": 100,
+		"m_armorPerLevel": 1,
+		"m_blockPower": 45,
+		"m_blockPowerPerLevel": 5,
+		"m_canBeReparied": true,
+		"m_timedBlockBonus": 2,
+		"m_deflectionForce": 30,
+		"m_destroyBroken": false,
+		"m_dodgeable": true,
+		"m_maxDurability": 200,
+		"m_durabilityPerLevel": 50,
+		"m_maxQuality": 3,
+		"m_useDurability": true,
+		"m_useDurabilityDrain": 1,
+		"m_questItem": false,
+		"m_teleportable": true
+	}
+}

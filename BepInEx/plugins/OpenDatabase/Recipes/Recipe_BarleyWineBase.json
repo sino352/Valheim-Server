@@ -1,0 +1,19 @@
+{
+	"recipe_id": "Recipe_BarleyWineBase",
+	"result_item_id": "BarleyWineBase",
+	"result_amount": 1,
+	"CraftingStation": "$piece_cauldron",
+	"minStationLevel": 1,
+	"ingredients": [
+		{
+			"id": "Barley",
+			"amount": 10,
+			"amountPerLevel": 1
+		},
+		{
+			"id": "Cloudberry",
+			"amount": 10,
+			"amountPerLevel": 1
+		}
+	]
+}

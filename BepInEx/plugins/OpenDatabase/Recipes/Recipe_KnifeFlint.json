@@ -1,0 +1,22 @@
+{
+	"recipe_id": "Recipe_KnifeFlint",
+	"result_item_id": "KnifeFlint",
+	"result_amount": 1,
+	"CraftingStation": "$piece_workbench",
+	"minStationLevel": 1,
+	"ingredients": [
+		{
+			"id": "Wood",
+			"amount": 2
+		},
+		{
+			"id": "Flint",
+			"amount": 4,
+			"amountPerLevel": 2
+		},
+		{
+			"id": "LeatherScraps",
+			"amount": 2
+		}
+	]
+}

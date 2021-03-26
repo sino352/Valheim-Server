@@ -1,0 +1,19 @@
+{
+	"recipe_id": "Recipe_CapeTrollHide",
+	"result_item_id": "CapeTrollHide",
+	"result_amount": 1,
+	"CraftingStation": "$piece_workbench",
+	"minStationLevel": 3,
+	"ingredients": [
+		{
+			"id": "TrollHide",
+			"amount": 10,
+			"amountPerLevel": 5
+		},
+		{
+			"id": "BoneFragments",
+			"amount": 10,
+			"amountPerLevel": 5
+		}
+	]
+}

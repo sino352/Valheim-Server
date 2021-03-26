@@ -1,0 +1,18 @@
+{
+	"recipe_id": "Recipe_ReagentLegendaryUpgrade",
+	"result_item_id": "ReagentLegendary",
+	"result_amount": 1,
+	"minStationLevel": 1,
+	"ingredients": [
+		{
+			"id": "ReagentEpic",
+			"amount": 5,
+			"amountPerLevel": 1
+		},
+		{
+			"id": "Coins",
+			"amount": 10,
+			"amountPerLevel": 1
+		}
+	]
+}

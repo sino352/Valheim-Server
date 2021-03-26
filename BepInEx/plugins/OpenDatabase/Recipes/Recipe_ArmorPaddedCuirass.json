@@ -1,0 +1,18 @@
+{
+	"recipe_id": "Recipe_ArmorPaddedCuirass",
+	"result_item_id": "ArmorPaddedCuirass",
+	"result_amount": 1,
+	"CraftingStation": "$piece_forge",
+	"minStationLevel": 2,
+	"ingredients": [
+		{
+			"id": "Iron",
+			"amount": 10,
+			"amountPerLevel": 3
+		},
+		{
+			"id": "LinenThread",
+			"amount": 20
+		}
+	]
+}

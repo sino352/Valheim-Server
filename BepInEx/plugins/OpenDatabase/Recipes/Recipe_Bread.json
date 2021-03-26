@@ -1,0 +1,14 @@
+{
+	"recipe_id": "Recipe_Bread",
+	"result_item_id": "Bread",
+	"result_amount": 1,
+	"CraftingStation": "$piece_cauldron",
+	"minStationLevel": 1,
+	"ingredients": [
+		{
+			"id": "BarleyFlour",
+			"amount": 10,
+			"amountPerLevel": 1
+		}
+	]
+}

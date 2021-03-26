@@ -1,0 +1,24 @@
+{
+	"recipe_id": "Recipe_SwordIron",
+	"result_item_id": "SwordIron",
+	"result_amount": 1,
+	"CraftingStation": "$piece_forge",
+	"minStationLevel": 2,
+	"ingredients": [
+		{
+			"id": "Wood",
+			"amount": 2,
+			"amountPerLevel": 1
+		},
+		{
+			"id": "Iron",
+			"amount": 20,
+			"amountPerLevel": 10
+		},
+		{
+			"id": "LeatherScraps",
+			"amount": 3,
+			"amountPerLevel": 2
+		}
+	]
+}

@@ -1,0 +1,19 @@
+{
+	"recipe_id": "Recipe_QueensJam",
+	"result_item_id": "QueensJam",
+	"result_amount": 4,
+	"CraftingStation": "$piece_cauldron",
+	"minStationLevel": 1,
+	"ingredients": [
+		{
+			"id": "Raspberry",
+			"amount": 8,
+			"amountPerLevel": 1
+		},
+		{
+			"id": "Blueberries",
+			"amount": 8,
+			"amountPerLevel": 1
+		}
+	]
+}

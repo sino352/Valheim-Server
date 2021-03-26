@@ -1,0 +1,14 @@
+{
+	"recipe_id": "Recipe_IronNails",
+	"result_item_id": "IronNails",
+	"result_amount": 10,
+	"CraftingStation": "$piece_forge",
+	"minStationLevel": 1,
+	"ingredients": [
+		{
+			"id": "Iron",
+			"amount": 1,
+			"amountPerLevel": 1
+		}
+	]
+}

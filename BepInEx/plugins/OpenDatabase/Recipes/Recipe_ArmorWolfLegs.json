@@ -1,0 +1,24 @@
+{
+	"recipe_id": "Recipe_ArmorWolfLegs",
+	"result_item_id": "ArmorWolfLegs",
+	"result_amount": 1,
+	"CraftingStation": "$piece_forge",
+	"minStationLevel": 2,
+	"ingredients": [
+		{
+			"id": "Silver",
+			"amount": 20,
+			"amountPerLevel": 5
+		},
+		{
+			"id": "WolfPelt",
+			"amount": 5,
+			"amountPerLevel": 2
+		},
+		{
+			"id": "WolfFang",
+			"amount": 4,
+			"amountPerLevel": 1
+		}
+	]
+}

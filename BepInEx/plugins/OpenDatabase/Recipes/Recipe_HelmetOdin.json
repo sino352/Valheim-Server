@@ -1,0 +1,19 @@
+{
+	"recipe_id": "Recipe_HelmetOdin",
+	"result_item_id": "HelmetOdin",
+	"result_amount": 1,
+	"CraftingStation": "$piece_workbench",
+	"minStationLevel": 1,
+	"ingredients": [
+		{
+			"id": "LeatherScraps",
+			"amount": 10,
+			"amountPerLevel": 5
+		},
+		{
+			"id": "Coal",
+			"amount": 4,
+			"amountPerLevel": 2
+		}
+	]
+}

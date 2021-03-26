@@ -1,0 +1,29 @@
+{
+	"recipe_id": "Recipe_BowHuntsman",
+	"result_item_id": "BowHuntsman",
+	"result_amount": 1,
+	"CraftingStation": "$piece_forge",
+	"minStationLevel": 1,
+	"ingredients": [
+		{
+			"id": "FineWood",
+			"amount": 10,
+			"amountPerLevel": 5
+		},
+		{
+			"id": "Iron",
+			"amount": 20,
+			"amountPerLevel": 10
+		},
+		{
+			"id": "Feathers",
+			"amount": 10,
+			"amountPerLevel": 5
+		},
+		{
+			"id": "DeerHide",
+			"amount": 2,
+			"amountPerLevel": 2
+		}
+	]
+}

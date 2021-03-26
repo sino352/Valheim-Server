@@ -1,0 +1,18 @@
+{
+	"recipe_id": "Recipe_AxeStone",
+	"result_item_id": "AxeStone",
+	"result_amount": 1,
+	"RepairStation": "$piece_workbench",
+	"minStationLevel": 1,
+	"ingredients": [
+		{
+			"id": "Wood",
+			"amount": 5
+		},
+		{
+			"id": "Stone",
+			"amount": 4,
+			"amountPerLevel": 2
+		}
+	]
+}

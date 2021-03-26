@@ -1,0 +1,22 @@
+{
+	"recipe_id": "Recipe_KnifeChitin",
+	"result_item_id": "KnifeChitin",
+	"result_amount": 1,
+	"CraftingStation": "$piece_workbench",
+	"minStationLevel": 2,
+	"ingredients": [
+		{
+			"id": "FineWood",
+			"amount": 4
+		},
+		{
+			"id": "Chitin",
+			"amount": 20,
+			"amountPerLevel": 10
+		},
+		{
+			"id": "LeatherScraps",
+			"amount": 2
+		}
+	]
+}

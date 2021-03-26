@@ -1,0 +1,29 @@
+{
+	"recipe_id": "Recipe_SpearWolfFang",
+	"result_item_id": "SpearWolfFang",
+	"result_amount": 1,
+	"CraftingStation": "$piece_forge",
+	"minStationLevel": 3,
+	"ingredients": [
+		{
+			"id": "ElderBark",
+			"amount": 10,
+			"amountPerLevel": 5
+		},
+		{
+			"id": "WolfFang",
+			"amount": 4,
+			"amountPerLevel": 2
+		},
+		{
+			"id": "LeatherScraps",
+			"amount": 2,
+			"amountPerLevel": 1
+		},
+		{
+			"id": "Silver",
+			"amount": 2,
+			"amountPerLevel": 1
+		}
+	]
+}

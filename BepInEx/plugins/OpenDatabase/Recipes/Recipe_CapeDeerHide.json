@@ -1,0 +1,19 @@
+{
+	"recipe_id": "Recipe_CapeDeerHide",
+	"result_item_id": "CapeDeerHide",
+	"result_amount": 1,
+	"CraftingStation": "$piece_workbench",
+	"minStationLevel": 2,
+	"ingredients": [
+		{
+			"id": "DeerHide",
+			"amount": 4,
+			"amountPerLevel": 4
+		},
+		{
+			"id": "BoneFragments",
+			"amount": 5,
+			"amountPerLevel": 5
+		}
+	]
+}

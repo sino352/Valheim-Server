@@ -1,0 +1,24 @@
+{
+	"recipe_id": "Recipe_SerpentStew",
+	"result_item_id": "SerpentStew",
+	"result_amount": 1,
+	"CraftingStation": "$piece_cauldron",
+	"minStationLevel": 1,
+	"ingredients": [
+		{
+			"id": "Mushroom",
+			"amount": 1,
+			"amountPerLevel": 1
+		},
+		{
+			"id": "SerpentMeatCooked",
+			"amount": 1,
+			"amountPerLevel": 1
+		},
+		{
+			"id": "Honey",
+			"amount": 2,
+			"amountPerLevel": 1
+		}
+	]
+}

@@ -1,0 +1,23 @@
+{
+	"recipe_id": "Recipe_AxeBlackMetal",
+	"result_item_id": "AxeBlackMetal",
+	"result_amount": 1,
+	"CraftingStation": "$piece_forge",
+	"minStationLevel": 4,
+	"ingredients": [
+		{
+			"id": "FineWood",
+			"amount": 6
+		},
+		{
+			"id": "BlackMetal",
+			"amount": 20,
+			"amountPerLevel": 10
+		},
+		{
+			"id": "LinenThread",
+			"amount": 5,
+			"amountPerLevel": 5
+		}
+	]
+}

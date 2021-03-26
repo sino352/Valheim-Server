@@ -1,0 +1,326 @@
+
+
+[2021-03-23 14:17:34] Failed to read store 'install' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf.tmp'
+[2021-03-23 14:17:34] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+[2021-03-23 14:17:36] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+[2021-03-23 14:17:40] Failed to read store 'userlocal' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\localconfig.vdf.tmp'
+
+
+[2021-03-23 14:20:30] Loaded store 'install' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf' successfully
+[2021-03-23 14:20:32] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+[2021-03-23 14:20:32] Failed to read store 'userlocal' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\localconfig.vdf.tmp'
+
+
+[2021-03-23 14:23:29] Loaded store 'install' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf' successfully
+[2021-03-23 14:23:31] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+[2021-03-23 14:23:31] Failed to read store 'userlocal' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\localconfig.vdf.tmp'
+
+
+[2021-03-23 14:25:12] Loaded store 'install' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf' successfully
+[2021-03-23 14:25:14] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+[2021-03-23 14:25:14] Failed to read store 'userlocal' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\localconfig.vdf.tmp'
+
+
+[2021-03-23 14:28:22] Loaded store 'install' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf' successfully
+[2021-03-23 14:28:24] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+[2021-03-23 14:28:24] Failed to read store 'userlocal' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\localconfig.vdf.tmp'
+
+
+[2021-03-23 14:36:14] Loaded store 'install' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf' successfully
+[2021-03-23 14:36:15] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+[2021-03-23 14:36:16] Failed to read store 'userlocal' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\localconfig.vdf.tmp'
+
+
+[2021-03-23 14:40:00] Loaded store 'install' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf' successfully
+[2021-03-23 14:40:02] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+[2021-03-23 14:40:02] Failed to read store 'userlocal' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\localconfig.vdf.tmp'
+
+
+[2021-03-23 14:48:10] Loaded store 'install' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf' successfully
+[2021-03-23 14:48:12] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+[2021-03-23 14:48:12] Failed to read store 'userlocal' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\localconfig.vdf.tmp'
+
+
+[2021-03-23 15:04:56] Loaded store 'install' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf' successfully
+[2021-03-23 15:04:58] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+[2021-03-23 15:04:58] Failed to read store 'userlocal' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\localconfig.vdf.tmp'
+
+
+[2021-03-23 15:09:14] Loaded store 'install' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf' successfully
+[2021-03-23 15:09:15] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+[2021-03-23 15:09:16] Failed to read store 'userlocal' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\localconfig.vdf.tmp'
+
+
+[2021-03-23 15:20:29] Loaded store 'install' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf' successfully
+[2021-03-23 15:20:30] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+[2021-03-23 15:20:31] Failed to read store 'userlocal' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\localconfig.vdf.tmp'
+[2021-03-23 15:50:30] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+
+
+[2021-03-23 16:41:15] Loaded store 'install' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf' successfully
+[2021-03-23 16:41:17] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+[2021-03-23 16:41:30] Failed to read store 'userlocal' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\localconfig.vdf.tmp'
+
+
+[2021-03-23 16:54:32] Loaded store 'install' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf' successfully
+[2021-03-23 16:54:33] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+[2021-03-23 16:54:34] Failed to read store 'userlocal' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\localconfig.vdf.tmp'
+[2021-03-23 17:01:42] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+[2021-03-23 17:10:25] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+[2021-03-23 17:10:42] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+
+
+[2021-03-23 17:20:10] Loaded store 'install' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf' successfully
+[2021-03-23 17:20:12] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+[2021-03-23 17:20:12] Failed to read store 'userlocal' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\localconfig.vdf.tmp'
+
+
+[2021-03-23 17:37:25] Loaded store 'install' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf' successfully
+[2021-03-23 17:37:27] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+[2021-03-23 17:37:27] Failed to read store 'userlocal' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\localconfig.vdf.tmp'
+
+
+[2021-03-23 18:16:52] Loaded store 'install' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf' successfully
+[2021-03-23 18:16:53] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+[2021-03-23 18:16:53] Failed to read store 'userlocal' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\localconfig.vdf.tmp'
+
+
+[2021-03-23 18:28:18] Loaded store 'install' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf' successfully
+[2021-03-23 18:28:20] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+[2021-03-23 18:28:20] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+[2021-03-23 18:28:32] Failed to read store 'userlocal' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\localconfig.vdf.tmp'
+[2021-03-23 19:13:02] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+[2021-03-23 19:13:28] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+[2021-03-23 19:13:57] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+[2021-03-23 19:14:09] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+[2021-03-23 19:14:35] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+[2021-03-23 20:33:00] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+[2021-03-23 20:33:21] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+[2021-03-23 20:33:48] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+[2021-03-23 20:33:48] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+[2021-03-23 20:53:12] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+[2021-03-23 20:54:01] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+
+
+[2021-03-23 21:18:00] Loaded store 'install' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf' successfully
+[2021-03-23 21:18:01] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+[2021-03-23 21:18:02] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+[2021-03-23 21:18:02] Failed to read store 'userlocal' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\localconfig.vdf.tmp'
+
+
+[2021-03-23 21:27:31] Loaded store 'install' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf' successfully
+[2021-03-23 21:27:33] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+[2021-03-23 21:27:41] Failed to read store 'userlocal' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\localconfig.vdf.tmp'
+
+
+[2021-03-23 21:30:55] Loaded store 'install' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf' successfully
+[2021-03-23 21:30:57] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+[2021-03-23 21:31:05] Failed to read store 'userlocal' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\localconfig.vdf.tmp'
+
+
+[2021-03-23 21:33:29] Loaded store 'install' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf' successfully
+[2021-03-23 21:33:32] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+[2021-03-23 21:33:44] Failed to read store 'userlocal' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\localconfig.vdf.tmp'
+
+
+[2021-03-23 21:45:11] Loaded store 'install' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf' successfully
+[2021-03-23 21:45:13] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+[2021-03-23 21:45:14] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+[2021-03-23 21:45:26] Failed to read store 'userlocal' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\localconfig.vdf.tmp'
+
+
+[2021-03-23 21:51:13] Loaded store 'install' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf' successfully
+[2021-03-23 21:51:14] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+[2021-03-23 21:51:15] Failed to read store 'userlocal' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\localconfig.vdf.tmp'
+[2021-03-23 22:21:14] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+
+
+[2021-03-23 23:50:41] Loaded store 'install' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf' successfully
+[2021-03-23 23:50:45] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+[2021-03-23 23:50:46] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+[2021-03-23 23:50:59] Failed to read store 'userlocal' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\localconfig.vdf.tmp'
+
+
+[2021-03-24 00:16:41] Loaded store 'install' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf' successfully
+[2021-03-24 00:16:43] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+[2021-03-24 00:16:43] Failed to read store 'userlocal' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\localconfig.vdf.tmp'
+[2021-03-24 01:10:57] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+
+
+[2021-03-24 01:11:39] Loaded store 'install' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf' successfully
+[2021-03-24 01:11:40] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+[2021-03-24 01:11:41] Failed to read store 'userlocal' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\localconfig.vdf.tmp'
+
+
+[2021-03-24 01:20:45] Loaded store 'install' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf' successfully
+[2021-03-24 01:20:47] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+[2021-03-24 01:20:47] Failed to read store 'userlocal' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\localconfig.vdf.tmp'
+
+
+[2021-03-24 01:46:38] Loaded store 'install' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf' successfully
+[2021-03-24 01:46:41] Failed to read store 'userlocal' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\localconfig.vdf.tmp'
+[2021-03-24 01:46:41] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+
+
+[2021-03-24 01:50:27] Loaded store 'install' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf' successfully
+[2021-03-24 01:50:29] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+[2021-03-24 01:50:31] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+[2021-03-24 01:50:46] Failed to read store 'userlocal' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\localconfig.vdf.tmp'
+
+
+[2021-03-24 02:34:18] Loaded store 'install' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf' successfully
+[2021-03-24 02:34:23] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+[2021-03-24 02:34:24] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+[2021-03-24 02:34:41] Failed to read store 'userlocal' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\localconfig.vdf.tmp'
+
+
+[2021-03-24 02:54:34] Loaded store 'install' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf' successfully
+[2021-03-24 02:54:36] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+[2021-03-24 02:54:39] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+[2021-03-24 02:54:53] Failed to read store 'userlocal' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\localconfig.vdf.tmp'
+
+
+[2021-03-24 07:35:58] Loaded store 'install' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf' successfully
+[2021-03-24 07:36:00] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+[2021-03-24 07:36:00] Failed to read store 'userlocal' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\localconfig.vdf.tmp'
+
+
+[2021-03-24 07:41:42] Loaded store 'install' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf' successfully
+[2021-03-24 07:41:45] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+[2021-03-24 07:41:58] Failed to read store 'userlocal' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\localconfig.vdf.tmp'
+[2021-03-24 08:47:31] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+
+
+[2021-03-24 08:48:05] Loaded store 'install' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf' successfully
+[2021-03-24 08:48:08] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+[2021-03-24 08:48:08] Failed to read store 'userlocal' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\localconfig.vdf.tmp'
+
+
+[2021-03-24 09:02:30] Loaded store 'install' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf' successfully
+[2021-03-24 09:02:35] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+[2021-03-24 09:02:36] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+[2021-03-24 09:02:49] Failed to read store 'userlocal' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\localconfig.vdf.tmp'
+
+
+[2021-03-24 10:13:33] Loaded store 'install' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf' successfully
+[2021-03-24 10:13:34] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+[2021-03-24 10:13:35] Failed to read store 'userlocal' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\localconfig.vdf.tmp'
+
+
+[2021-03-24 10:22:31] Loaded store 'install' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf' successfully
+[2021-03-24 10:22:33] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+[2021-03-24 10:22:33] Failed to read store 'userlocal' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\localconfig.vdf.tmp'
+
+
+[2021-03-24 12:25:19] Loaded store 'install' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf' successfully
+[2021-03-24 12:25:24] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+[2021-03-24 12:25:24] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+[2021-03-24 12:25:34] Failed to read store 'userlocal' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\localconfig.vdf.tmp'
+
+
+[2021-03-24 13:10:13] Loaded store 'install' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf' successfully
+[2021-03-24 13:10:17] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+[2021-03-24 13:10:19] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+[2021-03-24 13:10:30] Failed to read store 'userlocal' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\localconfig.vdf.tmp'
+
+
+[2021-03-24 15:15:42] Loaded store 'install' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf' successfully
+[2021-03-24 15:15:44] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+[2021-03-24 15:15:44] Failed to read store 'userlocal' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\localconfig.vdf.tmp'
+
+
+[2021-03-24 15:17:34] Loaded store 'install' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf' successfully
+[2021-03-24 15:17:35] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+[2021-03-24 15:17:36] Failed to read store 'userlocal' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\localconfig.vdf.tmp'
+[2021-03-24 21:11:03] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+
+
+[2021-03-24 21:11:44] Loaded store 'install' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf' successfully
+[2021-03-24 21:11:46] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+[2021-03-24 21:11:46] Failed to read store 'userlocal' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\localconfig.vdf.tmp'
+[2021-03-24 22:14:14] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+
+
+[2021-03-24 22:14:47] Loaded store 'install' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf' successfully
+[2021-03-24 22:14:51] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+[2021-03-24 22:14:52] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+[2021-03-24 22:15:07] Failed to read store 'userlocal' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\localconfig.vdf.tmp'
+
+
+[2021-03-24 23:19:34] Loaded store 'install' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf' successfully
+[2021-03-24 23:19:36] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+[2021-03-24 23:19:37] Failed to read store 'userlocal' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\localconfig.vdf.tmp'
+[2021-03-25 00:35:19] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+
+
+[2021-03-25 00:52:28] Loaded store 'install' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf' successfully
+[2021-03-25 00:52:30] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+[2021-03-25 00:52:30] Failed to read store 'userlocal' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\localconfig.vdf.tmp'
+[2021-03-25 02:00:17] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+
+
+[2021-03-25 02:22:22] Loaded store 'install' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf' successfully
+[2021-03-25 02:22:24] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+[2021-03-25 02:22:25] Failed to read store 'userlocal' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\localconfig.vdf.tmp'
+
+
+[2021-03-25 03:22:21] Loaded store 'install' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf' successfully
+[2021-03-25 03:22:24] Failed to read store 'userlocal' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\localconfig.vdf.tmp'
+[2021-03-25 03:22:24] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+[2021-03-25 14:03:10] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+
+
+[2021-03-25 14:03:37] Loaded store 'install' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf' successfully
+[2021-03-25 14:03:39] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+[2021-03-25 14:03:40] Failed to read store 'userlocal' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\localconfig.vdf.tmp'
+
+
+[2021-03-25 15:56:41] Loaded store 'install' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf' successfully
+[2021-03-25 15:56:42] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+[2021-03-25 15:56:43] Failed to read store 'userlocal' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\localconfig.vdf.tmp'
+
+
+[2021-03-25 17:15:26] Loaded store 'install' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf' successfully
+[2021-03-25 17:15:29] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+[2021-03-25 17:15:29] Failed to read store 'userlocal' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\localconfig.vdf.tmp'
+[2021-03-25 19:04:47] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+
+
+[2021-03-25 19:05:14] Loaded store 'install' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf' successfully
+[2021-03-25 19:05:16] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+[2021-03-25 19:05:17] Failed to read store 'userlocal' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\localconfig.vdf.tmp'
+[2021-03-25 20:19:44] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+
+
+[2021-03-25 20:20:05] Loaded store 'install' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf' successfully
+[2021-03-25 20:20:08] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+[2021-03-25 20:20:08] Failed to read store 'userlocal' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\localconfig.vdf.tmp'
+[2021-03-25 21:02:36] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+
+
+[2021-03-25 21:03:05] Loaded store 'install' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf' successfully
+[2021-03-25 21:03:08] Failed to read store 'userlocal' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\localconfig.vdf.tmp'
+[2021-03-25 21:03:08] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+[2021-03-26 01:54:18] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+
+
+[2021-03-26 01:55:37] Loaded store 'install' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf' successfully
+[2021-03-26 01:55:40] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+[2021-03-26 01:55:40] Failed to read store 'userlocal' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\localconfig.vdf.tmp'
+
+
+[2021-03-26 02:25:13] Loaded store 'install' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf' successfully
+[2021-03-26 02:25:15] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+[2021-03-26 02:25:16] Failed to read store 'userlocal' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\localconfig.vdf.tmp'
+
+
+[2021-03-26 02:48:19] Loaded store 'install' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf' successfully
+[2021-03-26 02:48:21] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+[2021-03-26 02:48:22] Failed to read store 'userlocal' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\localconfig.vdf.tmp'
+[2021-03-26 03:26:51] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+
+
+[2021-03-26 03:30:50] Loaded store 'install' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf' successfully
+[2021-03-26 03:30:52] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'
+[2021-03-26 03:30:53] Failed to read store 'userlocal' from 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\localconfig.vdf.tmp'
+[2021-03-26 17:22:39] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\Valheim dedicated server\config\config.vdf'

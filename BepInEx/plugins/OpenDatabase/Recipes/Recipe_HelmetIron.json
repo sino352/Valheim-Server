@@ -1,0 +1,18 @@
+{
+	"recipe_id": "Recipe_HelmetIron",
+	"result_item_id": "HelmetIron",
+	"result_amount": 1,
+	"CraftingStation": "$piece_forge",
+	"minStationLevel": 1,
+	"ingredients": [
+		{
+			"id": "Iron",
+			"amount": 20,
+			"amountPerLevel": 5
+		},
+		{
+			"id": "DeerHide",
+			"amount": 2
+		}
+	]
+}

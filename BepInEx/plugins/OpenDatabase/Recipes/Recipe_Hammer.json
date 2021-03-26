@@ -1,0 +1,19 @@
+{
+	"recipe_id": "Recipe_Hammer",
+	"result_item_id": "Hammer",
+	"result_amount": 1,
+	"RepairStation": "$piece_workbench",
+	"minStationLevel": 1,
+	"ingredients": [
+		{
+			"id": "Wood",
+			"amount": 3,
+			"amountPerLevel": 1
+		},
+		{
+			"id": "Stone",
+			"amount": 2,
+			"amountPerLevel": 1
+		}
+	]
+}

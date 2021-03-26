@@ -1,0 +1,19 @@
+{
+	"recipe_id": "Recipe_Tankard",
+	"result_item_id": "Tankard",
+	"result_amount": 1,
+	"CraftingStation": "$piece_workbench",
+	"minStationLevel": 1,
+	"ingredients": [
+		{
+			"id": "FineWood",
+			"amount": 5,
+			"amountPerLevel": 1
+		},
+		{
+			"id": "Resin",
+			"amount": 2,
+			"amountPerLevel": 1
+		}
+	]
+}

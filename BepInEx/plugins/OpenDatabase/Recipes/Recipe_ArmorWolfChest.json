@@ -1,0 +1,23 @@
+{
+	"recipe_id": "Recipe_ArmorWolfChest",
+	"result_item_id": "ArmorWolfChest",
+	"result_amount": 1,
+	"CraftingStation": "$piece_forge",
+	"minStationLevel": 2,
+	"ingredients": [
+		{
+			"id": "Silver",
+			"amount": 20,
+			"amountPerLevel": 5
+		},
+		{
+			"id": "WolfPelt",
+			"amount": 5,
+			"amountPerLevel": 2
+		},
+		{
+			"id": "Chain",
+			"amount": 1
+		}
+	]
+}

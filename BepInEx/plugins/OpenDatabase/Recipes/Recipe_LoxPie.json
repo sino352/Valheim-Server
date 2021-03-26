@@ -1,0 +1,24 @@
+{
+	"recipe_id": "Recipe_LoxPie",
+	"result_item_id": "LoxPie",
+	"result_amount": 1,
+	"CraftingStation": "$piece_cauldron",
+	"minStationLevel": 1,
+	"ingredients": [
+		{
+			"id": "Cloudberry",
+			"amount": 2,
+			"amountPerLevel": 1
+		},
+		{
+			"id": "CookedLoxMeat",
+			"amount": 2,
+			"amountPerLevel": 1
+		},
+		{
+			"id": "BarleyFlour",
+			"amount": 4,
+			"amountPerLevel": 1
+		}
+	]
+}

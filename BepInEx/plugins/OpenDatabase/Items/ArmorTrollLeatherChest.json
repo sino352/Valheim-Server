@@ -1,0 +1,24 @@
+{
+	"name": "ArmorTrollLeatherChest",
+	"itemData": {
+		"m_name": "$item_chest_trollleather",
+		"m_description": "$item_chest_trollleather_description",
+		"m_weight": 5,
+		"m_maxStackSize": 1,
+		"m_armor": 6,
+		"m_armorPerLevel": 2,
+		"m_blockPower": 10,
+		"m_canBeReparied": true,
+		"m_timedBlockBonus": 1.5,
+		"m_destroyBroken": false,
+		"m_dodgeable": false,
+		"m_maxDurability": 500,
+		"m_durabilityPerLevel": 200,
+		"m_equipDuration": 2,
+		"m_maxQuality": 4,
+		"m_useDurability": true,
+		"m_useDurabilityDrain": 1,
+		"m_questItem": false,
+		"m_teleportable": true
+	}
+}

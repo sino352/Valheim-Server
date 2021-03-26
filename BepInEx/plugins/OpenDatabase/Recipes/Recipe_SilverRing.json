@@ -1,0 +1,14 @@
+{
+	"recipe_id": "Recipe_SilverRing",
+	"result_item_id": "SilverRing",
+	"result_amount": 1,
+	"CraftingStation": "$piece_forge",
+	"minStationLevel": 1,
+	"ingredients": [
+		{
+			"id": "Silver",
+			"amount": 1,
+			"amountPerLevel": 1
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"recipe_id": "Recipe_BronzeNails",
+	"result_item_id": "BronzeNails",
+	"result_amount": 20,
+	"CraftingStation": "$piece_forge",
+	"minStationLevel": 1,
+	"ingredients": [
+		{
+			"id": "Bronze",
+			"amount": 1,
+			"amountPerLevel": 1
+		}
+	]
+}

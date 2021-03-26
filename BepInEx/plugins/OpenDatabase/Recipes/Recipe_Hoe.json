@@ -1,0 +1,19 @@
+{
+	"recipe_id": "Recipe_Hoe",
+	"result_item_id": "Hoe",
+	"result_amount": 1,
+	"CraftingStation": "$piece_workbench",
+	"minStationLevel": 1,
+	"ingredients": [
+		{
+			"id": "Wood",
+			"amount": 5,
+			"amountPerLevel": 1
+		},
+		{
+			"id": "Stone",
+			"amount": 2,
+			"amountPerLevel": 1
+		}
+	]
+}

@@ -1,0 +1,18 @@
+{
+	"recipe_id": "Recipe_ReagentRareUpgrade",
+	"result_item_id": "ReagentRare",
+	"result_amount": 1,
+	"minStationLevel": 1,
+	"ingredients": [
+		{
+			"id": "ReagentMagic",
+			"amount": 5,
+			"amountPerLevel": 1
+		},
+		{
+			"id": "Coins",
+			"amount": 1,
+			"amountPerLevel": 1
+		}
+	]
+}

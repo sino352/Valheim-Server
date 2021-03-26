@@ -1,0 +1,29 @@
+{
+	"recipe_id": "Recipe_ArrowFrost",
+	"result_item_id": "ArrowFrost",
+	"result_amount": 20,
+	"CraftingStation": "$piece_workbench",
+	"minStationLevel": 4,
+	"ingredients": [
+		{
+			"id": "Wood",
+			"amount": 8,
+			"amountPerLevel": 1
+		},
+		{
+			"id": "Obsidian",
+			"amount": 4,
+			"amountPerLevel": 1
+		},
+		{
+			"id": "Feathers",
+			"amount": 2,
+			"amountPerLevel": 1
+		},
+		{
+			"id": "FreezeGland",
+			"amount": 1,
+			"amountPerLevel": 1
+		}
+	]
+}

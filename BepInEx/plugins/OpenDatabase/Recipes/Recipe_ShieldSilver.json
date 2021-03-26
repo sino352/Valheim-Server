@@ -1,0 +1,19 @@
+{
+	"recipe_id": "Recipe_ShieldSilver",
+	"result_item_id": "ShieldSilver",
+	"result_amount": 1,
+	"CraftingStation": "$piece_forge",
+	"minStationLevel": 3,
+	"ingredients": [
+		{
+			"id": "FineWood",
+			"amount": 10,
+			"amountPerLevel": 10
+		},
+		{
+			"id": "Silver",
+			"amount": 8,
+			"amountPerLevel": 4
+		}
+	]
+}

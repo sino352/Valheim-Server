@@ -1,0 +1,33 @@
+{
+	"name": "AxeStone",
+	"itemData": {
+		"m_name": "$item_axe_stone",
+		"m_description": "\u0016$item_axe_stone_description",
+		"m_weight": 1.5,
+		"m_maxStackSize": 1,
+		"m_armor": 20,
+		"m_armorPerLevel": 1,
+		"m_blockPower": 10,
+		"m_canBeReparied": true,
+		"m_damages": {
+			"m_chop": 20,
+			"m_slash": 15
+		},
+		"m_damagesPerLevel": {
+			"m_chop": 3,
+			"m_slash": 5
+		},
+		"m_timedBlockBonus": 2,
+		"m_deflectionForce": 20,
+		"m_deflectionForcePerLevel": 5,
+		"m_destroyBroken": false,
+		"m_dodgeable": true,
+		"m_maxDurability": 100,
+		"m_durabilityPerLevel": 30,
+		"m_maxQuality": 4,
+		"m_useDurability": true,
+		"m_useDurabilityDrain": 1,
+		"m_questItem": false,
+		"m_teleportable": true
+	}
+}

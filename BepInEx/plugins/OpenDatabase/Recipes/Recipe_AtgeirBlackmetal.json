@@ -1,0 +1,23 @@
+{
+	"recipe_id": "Recipe_AtgeirBlackmetal",
+	"result_item_id": "AtgeirBlackmetal",
+	"result_amount": 1,
+	"CraftingStation": "$piece_forge",
+	"minStationLevel": 4,
+	"ingredients": [
+		{
+			"id": "FineWood",
+			"amount": 10
+		},
+		{
+			"id": "BlackMetal",
+			"amount": 30,
+			"amountPerLevel": 15
+		},
+		{
+			"id": "LinenThread",
+			"amount": 5,
+			"amountPerLevel": 5
+		}
+	]
+}

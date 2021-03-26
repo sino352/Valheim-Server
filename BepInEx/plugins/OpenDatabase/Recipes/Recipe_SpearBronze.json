@@ -1,0 +1,24 @@
+{
+	"recipe_id": "Recipe_SpearBronze",
+	"result_item_id": "SpearBronze",
+	"result_amount": 1,
+	"CraftingStation": "$piece_forge",
+	"minStationLevel": 1,
+	"ingredients": [
+		{
+			"id": "Wood",
+			"amount": 5,
+			"amountPerLevel": 3
+		},
+		{
+			"id": "Bronze",
+			"amount": 6,
+			"amountPerLevel": 4
+		},
+		{
+			"id": "DeerHide",
+			"amount": 2,
+			"amountPerLevel": 1
+		}
+	]
+}

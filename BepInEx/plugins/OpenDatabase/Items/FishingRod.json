@@ -1,0 +1,31 @@
+{
+	"name": "FishingRod",
+	"itemData": {
+		"m_name": "$item_fishingrod",
+		"m_description": "$item_fishingrod_description",
+		"m_weight": 1.5,
+		"m_maxStackSize": 1,
+		"m_armor": 15,
+		"m_armorPerLevel": 1,
+		"m_blockPower": 5,
+		"m_canBeReparied": true,
+		"m_damages": {
+			"m_blunt": 5
+		},
+		"m_damagesPerLevel": {
+			"m_pierce": 2
+		},
+		"m_timedBlockBonus": 1.5,
+		"m_destroyBroken": false,
+		"m_dodgeable": true,
+		"m_maxDurability": 100,
+		"m_durabilityPerLevel": 50,
+		"m_holdDurationMin": 1,
+		"m_holdStaminaDrain": 5,
+		"m_maxQuality": 1,
+		"m_useDurability": false,
+		"m_useDurabilityDrain": 1,
+		"m_questItem": false,
+		"m_teleportable": true
+	}
+}

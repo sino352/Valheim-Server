@@ -1,0 +1,31 @@
+{
+	"name": "SledgeIron",
+	"itemData": {
+		"m_name": "$item_sledge_iron",
+		"m_description": "$item_sledge_iron_description",
+		"m_weight": 4,
+		"m_maxStackSize": 1,
+		"m_armor": 20,
+		"m_armorPerLevel": 1,
+		"m_blockPower": 15,
+		"m_canBeReparied": true,
+		"m_damages": {
+			"m_blunt": 55
+		},
+		"m_damagesPerLevel": {
+			"m_blunt": 6
+		},
+		"m_timedBlockBonus": 2,
+		"m_deflectionForce": 50,
+		"m_deflectionForcePerLevel": 10,
+		"m_destroyBroken": false,
+		"m_dodgeable": true,
+		"m_maxDurability": 100,
+		"m_durabilityPerLevel": 50,
+		"m_maxQuality": 4,
+		"m_useDurability": true,
+		"m_useDurabilityDrain": 1,
+		"m_questItem": false,
+		"m_teleportable": true
+	}
+}

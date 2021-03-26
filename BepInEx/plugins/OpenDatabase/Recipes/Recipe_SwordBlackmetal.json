@@ -1,0 +1,23 @@
+{
+	"recipe_id": "Recipe_SwordBlackmetal",
+	"result_item_id": "SwordBlackmetal",
+	"result_amount": 1,
+	"CraftingStation": "$piece_forge",
+	"minStationLevel": 4,
+	"ingredients": [
+		{
+			"id": "FineWood",
+			"amount": 2
+		},
+		{
+			"id": "BlackMetal",
+			"amount": 20,
+			"amountPerLevel": 10
+		},
+		{
+			"id": "LinenThread",
+			"amount": 5,
+			"amountPerLevel": 5
+		}
+	]
+}

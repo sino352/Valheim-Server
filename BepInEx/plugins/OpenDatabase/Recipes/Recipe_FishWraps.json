@@ -1,0 +1,19 @@
+{
+	"recipe_id": "Recipe_FishWraps",
+	"result_item_id": "FishWraps",
+	"result_amount": 1,
+	"CraftingStation": "$piece_cauldron",
+	"minStationLevel": 1,
+	"ingredients": [
+		{
+			"id": "FishCooked",
+			"amount": 2,
+			"amountPerLevel": 1
+		},
+		{
+			"id": "BarleyFlour",
+			"amount": 4,
+			"amountPerLevel": 1
+		}
+	]
+}

@@ -1,0 +1,19 @@
+{
+	"recipe_id": "Recipe_ShieldBronzeBuckler",
+	"result_item_id": "ShieldBronzeBuckler",
+	"result_amount": 1,
+	"CraftingStation": "$piece_forge",
+	"minStationLevel": 1,
+	"ingredients": [
+		{
+			"id": "Bronze",
+			"amount": 10,
+			"amountPerLevel": 5
+		},
+		{
+			"id": "Wood",
+			"amount": 4,
+			"amountPerLevel": 1
+		}
+	]
+}

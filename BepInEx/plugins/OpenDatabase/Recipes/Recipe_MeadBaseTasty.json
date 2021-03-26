@@ -1,0 +1,24 @@
+{
+	"recipe_id": "Recipe_MeadBaseTasty",
+	"result_item_id": "MeadBaseTasty",
+	"result_amount": 1,
+	"CraftingStation": "$piece_cauldron",
+	"minStationLevel": 1,
+	"ingredients": [
+		{
+			"id": "Honey",
+			"amount": 10,
+			"amountPerLevel": 1
+		},
+		{
+			"id": "Raspberry",
+			"amount": 10,
+			"amountPerLevel": 1
+		},
+		{
+			"id": "Blueberries",
+			"amount": 5,
+			"amountPerLevel": 1
+		}
+	]
+}

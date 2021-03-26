@@ -1,0 +1,18 @@
+{
+	"recipe_id": "Recipe_Torch",
+	"result_item_id": "Torch",
+	"result_amount": 1,
+	"minStationLevel": 1,
+	"ingredients": [
+		{
+			"id": "Wood",
+			"amount": 1,
+			"amountPerLevel": 1
+		},
+		{
+			"id": "Resin",
+			"amount": 1,
+			"amountPerLevel": 1
+		}
+	]
+}

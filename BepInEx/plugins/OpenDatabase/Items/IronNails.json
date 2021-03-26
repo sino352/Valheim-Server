@@ -1,0 +1,23 @@
+{
+	"name": "IronNails",
+	"itemData": {
+		"m_name": "$item_ironnails",
+		"m_description": "$item_ironnails_description",
+		"m_maxStackSize": 100,
+		"m_armor": 10,
+		"m_armorPerLevel": 1,
+		"m_blockPower": 10,
+		"m_canBeReparied": true,
+		"m_timedBlockBonus": 1.5,
+		"m_destroyBroken": true,
+		"m_dodgeable": false,
+		"m_maxDurability": 100,
+		"m_durabilityPerLevel": 50,
+		"m_equipDuration": 1,
+		"m_maxQuality": 1,
+		"m_useDurability": false,
+		"m_useDurabilityDrain": 1,
+		"m_questItem": false,
+		"m_teleportable": true
+	}
+}

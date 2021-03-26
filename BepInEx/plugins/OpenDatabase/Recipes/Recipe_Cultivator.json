@@ -1,0 +1,19 @@
+{
+	"recipe_id": "Recipe_Cultivator",
+	"result_item_id": "Cultivator",
+	"result_amount": 1,
+	"CraftingStation": "$piece_forge",
+	"minStationLevel": 1,
+	"ingredients": [
+		{
+			"id": "RoundLog",
+			"amount": 5,
+			"amountPerLevel": 1
+		},
+		{
+			"id": "Bronze",
+			"amount": 5,
+			"amountPerLevel": 1
+		}
+	]
+}

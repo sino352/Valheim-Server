@@ -1,0 +1,29 @@
+{
+	"name": "PickaxeAntler",
+	"itemData": {
+		"m_name": "$item_pickaxe_antler",
+		"m_description": "$item_pickaxe_antler_description",
+		"m_weight": 2,
+		"m_maxStackSize": 1,
+		"m_armor": 20,
+		"m_armorPerLevel": 1,
+		"m_blockPower": 10,
+		"m_canBeReparied": true,
+		"m_damages": {
+			"m_pickaxe": 18,
+			"m_pierce": 18
+		},
+		"m_timedBlockBonus": 2,
+		"m_deflectionForce": 20,
+		"m_deflectionForcePerLevel": 5,
+		"m_destroyBroken": false,
+		"m_dodgeable": true,
+		"m_maxDurability": 100,
+		"m_durabilityPerLevel": 50,
+		"m_maxQuality": 1,
+		"m_useDurability": true,
+		"m_useDurabilityDrain": 1,
+		"m_questItem": false,
+		"m_teleportable": true
+	}
+}

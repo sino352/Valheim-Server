@@ -1,0 +1,29 @@
+{
+	"recipe_id": "Recipe_SwordSilver",
+	"result_item_id": "SwordSilver",
+	"result_amount": 1,
+	"CraftingStation": "$piece_forge",
+	"minStationLevel": 3,
+	"ingredients": [
+		{
+			"id": "Wood",
+			"amount": 2,
+			"amountPerLevel": 1
+		},
+		{
+			"id": "Silver",
+			"amount": 40,
+			"amountPerLevel": 20
+		},
+		{
+			"id": "LeatherScraps",
+			"amount": 3,
+			"amountPerLevel": 1
+		},
+		{
+			"id": "Iron",
+			"amount": 5,
+			"amountPerLevel": 3
+		}
+	]
+}

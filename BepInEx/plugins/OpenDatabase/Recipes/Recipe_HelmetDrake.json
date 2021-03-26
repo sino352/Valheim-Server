@@ -1,0 +1,22 @@
+{
+	"recipe_id": "Recipe_HelmetDrake",
+	"result_item_id": "HelmetDrake",
+	"result_amount": 1,
+	"CraftingStation": "$piece_forge",
+	"minStationLevel": 1,
+	"ingredients": [
+		{
+			"id": "Silver",
+			"amount": 20,
+			"amountPerLevel": 5
+		},
+		{
+			"id": "WolfPelt",
+			"amount": 2
+		},
+		{
+			"id": "TrophyHatchling",
+			"amount": 2
+		}
+	]
+}

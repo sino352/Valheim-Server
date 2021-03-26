@@ -1,0 +1,18 @@
+{
+	"recipe_id": "Recipe_CapeLinen",
+	"result_item_id": "CapeLinen",
+	"result_amount": 1,
+	"CraftingStation": "$piece_workbench",
+	"minStationLevel": 2,
+	"ingredients": [
+		{
+			"id": "LinenThread",
+			"amount": 20,
+			"amountPerLevel": 4
+		},
+		{
+			"id": "Silver",
+			"amount": 1
+		}
+	]
+}

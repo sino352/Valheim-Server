@@ -1,0 +1,23 @@
+{
+	"recipe_id": "Recipe_CapeWolf",
+	"result_item_id": "CapeWolf",
+	"result_amount": 1,
+	"CraftingStation": "$piece_workbench",
+	"minStationLevel": 2,
+	"ingredients": [
+		{
+			"id": "WolfPelt",
+			"amount": 6,
+			"amountPerLevel": 4
+		},
+		{
+			"id": "Silver",
+			"amount": 4,
+			"amountPerLevel": 2
+		},
+		{
+			"id": "TrophyWolf",
+			"amount": 1
+		}
+	]
+}

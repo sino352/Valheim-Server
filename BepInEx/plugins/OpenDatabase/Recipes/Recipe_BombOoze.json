@@ -1,0 +1,24 @@
+{
+	"recipe_id": "Recipe_BombOoze",
+	"result_item_id": "BombOoze",
+	"result_amount": 5,
+	"CraftingStation": "$piece_workbench",
+	"minStationLevel": 1,
+	"ingredients": [
+		{
+			"id": "LeatherScraps",
+			"amount": 5,
+			"amountPerLevel": 1
+		},
+		{
+			"id": "Ooze",
+			"amount": 10,
+			"amountPerLevel": 2
+		},
+		{
+			"id": "Resin",
+			"amount": 3,
+			"amountPerLevel": 2
+		}
+	]
+}

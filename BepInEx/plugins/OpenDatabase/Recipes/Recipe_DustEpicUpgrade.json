@@ -1,0 +1,18 @@
+{
+	"recipe_id": "Recipe_DustEpicUpgrade",
+	"result_item_id": "DustEpic",
+	"result_amount": 1,
+	"minStationLevel": 1,
+	"ingredients": [
+		{
+			"id": "DustRare",
+			"amount": 5,
+			"amountPerLevel": 1
+		},
+		{
+			"id": "Coins",
+			"amount": 15,
+			"amountPerLevel": 1
+		}
+	]
+}

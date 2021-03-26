@@ -1,0 +1,34 @@
+{
+	"name": "troll_log_swing_h",
+	"itemData": {
+		"m_name": "LOG",
+		"m_description": "",
+		"m_weight": 1,
+		"m_maxStackSize": 1,
+		"m_armor": 20,
+		"m_armorPerLevel": 1,
+		"m_blockPower": 25,
+		"m_canBeReparied": true,
+		"m_damages": {
+			"m_blunt": 60,
+			"m_chop": 100,
+			"m_pickaxe": 40
+		},
+		"m_damagesPerLevel": {
+			"m_chop": 1,
+			"m_slash": 2
+		},
+		"m_timedBlockBonus": 1.5,
+		"m_destroyBroken": true,
+		"m_dodgeable": true,
+		"m_maxDurability": 100,
+		"m_durabilityPerLevel": 50,
+		"m_equipDuration": 1,
+		"m_maxQuality": 1,
+		"m_useDurability": false,
+		"m_useDurabilityDrain": 1,
+		"m_questItem": false,
+		"m_teleportable": true,
+		"m_toolTier": 2
+	}
+}

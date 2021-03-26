@@ -1,0 +1,29 @@
+{
+	"recipe_id": "Recipe_BowDraugrFang",
+	"result_item_id": "BowDraugrFang",
+	"result_amount": 1,
+	"CraftingStation": "$piece_forge",
+	"minStationLevel": 2,
+	"ingredients": [
+		{
+			"id": "ElderBark",
+			"amount": 10,
+			"amountPerLevel": 5
+		},
+		{
+			"id": "Silver",
+			"amount": 20,
+			"amountPerLevel": 10
+		},
+		{
+			"id": "DeerHide",
+			"amount": 2,
+			"amountPerLevel": 2
+		},
+		{
+			"id": "Guck",
+			"amount": 10,
+			"amountPerLevel": 2
+		}
+	]
+}

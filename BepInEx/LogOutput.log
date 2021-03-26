@@ -1,0 +1,2138 @@
+﻿[Message:   BepInEx] BepInEx 5.4.8.0 - valheim_server
+[Info   :   BepInEx] Running under Unity v2019.4.20.7197120
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.MonoMod.HookGenPatcher 1.1.0.0]
+[Info   :   BepInEx] 2 patcher plugins loaded
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 36 plugins to load
+[Warning:   BepInEx] Skipping [SaveSystemAdditions 1.0.0] because of process filters (valheim.exe)
+[Warning:   BepInEx] Skipping [Faster Teleportation 0.3.1.0] because of process filters (valheim.exe)
+[Warning:   BepInEx] Skipping [Locate Merchant 1.0.0] because of process filters (valheim.exe)
+[Warning:   BepInEx] Skipping [ValheimFaveServers 1.0.1] because of process filters (valheim.exe)
+[Info   :   BepInEx] Loading [Craft From Containers 1.9.0]
+[Info   :   BepInEx] Loading [Custom Textures 2.0.1]
+[Info   :   BepInEx] Loading [Enable Console 0.1.0]
+[Info   :   BepInEx] Loading [Instant Monster Drop 0.2.1]
+[Info   :   BepInEx] Loading [Nexus Update 1.1.1]
+[Info   :   BepInEx] Loading [Tree Respawn 0.5.0]
+[Info   :   BepInEx] Loading [OpenDatabase 1.0]
+[Info   :   BepInEx] Loading [FloatingItems 1.0.0]
+[Info   :   BepInEx] Loading [Configuration Manager 16.1]
+[Info   :   BepInEx] Loading [SimpleRecycling 0.0.13]
+[Info   :   BepInEx] Loading [Valheim Quality of Life 1.1.3]
+[Info   :   BepInEx] Loading [SkillInjectorMod 1.1.1]
+[Info   :   BepInEx] Loading [Mod Config Enforcer 1.4.1]
+[Info   :   BepInEx] Loading [GatheringSkillMod 2.0.2]
+[Info   : Unity Log] [GatheringMod] Mod Config Enforcer detected, registering mod...
+[Error  : Unity Log] Unable to load skill icon! Make sure you place the gathering.png file in the plugins directory!
+[Error  :   BepInEx] Could not load [GatheringSkillCropReplantCompatibilityMod 1.0.0] because it has missing dependencies: com.github.johndowson.CropReplant
+[Info   :   BepInEx] Loading [ServerSideMap 1.2.1.0]
+[Info   :   BepInEx] Loading [BlacksmithTools 1.0.1]
+[Info   :   BepInEx] Loading [PlateArmor 1.0.2]
+[Info   :   BepInEx] Loading [BetterUI 1.6.4]
+[Info   :   BepInEx] Loading [StorageUtils 1.0.0]
+[Info   :   BepInEx] Loading [Better Discord Presence 1.3.1]
+[Info   : Unity Log] [BetterDiscordPresence] Getting Ready
+[Info   : Unity Log] [BetterDiscordPresence] Getting ready to patch!
+[Info   : Unity Log] [BetterDiscordPresence] Patch complete!
+[Info   : Unity Log] [BetterDiscordPresence] DiscordRPC Init
+[Info   :   BepInEx] Loading [Creature Level & Loot Control 2.5.1]
+[Info   :   BepInEx] Loading [Valheim Plus 0.9.6]
+[Info   :Valheim Plus] Trying to load the configuration file
+[Info   : Unity Log] Loading config section AdvancedBuildingMode
+[Info   : Unity Log]  Loading key enterAdvancedBuildingMode
+[Info   : Unity Log]  Loading key exitAdvancedBuildingMode
+[Info   : Unity Log]  Loading key copyObjectRotation
+[Info   : Unity Log]  Loading key pasteObjectRotation
+[Info   : Unity Log]  Loading key increaseScrollSpeed
+[Info   : Unity Log]  Loading key decreaseScrollSpeed
+[Info   : Unity Log] Loading config section AdvancedEditingMode
+[Info   : Unity Log]  Loading key enterAdvancedEditingMode
+[Info   : Unity Log]  Loading key resetAdvancedEditingMode
+[Info   : Unity Log]  Loading key abortAndExitAdvancedEditingMode
+[Info   : Unity Log]  Loading key confirmPlacementOfAdvancedEditingMode
+[Info   : Unity Log]  Loading key copyObjectRotation
+[Info   : Unity Log]  Loading key pasteObjectRotation
+[Info   : Unity Log]  Loading key increaseScrollSpeed
+[Info   : Unity Log]  Loading key decreaseScrollSpeed
+[Info   : Unity Log] Loading config section Beehive
+[Info   : Unity Log]  Loading key honeyProductionSpeed
+[Info   : Unity Log]  Loading key maximumHoneyPerBeehive
+[Info   : Unity Log]  Loading key autoDeposit
+[Info   : Unity Log]  Loading key autoDepositRange
+[Info   : Unity Log]  Loading key showDuration
+[Info   : Unity Log] Loading config section Building
+[Info   : Unity Log]  Loading key noInvalidPlacementRestriction
+[Info   : Unity Log]  Loading key noMysticalForcesPreventPlacementRestriction
+[Info   : Unity Log]  Loading key noWeatherDamage
+[Info   : Unity Log]  Loading key maximumPlacementDistance
+[Info   : Unity Log]  Loading key pieceComfortRadius
+[Info   : Unity Log]  Loading key alwaysDropResources
+[Info   : Unity Log]  Loading key alwaysDropExcludedResources
+[Info   : Unity Log]  Loading key enableAreaRepair
+[Info   : Unity Log]  Loading key areaRepairRadius
+[Info   : Unity Log] Loading config section Deconstruct
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Inventory
+[Info   : Unity Log]  Loading key inventoryFillTopToBottom
+[Info   : Unity Log]  Loading key playerInventoryRows
+[Info   : Unity Log]  Loading key woodChestColumns
+[Info   : Unity Log]  Loading key woodChestRows
+[Info   : Unity Log]  Loading key personalChestColumns
+[Info   : Unity Log]  Loading key personalChestRows
+[Info   : Unity Log]  Loading key ironChestColumns
+[Info   : Unity Log]  Loading key ironChestRows
+[Info   : Unity Log]  Loading key cartInventoryColumns
+[Info   : Unity Log]  Loading key cartInventoryRows
+[Info   : Unity Log]  Loading key karveInventoryColumns
+[Info   : Unity Log]  Loading key karveInventoryRows
+[Info   : Unity Log]  Loading key longboatInventoryColumns
+[Info   : Unity Log]  Loading key longboatInventoryRows
+[Info   : Unity Log] Loading config section Items
+[Info   : Unity Log]  Loading key noTeleportPrevention
+[Info   : Unity Log]  Loading key baseItemWeightReduction
+[Info   : Unity Log]  Loading key itemStackMultiplier
+[Info   : Unity Log]  Loading key droppedItemOnGroundDurationInSeconds
+[Info   : Unity Log] Loading config section Fermenter
+[Info   : Unity Log]  Loading key fermenterDuration
+[Info   : Unity Log]  Loading key fermenterItemsProduced
+[Info   : Unity Log]  Loading key showDuration
+[Info   : Unity Log] Loading config section FireSource
+[Info   : Unity Log]  Loading key torches
+[Info   : Unity Log]  Loading key fires
+[Info   : Unity Log]  Loading key autoFuel
+[Info   : Unity Log]  Loading key ignorePrivateAreaCheck
+[Info   : Unity Log]  Loading key autoRange
+[Info   : Unity Log] Loading config section Food
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Smelter
+[Info   : Unity Log]  Loading key maximumOre
+[Info   : Unity Log]  Loading key maximumCoal
+[Info   : Unity Log]  Loading key coalUsedPerProduct
+[Info   : Unity Log]  Loading key productionSpeed
+[Info   : Unity Log]  Loading key autoDeposit
+[Info   : Unity Log]  Loading key autoFuel
+[Info   : Unity Log]  Loading key ignorePrivateAreaCheck
+[Info   : Unity Log]  Loading key autoRange
+[Info   : Unity Log] Loading config section Furnace
+[Info   : Unity Log]  Loading key maximumOre
+[Info   : Unity Log]  Loading key maximumCoal
+[Info   : Unity Log]  Loading key coalUsedPerProduct
+[Info   : Unity Log]  Loading key productionSpeed
+[Info   : Unity Log]  Loading key autoDeposit
+[Info   : Unity Log]  Loading key autoFuel
+[Info   : Unity Log]  Loading key ignorePrivateAreaCheck
+[Info   : Unity Log]  Loading key autoRange
+[Info   : Unity Log] Loading config section Hotkeys
+[Info   : Unity Log]  Loading key rollForwards
+[Info   : Unity Log]  Loading key rollBackwards
+[Info   : Unity Log] Loading config section Kiln
+[Info   : Unity Log]  Loading key productionSpeed
+[Info   : Unity Log]  Loading key maximumWood
+[Info   : Unity Log]  Loading key autoDeposit
+[Info   : Unity Log]  Loading key autoFuel
+[Info   : Unity Log]  Key ignorePrivateAreaCheck not defined, using default value
+[Info   : Unity Log]  Loading key autoRange
+[Info   : Unity Log] Loading config section Map
+[Info   : Unity Log]  Loading key shareMapProgression
+[Info   : Unity Log]  Loading key exploreRadius
+[Info   : Unity Log]  Loading key preventPlayerFromTurningOffPublicPosition
+[Info   : Unity Log] Loading config section Player
+[Info   : Unity Log]  Loading key baseMaximumWeight
+[Info   : Unity Log]  Loading key baseMegingjordBuff
+[Info   : Unity Log]  Loading key baseAutoPickUpRange
+[Info   : Unity Log]  Loading key disableCameraShake
+[Info   : Unity Log]  Loading key baseUnarmedDamage
+[Info   : Unity Log]  Loading key cropNotifier
+[Info   : Unity Log]  Loading key restSecondsPerComfortLevel
+[Info   : Unity Log]  Loading key deathPenaltyMultiplier
+[Info   : Unity Log]  Loading key autoRepair
+[Info   : Unity Log]  Loading key guardianBuffDuration
+[Info   : Unity Log]  Loading key guardianBuffCooldown
+[Info   : Unity Log]  Loading key disableGuardianBuffAnimation
+[Info   : Unity Log]  Loading key autoEquipShield
+[Info   : Unity Log] Loading config section Server
+[Info   : Unity Log]  Loading key maxPlayers
+[Info   : Unity Log]  Loading key disableServerPassword
+[Info   : Unity Log]  Loading key enforceMod
+[Info   : Unity Log]  Loading key serverSyncsConfig
+[Info   : Unity Log]  Loading key serverSyncHotkeys
+[Info   : Unity Log] Loading config section Stamina
+[Info   : Unity Log]  Loading key dodgeStaminaUsage
+[Info   : Unity Log]  Loading key encumberedStaminaDrain
+[Info   : Unity Log]  Loading key jumpStaminaDrain
+[Info   : Unity Log]  Loading key runStaminaDrain
+[Info   : Unity Log]  Loading key sneakStaminaDrain
+[Info   : Unity Log]  Loading key staminaRegen
+[Info   : Unity Log]  Loading key staminaRegenDelay
+[Info   : Unity Log]  Loading key swimStaminaDrain
+[Info   : Unity Log] Loading config section StaminaUsage
+[Info   : Unity Log]  Loading key axes
+[Info   : Unity Log]  Loading key bows
+[Info   : Unity Log]  Loading key blocking
+[Info   : Unity Log]  Loading key clubs
+[Info   : Unity Log]  Loading key knives
+[Info   : Unity Log]  Loading key pickaxes
+[Info   : Unity Log]  Loading key polearms
+[Info   : Unity Log]  Loading key spears
+[Info   : Unity Log]  Loading key swords
+[Info   : Unity Log]  Loading key unarmed
+[Info   : Unity Log]  Loading key hammer
+[Info   : Unity Log]  Loading key hoe
+[Info   : Unity Log]  Loading key cultivator
+[Info   : Unity Log] Loading config section Workbench
+[Info   : Unity Log]  Loading key workbenchRange
+[Info   : Unity Log]  Loading key workbenchAttachmentRange
+[Info   : Unity Log]  Loading key disableRoofCheck
+[Info   : Unity Log] Loading config section Time
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Ward
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section StructuralIntegrity
+[Info   : Unity Log]  Loading key wood
+[Info   : Unity Log]  Loading key stone
+[Info   : Unity Log]  Loading key iron
+[Info   : Unity Log]  Loading key hardWood
+[Info   : Unity Log]  Loading key disableStructuralIntegrity
+[Info   : Unity Log]  Loading key disableDamageToPlayerStructures
+[Info   : Unity Log]  Loading key disableDamageToPlayerBoats
+[Info   : Unity Log] Loading config section Hud
+[Info   : Unity Log]  Loading key showRequiredItems
+[Info   : Unity Log]  Loading key experienceGainedNotifications
+[Info   : Unity Log]  Key chatMessageDistance not defined, using default value
+[Info   : Unity Log]  Loading key displayStaminaValue
+[Info   : Unity Log]  Loading key removeDamageFlash
+[Info   : Unity Log] Loading config section Experience
+[Info   : Unity Log]  Loading key swords
+[Info   : Unity Log]  Loading key knives
+[Info   : Unity Log]  Loading key clubs
+[Info   : Unity Log]  Loading key polearms
+[Info   : Unity Log]  Loading key spears
+[Info   : Unity Log]  Loading key blocking
+[Info   : Unity Log]  Loading key axes
+[Info   : Unity Log]  Loading key bows
+[Info   : Unity Log]  Loading key fireMagic
+[Info   : Unity Log]  Loading key frostMagic
+[Info   : Unity Log]  Loading key unarmed
+[Info   : Unity Log]  Loading key pickaxes
+[Info   : Unity Log]  Loading key woodCutting
+[Info   : Unity Log]  Loading key jump
+[Info   : Unity Log]  Loading key sneak
+[Info   : Unity Log]  Loading key run
+[Info   : Unity Log]  Loading key swim
+[Info   : Unity Log] Loading config section Camera
+[Info   : Unity Log]  Loading key cameraMaximumZoomDistance
+[Info   : Unity Log]  Loading key cameraBoatMaximumZoomDistance
+[Info   : Unity Log]  Loading key cameraFOV
+[Info   : Unity Log] Loading config section Game
+[Info   : Unity Log]  Loading key gameDifficultyDamageScale
+[Info   : Unity Log]  Loading key gameDifficultyHealthScale
+[Info   : Unity Log]  Loading key extraPlayerCountNearby
+[Info   : Unity Log]  Loading key setFixedPlayerCountTo
+[Info   : Unity Log]  Loading key difficultyScaleRange
+[Info   : Unity Log]  Loading key disablePortals
+[Info   : Unity Log] Loading config section Wagon
+[Info   : Unity Log]  Loading key wagonExtraMassFromItems
+[Info   : Unity Log]  Loading key wagonBaseMass
+[Info   : Unity Log] Loading config section Gathering
+[Info   : Unity Log]  Loading key wood
+[Info   : Unity Log]  Loading key stone
+[Info   : Unity Log]  Loading key fineWood
+[Info   : Unity Log]  Loading key coreWood
+[Info   : Unity Log]  Loading key elderBark
+[Info   : Unity Log]  Loading key ironScrap
+[Info   : Unity Log]  Loading key tinOre
+[Info   : Unity Log]  Loading key copperOre
+[Info   : Unity Log]  Loading key silverOre
+[Info   : Unity Log]  Loading key chitin
+[Info   : Unity Log]  Loading key dropChance
+[Info   : Unity Log] Loading config section Durability
+[Info   : Unity Log]  Loading key axes
+[Info   : Unity Log]  Loading key pickaxes
+[Info   : Unity Log]  Loading key hammer
+[Info   : Unity Log]  Loading key cultivator
+[Info   : Unity Log]  Loading key hoe
+[Info   : Unity Log]  Loading key weapons
+[Info   : Unity Log]  Loading key armor
+[Info   : Unity Log]  Loading key bows
+[Info   : Unity Log]  Loading key shields
+[Info   : Unity Log]  Key torch not defined, using default value
+[Info   : Unity Log] Loading config section Armor
+[Info   : Unity Log]  Loading key helmets
+[Info   : Unity Log]  Loading key chests
+[Info   : Unity Log]  Loading key legs
+[Info   : Unity Log]  Loading key capes
+[Info   : Unity Log] Loading config section FreePlacementRotation
+[Info   : Unity Log]  Loading key rotateY
+[Info   : Unity Log]  Loading key rotateX
+[Info   : Unity Log]  Loading key rotateZ
+[Info   : Unity Log]  Loading key copyRotationParallel
+[Info   : Unity Log]  Loading key copyRotationPerpendicular
+[Info   : Unity Log] Loading config section Shields
+[Info   : Unity Log]  Loading key blockRating
+[Info   : Unity Log] Loading config section FirstPerson
+[Info   : Unity Log]  Loading key hotkey
+[Info   : Unity Log]  Loading key raiseFOVHotkey
+[Info   : Unity Log]  Loading key defaultFOV
+[Info   : Unity Log]  Loading key lowerFOVHotkey
+[Info   : Unity Log] Loading config section GridAlignment
+[Info   : Unity Log]  Loading key align
+[Info   : Unity Log]  Loading key alignToggle
+[Info   : Unity Log]  Loading key changeDefaultAlignment
+[Info   : Unity Log] Loading config section CraftFromChest
+[Info   : Unity Log]  Loading key range
+[Info   : Unity Log]  Loading key checkFromWorkbench
+[Info   : Unity Log]  Loading key ignorePrivateAreaCheck
+[Info   : Unity Log]  Loading key lookupInterval
+[Info   : Unity Log] Loading config section ValheimPlus
+[Info   : Unity Log]  Loading key mainMenuLogo
+[Info   : Unity Log]  Loading key serverBrowserAdvertisement
+[Info   :Valheim Plus] Configuration file loaded succesfully.
+[Info   :Valheim Plus] ValheimPlus [0.9.6] is up to date.
+[Info   :   BepInEx] Loading [Display BepInEx Info In-Game 1.0.0]
+[Info   :   BepInEx] Loading [AnyPortal 1.0.4]
+[Info   : Unity Log] AnyPortal loaded succesfully.
+[Info   :   BepInEx] Loading [Extended Item Data Framework 1.0.0]
+[Info   :   BepInEx] Loading [Epic Loot 0.6.4]
+[Info   :   BepInEx] Loading [Epic Loot Addon - MCE 1.0.0]
+[Info   :   BepInEx] Loading [Equipment and Quick Slots 2.0.4]
+[Info   :   BepInEx] Loading [Network Optimizer 1.1.4]
+[Info   :Network Optimizer]  VNO Initialized Properly 
+[Info   :   BepInEx] Loading [Cooking Skill 1.1.3]
+[Info   :   BepInEx] Loading [ValheimLib 0.0.8]
+[Message:   BepInEx] Chainloader startup complete
+[Info   : Unity Log] 03/26/2021 03:30:43: Starting to load scene:start
+
+[Info   : Unity Log] NexusUpdate Craft From Containers 40 current version: 1.9.0
+[Info   : Unity Log] loaded Blacksmith's Tools
+[Info   : Unity Log] NexusUpdate remote version: 1.9.0.
+[Info   : Unity Log] NexusUpdate Custom Textures 48 current version: 2.0.1
+[Warning: Unity Log] HDR Render Texture not supported, disabling HDR on reflection probe.
+[Warning: Unity Log] HDR Render Texture not supported, disabling HDR on reflection probe.
+[Info   : Unity Log] [BetterDiscordPresence] Updating Presence!
+[Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
+[Warning: Unity Log] HDR Render Texture not supported, disabling HDR on reflection probe.
+[Info   : Unity Log] Version generator started.
+[Info   : Unity Log] Version generated with enforced mod : 0.148.6@0.9.6
+[Info   : Unity Log] 03/26/2021 03:30:50: Valheim version:0.148.6@0.9.6
+
+[Info   : Unity Log] Version generator started.
+[Info   : Unity Log] Version generated with enforced mod : 0.148.6@0.9.6
+[Info   : Unity Log] 03/26/2021 03:30:50: Render threading mode:SingleThreaded
+
+[Info   : Unity Log] Version generator started.
+[Info   : Unity Log] Version generated with enforced mod : 0.148.6@0.9.6
+[Info   : Unity Log] 03/26/2021 03:30:50: Get create world SiNo
+
+[Info   : Unity Log] 03/26/2021 03:30:50: Using environment steamid 892970
+
+[Info   : Unity Log] 03/26/2021 03:30:50: Using steam APPID:892970
+
+[Info   : Unity Log] 03/26/2021 03:30:50: Server ID 90071992547409920
+
+[Info   : Unity Log] 03/26/2021 03:30:50: Authentication:k_ESteamNetworkingAvailability_Waiting
+
+[Info   : Unity Log] 03/26/2021 03:30:50: Steam game server initialized
+
+[Warning: Unity Log] 03/26/2021 03:30:50: Missing audio clip in music respawn
+
+[Info   : Unity Log] CustomTextures Clutter system awake
+[Info   : Unity Log] CustomTextures Checking 17 clutters
+[Info   : Unity Log] CustomTextures 
+object small_rock1, MeshRenderer model, material ground_rocks (Instance), texture rock_low, using texture_rock_low_MainTex.png for _MainTex.
+loading custom texture for texture_rock_low_MainTex 0 layers
+loading custom texture file for texture_rock_low_MainTex
+object small_rock1, MeshRenderer model, material ground_rocks (Instance), texture rock_normal_low, using texture_rock_normal_low_BumpMap.png for _BumpMap.
+loading custom texture for texture_rock_normal_low_BumpMap 0 layers
+loading custom texture file for texture_rock_normal_low_BumpMap
+object small_rock2, MeshRenderer model, material ground_rocks (Instance), texture rock_low, using texture_rock_low_MainTex.png for _MainTex.
+loading cached texture for texture_rock_low_MainTex
+object small_rock2, MeshRenderer model, material ground_rocks (Instance), texture rock_normal_low, using texture_rock_normal_low_BumpMap.png for _BumpMap.
+loading cached texture for texture_rock_normal_low_BumpMap
+[Info   : Unity Log] Version generator started.
+[Info   : Unity Log] Version generated with enforced mod : 0.148.6@0.9.6
+[Info   : Unity Log] 03/26/2021 03:30:51: Loaded localization English
+
+[Info   : Unity Log] 03/26/2021 03:30:51: Loaded localization English
+
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LeatherBelt
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_SilverRing
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_GoldRubyRing
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToReagent_Conversion
+[Info   : Unity Log] CustomTextures SetupObjectDB postfix
+[Info   : Unity Log] CustomTextures Replacing textures for 401 objects
+[Info   : Unity Log] CustomTextures 
+object CapeLinen, ParticleSystemRenderer CapeLinen, material Standard (Instance), texture CapeLinen, using object_CapeLinen_BumpMap.png for _BumpMap.
+loading custom texture for object_CapeLinen_BumpMap 0 layers
+loading custom texture file for object_CapeLinen_BumpMap
+object CapeLinen, ParticleSystemRenderer CapeLinen, material Standard (Instance), texture CapeLinen, using object_CapeLinen_MetallicGlossMap.png for _MetallicGlossMap.
+loading custom texture for object_CapeLinen_MetallicGlossMap 0 layers
+loading custom texture file for object_CapeLinen_MetallicGlossMap
+object CapeLox, ParticleSystemRenderer CapeLox, material item_particle (Instance), texture starspark, using object_CapeLox_MainTex.png for _MainTex.
+loading custom texture for object_CapeLox_MainTex 0 layers
+loading custom texture file for object_CapeLox_MainTex
+object CapeLox, ParticleSystemRenderer CapeLox, material Standard (Instance), texture CapeLox, using object_CapeLox_MainTex.png for _MainTex.
+loading cached texture for object_CapeLox_MainTex
+object CapeLox, ParticleSystemRenderer CapeLox, material Standard (Instance), texture CapeLox, using object_CapeLox_BumpMap.png for _BumpMap.
+loading custom texture for object_CapeLox_BumpMap 0 layers
+loading custom texture file for object_CapeLox_BumpMap
+object CapeLox, ParticleSystemRenderer CapeLox, material Standard (Instance), texture CapeLox, using object_CapeLox_MetallicGlossMap.png for _MetallicGlossMap.
+loading custom texture for object_CapeLox_MetallicGlossMap 0 layers
+loading custom texture file for object_CapeLox_MetallicGlossMap
+object DragonTear, MeshRenderer hull, material dragontear_hull (Instance), texture 9436-normal, using texture_9436-normal_BumpMap.png for _BumpMap.
+loading custom texture for texture_9436-normal_BumpMap 0 layers
+loading custom texture file for texture_9436-normal_BumpMap
+object draugr_bow, MeshRenderer bow, material bow (Instance), texture Planks5c_low, using texture_Planks5c_low_MainTex.png for _MainTex.
+loading custom texture for texture_Planks5c_low_MainTex 0 layers
+loading custom texture file for texture_Planks5c_low_MainTex
+object draugr_bow, MeshRenderer bow, material bow (Instance), texture Planks5_Normal, using texture_Planks5_Normal_BumpMap.png for _BumpMap.
+loading custom texture for texture_Planks5_Normal_BumpMap 0 layers
+loading custom texture file for texture_Planks5_Normal_BumpMap
+object draugr_bow, MeshRenderer Cube, material bow (Instance), texture Planks5c_low, using texture_Planks5c_low_MainTex.png for _MainTex.
+loading cached texture for texture_Planks5c_low_MainTex
+object draugr_bow, MeshRenderer Cube, material bow (Instance), texture Planks5_Normal, using texture_Planks5_Normal_BumpMap.png for _BumpMap.
+loading cached texture for texture_Planks5_Normal_BumpMap
+object LinenThread, MeshRenderer Cube, material cart_wood (Instance), texture Planks5c_low, using texture_Planks5c_low_MainTex.png for _MainTex.
+loading cached texture for texture_Planks5c_low_MainTex
+object LinenThread, MeshRenderer Cube, material cart_wood (Instance), texture Planks5_Normal, using texture_Planks5_Normal_BumpMap.png for _BumpMap.
+loading cached texture for texture_Planks5_Normal_BumpMap
+object skeleton_bow, MeshRenderer bow, material bow (Instance), texture Planks5c_low, using texture_Planks5c_low_MainTex.png for _MainTex.
+loading cached texture for texture_Planks5c_low_MainTex
+object skeleton_bow, MeshRenderer bow, material bow (Instance), texture Planks5_Normal, using texture_Planks5_Normal_BumpMap.png for _BumpMap.
+loading cached texture for texture_Planks5_Normal_BumpMap
+object skeleton_bow, MeshRenderer Cube, material bow (Instance), texture Planks5c_low, using texture_Planks5c_low_MainTex.png for _MainTex.
+loading cached texture for texture_Planks5c_low_MainTex
+object skeleton_bow, MeshRenderer Cube, material bow (Instance), texture Planks5_Normal, using texture_Planks5_Normal_BumpMap.png for _BumpMap.
+loading cached texture for texture_Planks5_Normal_BumpMap
+object Wood, MeshRenderer log (1), material wood_item (Instance), texture woodpile_diffuse, using texture_woodpile_diffuse_MainTex.png for _MainTex.
+loading custom texture for texture_woodpile_diffuse_MainTex 0 layers
+loading custom texture file for texture_woodpile_diffuse_MainTex
+object Wood, MeshRenderer log (1), material wood_item (Instance), texture woodpile_generaten, using texture_woodpile_generaten_BumpMap.png for _BumpMap.
+loading custom texture for texture_woodpile_generaten_BumpMap 0 layers
+loading custom texture file for texture_woodpile_generaten_BumpMap
+[Info   : Unity Log] CustomTextures SetupObjectDB RunTime 00:00:01.53
+[Info   : Unity Log] 03/26/2021 03:30:53: Game server connected
+
+[Info   : Unity Log] NexusUpdate remote version: 2.0.1.
+[Info   : Unity Log] NexusUpdate Enable Console 669 current version: 0.1.0
+[Warning: Unity Log] HDR Render Texture not supported, disabling HDR on reflection probe.
+[Warning: Unity Log] HDR Render Texture not supported, disabling HDR on reflection probe.
+[Info   : Unity Log] Version generator started.
+[Info   : Unity Log] Version generated with enforced mod : 0.148.6@0.9.6
+[Info   : Unity Log] CustomTextures Reloading ZoneSystem textures _GameMain _Zone
+[Info   : Unity Log] 03/26/2021 03:30:54: Zonesystem Awake 5
+
+[Info   : Unity Log] 03/26/2021 03:30:54: DungeonDB Awake 5
+
+[Info   : Unity Log] [BetterDiscordPresence] Server joined, updating server state.
+[Info   :Network Optimizer]  RGC Called : State Unregistered : Skipping Patch 
+[Info   : Unity Log] Version generator started.
+[Info   : Unity Log] Version generated with enforced mod : 0.148.6@0.9.6
+[Info   : Unity Log] 03/26/2021 03:30:54: Registering lobby
+
+[Info   : Unity Log] 03/26/2021 03:30:57: Load world SiNo
+
+[Info   : Unity Log] 03/26/2021 03:30:57: Loading 762356 zdos , my id 2314802213 data version:26
+
+[Info   : Unity Log] 03/26/2021 03:30:59: Loaded 100000 dead zdos
+
+[Info   : Unity Log] 03/26/2021 03:30:59: Removed 0 OLD generated ZDOS
+
+[Info   : Unity Log] 03/26/2021 03:30:59: Loaded 7118 locations
+
+[Info   :ServerSideMap] loaded from existing explore file
+[Info   :ServerSideMap] ZNet awake
+[Info   :Network Optimizer]  Registering Server With VNO 
+[Info   : Unity Log] CustomTextures ZNetScene awake
+[Info   : Unity Log] CustomTextures Checking 1464 prefabs
+[Info   : Unity Log] CustomTextures 
+object beech_log, MeshRenderer log, material beech_log (Instance), texture beech_log, using texture_beech_log_MainTex.png for _MainTex.
+loading custom texture for texture_beech_log_MainTex 0 layers
+loading custom texture file for texture_beech_log_MainTex
+object beech_log_half, MeshRenderer PineTree_log (1), material beech_log (Instance), texture beech_log, using texture_beech_log_MainTex.png for _MainTex.
+loading cached texture for texture_beech_log_MainTex
+object Beech_Stub, MeshRenderer stub, material beech_stump (Instance), texture beech_bark, using texture_beech_bark_MainTex.png for _MainTex.
+loading custom texture for texture_beech_bark_MainTex 0 layers
+loading custom texture file for texture_beech_bark_MainTex
+object Beech_Stub, MeshRenderer stub, material beech_stump (Instance), texture beech_bark_n, using texture_beech_bark_n_BumpMap.png for _BumpMap.
+loading custom texture for texture_beech_bark_n_BumpMap 0 layers
+loading custom texture file for texture_beech_bark_n_BumpMap
+object Beehive, MeshRenderer Model, material beehive (Instance), texture beehive_d, using texture_beehive_d_MainTex.png for _MainTex.
+loading custom texture for texture_beehive_d_MainTex 0 layers
+loading custom texture file for texture_beehive_d_MainTex
+object Beehive, MeshRenderer Model, material beehive (Instance), texture beehive_n, using texture_beehive_n_BumpMap.png for _BumpMap.
+loading custom texture for texture_beehive_n_BumpMap 0 layers
+loading custom texture file for texture_beehive_n_BumpMap
+object Birch_log, MeshRenderer log, material birch_log (Instance), texture Birch_log, using texture_Birch_log_MainTex.png for _MainTex.
+loading custom texture for texture_Birch_log_MainTex 0 layers
+loading custom texture file for texture_Birch_log_MainTex
+object Birch_log_half, MeshRenderer PineTree_log (1), material birch_log (Instance), texture Birch_log, using texture_Birch_log_MainTex.png for _MainTex.
+loading cached texture for texture_Birch_log_MainTex
+object BirchStub, MeshRenderer stub, material birch_stump (Instance), texture birch_bark, using texture_birch_bark_MainTex.png for _MainTex.
+loading custom texture for texture_birch_bark_MainTex 0 layers
+loading custom texture file for texture_birch_bark_MainTex
+object BirchStub, MeshRenderer stub, material birch_stump (Instance), texture birch_bark_n, using texture_birch_bark_n_BumpMap.png for _BumpMap.
+loading custom texture for texture_birch_bark_n_BumpMap 0 layers
+loading custom texture file for texture_birch_bark_n_BumpMap
+object BirchStub, MeshRenderer stub, material Stump_tip (Instance), texture Stump_tip_d, using texture_Stump_tip_d_MainTex.png for _MainTex.
+loading custom texture for texture_Stump_tip_d_MainTex 0 layers
+loading custom texture file for texture_Stump_tip_d_MainTex
+object BirchStub, MeshRenderer stub, material Stump_tip (Instance), texture Stump_tip_n, using texture_Stump_tip_n_BumpMap.png for _BumpMap.
+loading custom texture for texture_Stump_tip_n_BumpMap 0 layers
+loading custom texture file for texture_Stump_tip_n_BumpMap
+object CapeLinen, ParticleSystemRenderer CapeLinen, material Standard (Instance), texture CapeLinen, using object_CapeLinen_BumpMap.png for _BumpMap.
+loading cached texture for object_CapeLinen_BumpMap
+object CapeLinen, ParticleSystemRenderer CapeLinen, material Standard (Instance), texture CapeLinen, using object_CapeLinen_MetallicGlossMap.png for _MetallicGlossMap.
+loading cached texture for object_CapeLinen_MetallicGlossMap
+object CapeLox, ParticleSystemRenderer CapeLox, material item_particle (Instance), texture CapeLox, using object_CapeLox_MainTex.png for _MainTex.
+loading cached texture for object_CapeLox_MainTex
+object CapeLox, ParticleSystemRenderer CapeLox, material Standard (Instance), texture CapeLox, using object_CapeLox_MainTex.png for _MainTex.
+loading cached texture for object_CapeLox_MainTex
+object CapeLox, ParticleSystemRenderer CapeLox, material Standard (Instance), texture CapeLox, using object_CapeLox_BumpMap.png for _BumpMap.
+loading cached texture for object_CapeLox_BumpMap
+object CapeLox, ParticleSystemRenderer CapeLox, material Standard (Instance), texture CapeLox, using object_CapeLox_MetallicGlossMap.png for _MetallicGlossMap.
+loading cached texture for object_CapeLox_MetallicGlossMap
+object Cart, MeshRenderer Vagon (1), material cart_wood (Instance), texture Planks5c_low, using texture_Planks5c_low_MainTex.png for _MainTex.
+loading cached texture for texture_Planks5c_low_MainTex
+object Cart, MeshRenderer Vagon (1), material cart_wood (Instance), texture Planks5_Normal, using texture_Planks5_Normal_BumpMap.png for _BumpMap.
+loading cached texture for texture_Planks5_Normal_BumpMap
+object Cart, MeshRenderer Vagon (2), material cart_wood (Instance), texture Planks5c_low, using texture_Planks5c_low_MainTex.png for _MainTex.
+loading cached texture for texture_Planks5c_low_MainTex
+object Cart, MeshRenderer Vagon (2), material cart_wood (Instance), texture Planks5_Normal, using texture_Planks5_Normal_BumpMap.png for _BumpMap.
+loading cached texture for texture_Planks5_Normal_BumpMap
+object Cart, MeshRenderer Vagon (3), material cart_wood (Instance), texture Planks5c_low, using texture_Planks5c_low_MainTex.png for _MainTex.
+loading cached texture for texture_Planks5c_low_MainTex
+object Cart, MeshRenderer Vagon (3), material cart_wood (Instance), texture Planks5_Normal, using texture_Planks5_Normal_BumpMap.png for _BumpMap.
+loading cached texture for texture_Planks5_Normal_BumpMap
+object Cart, MeshRenderer Vagon (4), material cart_wood (Instance), texture Planks5c_low, using texture_Planks5c_low_MainTex.png for _MainTex.
+loading cached texture for texture_Planks5c_low_MainTex
+object Cart, MeshRenderer Vagon (4), material cart_wood (Instance), texture Planks5_Normal, using texture_Planks5_Normal_BumpMap.png for _BumpMap.
+loading cached texture for texture_Planks5_Normal_BumpMap
+object Cart, MeshRenderer Vagon (5), material cart_wood (Instance), texture Planks5c_low, using texture_Planks5c_low_MainTex.png for _MainTex.
+loading cached texture for texture_Planks5c_low_MainTex
+object Cart, MeshRenderer Vagon (5), material cart_wood (Instance), texture Planks5_Normal, using texture_Planks5_Normal_BumpMap.png for _BumpMap.
+loading cached texture for texture_Planks5_Normal_BumpMap
+object Cart, MeshRenderer handle, material cart_wood (Instance), texture Planks5c_low, using texture_Planks5c_low_MainTex.png for _MainTex.
+loading cached texture for texture_Planks5c_low_MainTex
+object Cart, MeshRenderer handle, material cart_wood (Instance), texture Planks5_Normal, using texture_Planks5_Normal_BumpMap.png for _BumpMap.
+loading cached texture for texture_Planks5_Normal_BumpMap
+object Cart, MeshRenderer handle (1), material cart_wood (Instance), texture Planks5c_low, using texture_Planks5c_low_MainTex.png for _MainTex.
+loading cached texture for texture_Planks5c_low_MainTex
+object Cart, MeshRenderer handle (1), material cart_wood (Instance), texture Planks5_Normal, using texture_Planks5_Normal_BumpMap.png for _BumpMap.
+loading cached texture for texture_Planks5_Normal_BumpMap
+object Cart, MeshRenderer top, material cart_wood (Instance), texture Planks5c_low, using texture_Planks5c_low_MainTex.png for _MainTex.
+loading cached texture for texture_Planks5c_low_MainTex
+object Cart, MeshRenderer top, material cart_wood (Instance), texture Planks5_Normal, using texture_Planks5_Normal_BumpMap.png for _BumpMap.
+loading cached texture for texture_Planks5_Normal_BumpMap
+object Cart, MeshRenderer top (1), material cart_wood (Instance), texture Planks5c_low, using texture_Planks5c_low_MainTex.png for _MainTex.
+loading cached texture for texture_Planks5c_low_MainTex
+object Cart, MeshRenderer top (1), material cart_wood (Instance), texture Planks5_Normal, using texture_Planks5_Normal_BumpMap.png for _BumpMap.
+loading cached texture for texture_Planks5_Normal_BumpMap
+object Cart, MeshRenderer top (2), material cart_wood (Instance), texture Planks5c_low, using texture_Planks5c_low_MainTex.png for _MainTex.
+loading cached texture for texture_Planks5c_low_MainTex
+object Cart, MeshRenderer top (2), material cart_wood (Instance), texture Planks5_Normal, using texture_Planks5_Normal_BumpMap.png for _BumpMap.
+loading cached texture for texture_Planks5_Normal_BumpMap
+object Cart, MeshRenderer top (3), material cart_wood (Instance), texture Planks5c_low, using texture_Planks5c_low_MainTex.png for _MainTex.
+loading cached texture for texture_Planks5c_low_MainTex
+object Cart, MeshRenderer top (3), material cart_wood (Instance), texture Planks5_Normal, using texture_Planks5_Normal_BumpMap.png for _BumpMap.
+loading cached texture for texture_Planks5_Normal_BumpMap
+object Cart, MeshRenderer top (4), material cart_wood (Instance), texture Planks5c_low, using texture_Planks5c_low_MainTex.png for _MainTex.
+loading cached texture for texture_Planks5c_low_MainTex
+object Cart, MeshRenderer top (4), material cart_wood (Instance), texture Planks5_Normal, using texture_Planks5_Normal_BumpMap.png for _BumpMap.
+loading cached texture for texture_Planks5_Normal_BumpMap
+object Cart, MeshRenderer top (5), material cart_wood (Instance), texture Planks5c_low, using texture_Planks5c_low_MainTex.png for _MainTex.
+loading cached texture for texture_Planks5c_low_MainTex
+object Cart, MeshRenderer top (5), material cart_wood (Instance), texture Planks5_Normal, using texture_Planks5_Normal_BumpMap.png for _BumpMap.
+loading cached texture for texture_Planks5_Normal_BumpMap
+object Cart, MeshRenderer Vagon (1), material cart_wood_worn (Instance), texture Planks5_Normal, using texture_Planks5_Normal_BumpMap.png for _BumpMap.
+loading cached texture for texture_Planks5_Normal_BumpMap
+object Cart, MeshRenderer Vagon (2), material cart_wood_worn (Instance), texture Planks5_Normal, using texture_Planks5_Normal_BumpMap.png for _BumpMap.
+loading cached texture for texture_Planks5_Normal_BumpMap
+object Cart, MeshRenderer Vagon (3), material cart_wood_worn (Instance), texture Planks5_Normal, using texture_Planks5_Normal_BumpMap.png for _BumpMap.
+loading cached texture for texture_Planks5_Normal_BumpMap
+object Cart, MeshRenderer Vagon (4), material cart_wood_worn (Instance), texture Planks5_Normal, using texture_Planks5_Normal_BumpMap.png for _BumpMap.
+loading cached texture for texture_Planks5_Normal_BumpMap
+object Cart, MeshRenderer Vagon (5), material cart_wood_worn (Instance), texture Planks5_Normal, using texture_Planks5_Normal_BumpMap.png for _BumpMap.
+loading cached texture for texture_Planks5_Normal_BumpMap
+object Cart, MeshRenderer handle, material cart_wood_worn (Instance), texture Planks5_Normal, using texture_Planks5_Normal_BumpMap.png for _BumpMap.
+loading cached texture for texture_Planks5_Normal_BumpMap
+object Cart, MeshRenderer handle (1), material cart_wood_worn (Instance), texture Planks5_Normal, using texture_Planks5_Normal_BumpMap.png for _BumpMap.
+loading cached texture for texture_Planks5_Normal_BumpMap
+object Cart, MeshRenderer top, material cart_wood (Instance), texture Planks5c_low, using texture_Planks5c_low_MainTex.png for _MainTex.
+loading cached texture for texture_Planks5c_low_MainTex
+object Cart, MeshRenderer top, material cart_wood (Instance), texture Planks5_Normal, using texture_Planks5_Normal_BumpMap.png for _BumpMap.
+loading cached texture for texture_Planks5_Normal_BumpMap
+object Cart, MeshRenderer top (1), material cart_wood (Instance), texture Planks5c_low, using texture_Planks5c_low_MainTex.png for _MainTex.
+loading cached texture for texture_Planks5c_low_MainTex
+object Cart, MeshRenderer top (1), material cart_wood (Instance), texture Planks5_Normal, using texture_Planks5_Normal_BumpMap.png for _BumpMap.
+loading cached texture for texture_Planks5_Normal_BumpMap
+object Cart, MeshRenderer top (2), material cart_wood (Instance), texture Planks5c_low, using texture_Planks5c_low_MainTex.png for _MainTex.
+loading cached texture for texture_Planks5c_low_MainTex
+object Cart, MeshRenderer top (2), material cart_wood (Instance), texture Planks5_Normal, using texture_Planks5_Normal_BumpMap.png for _BumpMap.
+loading cached texture for texture_Planks5_Normal_BumpMap
+object Cart, MeshRenderer top (3), material cart_wood (Instance), texture Planks5c_low, using texture_Planks5c_low_MainTex.png for _MainTex.
+loading cached texture for texture_Planks5c_low_MainTex
+object Cart, MeshRenderer top (3), material cart_wood (Instance), texture Planks5_Normal, using texture_Planks5_Normal_BumpMap.png for _BumpMap.
+loading cached texture for texture_Planks5_Normal_BumpMap
+object Cart, MeshRenderer top (4), material cart_wood (Instance), texture Planks5c_low, using texture_Planks5c_low_MainTex.png for _MainTex.
+loading cached texture for texture_Planks5c_low_MainTex
+object Cart, MeshRenderer top (4), material cart_wood (Instance), texture Planks5_Normal, using texture_Planks5_Normal_BumpMap.png for _BumpMap.
+loading cached texture for texture_Planks5_Normal_BumpMap
+object Cart, MeshRenderer top (5), material cart_wood (Instance), texture Planks5c_low, using texture_Planks5c_low_MainTex.png for _MainTex.
+loading cached texture for texture_Planks5c_low_MainTex
+object Cart, MeshRenderer top (5), material cart_wood (Instance), texture Planks5_Normal, using texture_Planks5_Normal_BumpMap.png for _BumpMap.
+loading cached texture for texture_Planks5_Normal_BumpMap
+object Cart, MeshRenderer Vagon (1), material cart_wood_worn (Instance), texture Planks5_Normal, using texture_Planks5_Normal_BumpMap.png for _BumpMap.
+loading cached texture for texture_Planks5_Normal_BumpMap
+object Cart, MeshRenderer Vagon (2), material cart_wood_worn (Instance), texture Planks5_Normal, using texture_Planks5_Normal_BumpMap.png for _BumpMap.
+loading cached texture for texture_Planks5_Normal_BumpMap
+object Cart, MeshRenderer Vagon (3), material cart_wood_worn (Instance), texture Planks5_Normal, using texture_Planks5_Normal_BumpMap.png for _BumpMap.
+loading cached texture for texture_Planks5_Normal_BumpMap
+object Cart, MeshRenderer Vagon (4), material cart_wood_worn (Instance), texture Planks5_Normal, using texture_Planks5_Normal_BumpMap.png for _BumpMap.
+loading cached texture for texture_Planks5_Normal_BumpMap
+object Cart, MeshRenderer handle, material cart_wood_worn (Instance), texture Planks5_Normal, using texture_Planks5_Normal_BumpMap.png for _BumpMap.
+loading cached texture for texture_Planks5_Normal_BumpMap
+object Cart, MeshRenderer handle (1), material cart_wood_worn (Instance), texture Planks5_Normal, using texture_Planks5_Normal_BumpMap.png for _BumpMap.
+loading cached texture for texture_Planks5_Normal_BumpMap
+object Cart, MeshRenderer top, material cart_wood (Instance), texture Planks5c_low, using texture_Planks5c_low_MainTex.png for _MainTex.
+loading cached texture for texture_Planks5c_low_MainTex
+object Cart, MeshRenderer top, material cart_wood (Instance), texture Planks5_Normal, using texture_Planks5_Normal_BumpMap.png for _BumpMap.
+loading cached texture for texture_Planks5_Normal_BumpMap
+object Cart, MeshRenderer top (1), material cart_wood (Instance), texture Planks5c_low, using texture_Planks5c_low_MainTex.png for _MainTex.
+loading cached texture for texture_Planks5c_low_MainTex
+object Cart, MeshRenderer top (1), material cart_wood (Instance), texture Planks5_Normal, using texture_Planks5_Normal_BumpMap.png for _BumpMap.
+loading cached texture for texture_Planks5_Normal_BumpMap
+object Cart, MeshRenderer top (2), material cart_wood (Instance), texture Planks5c_low, using texture_Planks5c_low_MainTex.png for _MainTex.
+loading cached texture for texture_Planks5c_low_MainTex
+object Cart, MeshRenderer top (2), material cart_wood (Instance), texture Planks5_Normal, using texture_Planks5_Normal_BumpMap.png for _BumpMap.
+loading cached texture for texture_Planks5_Normal_BumpMap
+object Cart, MeshRenderer top (3), material cart_wood (Instance), texture Planks5c_low, using texture_Planks5c_low_MainTex.png for _MainTex.
+loading cached texture for texture_Planks5c_low_MainTex
+object Cart, MeshRenderer top (3), material cart_wood (Instance), texture Planks5_Normal, using texture_Planks5_Normal_BumpMap.png for _BumpMap.
+loading cached texture for texture_Planks5_Normal_BumpMap
+object Cart, MeshRenderer top (4), material cart_wood (Instance), texture Planks5c_low, using texture_Planks5c_low_MainTex.png for _MainTex.
+loading cached texture for texture_Planks5c_low_MainTex
+object Cart, MeshRenderer top (4), material cart_wood (Instance), texture Planks5_Normal, using texture_Planks5_Normal_BumpMap.png for _BumpMap.
+loading cached texture for texture_Planks5_Normal_BumpMap
+object Cart, MeshRenderer top (5), material cart_wood (Instance), texture Planks5c_low, using texture_Planks5c_low_MainTex.png for _MainTex.
+loading cached texture for texture_Planks5c_low_MainTex
+object Cart, MeshRenderer top (5), material cart_wood (Instance), texture Planks5_Normal, using texture_Planks5_Normal_BumpMap.png for _BumpMap.
+loading cached texture for texture_Planks5_Normal_BumpMap
+object DragonTear, MeshRenderer hull, material dragontear_hull (Instance), texture 9436-normal, using texture_9436-normal_BumpMap.png for _BumpMap.
+loading cached texture for texture_9436-normal_BumpMap
+object draugr_bow, MeshRenderer bow, material bow (Instance), texture Planks5c_low, using texture_Planks5c_low_MainTex.png for _MainTex.
+loading cached texture for texture_Planks5c_low_MainTex
+object draugr_bow, MeshRenderer bow, material bow (Instance), texture Planks5_Normal, using texture_Planks5_Normal_BumpMap.png for _BumpMap.
+loading cached texture for texture_Planks5_Normal_BumpMap
+object draugr_bow, MeshRenderer Cube, material bow (Instance), texture Planks5c_low, using texture_Planks5c_low_MainTex.png for _MainTex.
+loading cached texture for texture_Planks5c_low_MainTex
+object draugr_bow, MeshRenderer Cube, material bow (Instance), texture Planks5_Normal, using texture_Planks5_Normal_BumpMap.png for _BumpMap.
+loading cached texture for texture_Planks5_Normal_BumpMap
+object dungeon_forestcrypt_door, MeshRenderer plank (1), material cart_wood_worn (Instance), texture Planks5_Normal, using texture_Planks5_Normal_BumpMap.png for _BumpMap.
+loading cached texture for texture_Planks5_Normal_BumpMap
+object dungeon_forestcrypt_door, MeshRenderer plank (2), material cart_wood_worn (Instance), texture Planks5_Normal, using texture_Planks5_Normal_BumpMap.png for _BumpMap.
+loading cached texture for texture_Planks5_Normal_BumpMap
+object dungeon_forestcrypt_door, MeshRenderer plank (3), material cart_wood_worn (Instance), texture Planks5_Normal, using texture_Planks5_Normal_BumpMap.png for _BumpMap.
+loading cached texture for texture_Planks5_Normal_BumpMap
+object dungeon_forestcrypt_door, MeshRenderer plank (4), material cart_wood_worn (Instance), texture Planks5_Normal, using texture_Planks5_Normal_BumpMap.png for _BumpMap.
+loading cached texture for texture_Planks5_Normal_BumpMap
+object FirTree_Stub, MeshRenderer stub, material Stump_tip (Instance), texture Stump_tip_d, using texture_Stump_tip_d_MainTex.png for _MainTex.
+loading cached texture for texture_Stump_tip_d_MainTex
+object FirTree_Stub, MeshRenderer stub, material Stump_tip (Instance), texture Stump_tip_n, using texture_Stump_tip_n_BumpMap.png for _BumpMap.
+loading cached texture for texture_Stump_tip_n_BumpMap
+object forge, MeshRenderer High, material ForgeCoals_mat (Instance), texture Forge_d, using texture_Forge_d_MainTex.png for _MainTex.
+loading custom texture for texture_Forge_d_MainTex 0 layers
+loading custom texture file for texture_Forge_d_MainTex
+object forge, MeshRenderer High, material ForgeCoals_mat (Instance), texture Forge_n, using texture_Forge_n_BumpMap.png for _BumpMap.
+loading custom texture for texture_Forge_n_BumpMap 0 layers
+loading custom texture file for texture_Forge_n_BumpMap
+object forge, MeshRenderer High, material ForgeCoals_mat (Instance), texture Forge_d, using texture_Forge_d_MainTex.png for _MainTex.
+loading cached texture for texture_Forge_d_MainTex
+object forge, MeshRenderer High, material ForgeCoals_mat (Instance), texture Forge_n, using texture_Forge_n_BumpMap.png for _BumpMap.
+loading cached texture for texture_Forge_n_BumpMap
+object forge, MeshRenderer High, material ForgeCoals_mat (Instance), texture Forge_d, using texture_Forge_d_MainTex.png for _MainTex.
+loading cached texture for texture_Forge_d_MainTex
+object forge, MeshRenderer High, material ForgeCoals_mat (Instance), texture Forge_n, using texture_Forge_n_BumpMap.png for _BumpMap.
+loading cached texture for texture_Forge_n_BumpMap
+object forge_ext4, MeshRenderer PineTree_log (1), material forge_log (Instance), texture acacia_trunk01, using texture_acacia_trunk01_MainTex.png for _MainTex.
+loading custom texture for texture_acacia_trunk01_MainTex 0 layers
+loading custom texture file for texture_acacia_trunk01_MainTex
+object LinenThread, MeshRenderer Cube, material cart_wood (Instance), texture Planks5c_low, using texture_Planks5c_low_MainTex.png for _MainTex.
+loading cached texture for texture_Planks5c_low_MainTex
+object LinenThread, MeshRenderer Cube, material cart_wood (Instance), texture Planks5_Normal, using texture_Planks5_Normal_BumpMap.png for _BumpMap.
+loading cached texture for texture_Planks5_Normal_BumpMap
+object Pickable_Branch, MeshRenderer model, material branch (Instance), texture acacia_trunk01, using texture_acacia_trunk01_MainTex.png for _MainTex.
+loading cached texture for texture_acacia_trunk01_MainTex
+object piece_workbench_ext1, MeshRenderer coppingblock, material coppingblock (Instance), texture Pine_tree_log_texture, using texture_Pine_tree_log_texture_MainTex.png for _MainTex.
+loading custom texture for texture_Pine_tree_log_texture_MainTex 0 layers
+loading custom texture file for texture_Pine_tree_log_texture_MainTex
+object piece_workbench_ext1, MeshRenderer coppingblock, material coppingblock (Instance), texture Pine_tree_log_texture_n, using texture_Pine_tree_log_texture_n_BumpMap.png for _BumpMap.
+loading custom texture for texture_Pine_tree_log_texture_n_BumpMap 0 layers
+loading custom texture file for texture_Pine_tree_log_texture_n_BumpMap
+object piece_workbench_ext3, MeshRenderer adze, material adze (Instance), texture adze_d, using texture_adze_d_MainTex.png for _MainTex.
+loading custom texture for texture_adze_d_MainTex 0 layers
+loading custom texture file for texture_adze_d_MainTex
+object piece_workbench_ext3, MeshRenderer adze, material adze (Instance), texture adze_n, using texture_adze_n_BumpMap.png for _BumpMap.
+loading custom texture for texture_adze_n_BumpMap 0 layers
+loading custom texture file for texture_adze_n_BumpMap
+object piece_workbench_ext3, MeshRenderer adze, material adze (Instance), texture adze_m, using texture_adze_m_MetallicGlossMap.png for _MetallicGlossMap.
+loading custom texture for texture_adze_m_MetallicGlossMap 0 layers
+loading custom texture file for texture_adze_m_MetallicGlossMap
+object piece_workbench_ext3, MeshRenderer coppingblock, material coppingblock (Instance), texture Pine_tree_log_texture, using texture_Pine_tree_log_texture_MainTex.png for _MainTex.
+loading cached texture for texture_Pine_tree_log_texture_MainTex
+object piece_workbench_ext3, MeshRenderer coppingblock, material coppingblock (Instance), texture Pine_tree_log_texture_n, using texture_Pine_tree_log_texture_n_BumpMap.png for _BumpMap.
+loading cached texture for texture_Pine_tree_log_texture_n_BumpMap
+object piece_workbench_ext3, MeshRenderer coppingblock (1), material coppingblock (Instance), texture Pine_tree_log_texture, using texture_Pine_tree_log_texture_MainTex.png for _MainTex.
+loading cached texture for texture_Pine_tree_log_texture_MainTex
+object piece_workbench_ext3, MeshRenderer coppingblock (1), material coppingblock (Instance), texture Pine_tree_log_texture_n, using texture_Pine_tree_log_texture_n_BumpMap.png for _BumpMap.
+loading cached texture for texture_Pine_tree_log_texture_n_BumpMap
+object piece_workbench_ext3, MeshRenderer coppingblock (2), material coppingblock (Instance), texture Pine_tree_log_texture, using texture_Pine_tree_log_texture_MainTex.png for _MainTex.
+loading cached texture for texture_Pine_tree_log_texture_MainTex
+object piece_workbench_ext3, MeshRenderer coppingblock (2), material coppingblock (Instance), texture Pine_tree_log_texture_n, using texture_Pine_tree_log_texture_n_BumpMap.png for _BumpMap.
+loading cached texture for texture_Pine_tree_log_texture_n_BumpMap
+object piece_workbench_ext3, MeshRenderer coppingblock (3), material coppingblock (Instance), texture Pine_tree_log_texture, using texture_Pine_tree_log_texture_MainTex.png for _MainTex.
+loading cached texture for texture_Pine_tree_log_texture_MainTex
+object piece_workbench_ext3, MeshRenderer coppingblock (3), material coppingblock (Instance), texture Pine_tree_log_texture_n, using texture_Pine_tree_log_texture_n_BumpMap.png for _BumpMap.
+loading cached texture for texture_Pine_tree_log_texture_n_BumpMap
+object PineTree, MeshRenderer stub, material trunk_stump (Instance), texture acacia_trunk01, using texture_acacia_trunk01_MainTex.png for _MainTex.
+loading cached texture for texture_acacia_trunk01_MainTex
+object PineTree, MeshRenderer stub, material Stump_tip (Instance), texture Stump_tip_d, using texture_Stump_tip_d_MainTex.png for _MainTex.
+loading cached texture for texture_Stump_tip_d_MainTex
+object PineTree, MeshRenderer stub, material Stump_tip (Instance), texture Stump_tip_n, using texture_Stump_tip_n_BumpMap.png for _BumpMap.
+loading cached texture for texture_Stump_tip_n_BumpMap
+object Pinetree_01_Stub, MeshRenderer stub, material Stump_tip (Instance), texture Stump_tip_d, using texture_Stump_tip_d_MainTex.png for _MainTex.
+loading cached texture for texture_Stump_tip_d_MainTex
+object Pinetree_01_Stub, MeshRenderer stub, material Stump_tip (Instance), texture Stump_tip_n, using texture_Stump_tip_n_BumpMap.png for _BumpMap.
+loading cached texture for texture_Stump_tip_n_BumpMap
+object portal_wood, MeshRenderer small_portal, material portal_small (Instance), texture portal_small_d, using texture_portal_small_d_MainTex.png for _MainTex.
+loading custom texture for texture_portal_small_d_MainTex 0 layers
+loading custom texture file for texture_portal_small_d_MainTex
+object portal_wood, MeshRenderer small_portal, material portal_small (Instance), texture portal_small_n, using texture_portal_small_n_BumpMap.png for _BumpMap.
+loading custom texture for texture_portal_small_n_BumpMap 0 layers
+loading custom texture file for texture_portal_small_n_BumpMap
+object portal_wood, MeshRenderer small_portal, material portal_small (Instance), texture portal_small_e, using texture_portal_small_e_EmissionMap.png for _EmissionMap.
+loading custom texture for texture_portal_small_e_EmissionMap 0 layers
+loading custom texture file for texture_portal_small_e_EmissionMap
+object portal_wood, MeshRenderer Portal_destruction.001_Cube.004, material portal_small (Instance), texture portal_small_d, using texture_portal_small_d_MainTex.png for _MainTex.
+loading cached texture for texture_portal_small_d_MainTex
+object portal_wood, MeshRenderer Portal_destruction.001_Cube.004, material portal_small (Instance), texture portal_small_n, using texture_portal_small_n_BumpMap.png for _BumpMap.
+loading cached texture for texture_portal_small_n_BumpMap
+object portal_wood, MeshRenderer Portal_destruction.001_Cube.004, material portal_small (Instance), texture portal_small_e, using texture_portal_small_e_EmissionMap.png for _EmissionMap.
+loading cached texture for texture_portal_small_e_EmissionMap
+object portal_wood, MeshRenderer Portal_destruction.002_Cube.005, material portal_small (Instance), texture portal_small_d, using texture_portal_small_d_MainTex.png for _MainTex.
+loading cached texture for texture_portal_small_d_MainTex
+object portal_wood, MeshRenderer Portal_destruction.002_Cube.005, material portal_small (Instance), texture portal_small_n, using texture_portal_small_n_BumpMap.png for _BumpMap.
+loading cached texture for texture_portal_small_n_BumpMap
+object portal_wood, MeshRenderer Portal_destruction.002_Cube.005, material portal_small (Instance), texture portal_small_e, using texture_portal_small_e_EmissionMap.png for _EmissionMap.
+loading cached texture for texture_portal_small_e_EmissionMap
+object portal_wood, MeshRenderer Portal_destruction.003_Cube.006, material portal_small (Instance), texture portal_small_d, using texture_portal_small_d_MainTex.png for _MainTex.
+loading cached texture for texture_portal_small_d_MainTex
+object portal_wood, MeshRenderer Portal_destruction.003_Cube.006, material portal_small (Instance), texture portal_small_n, using texture_portal_small_n_BumpMap.png for _BumpMap.
+loading cached texture for texture_portal_small_n_BumpMap
+object portal_wood, MeshRenderer Portal_destruction.003_Cube.006, material portal_small (Instance), texture portal_small_e, using texture_portal_small_e_EmissionMap.png for _EmissionMap.
+loading cached texture for texture_portal_small_e_EmissionMap
+object portal_wood, MeshRenderer Portal_destruction.004_Cube.007, material portal_small (Instance), texture portal_small_d, using texture_portal_small_d_MainTex.png for _MainTex.
+loading cached texture for texture_portal_small_d_MainTex
+object portal_wood, MeshRenderer Portal_destruction.004_Cube.007, material portal_small (Instance), texture portal_small_n, using texture_portal_small_n_BumpMap.png for _BumpMap.
+loading cached texture for texture_portal_small_n_BumpMap
+object portal_wood, MeshRenderer Portal_destruction.004_Cube.007, material portal_small (Instance), texture portal_small_e, using texture_portal_small_e_EmissionMap.png for _EmissionMap.
+loading cached texture for texture_portal_small_e_EmissionMap
+object portal_wood, MeshRenderer Portal_destruction.005_Cube.008, material portal_small (Instance), texture portal_small_d, using texture_portal_small_d_MainTex.png for _MainTex.
+loading cached texture for texture_portal_small_d_MainTex
+object portal_wood, MeshRenderer Portal_destruction.005_Cube.008, material portal_small (Instance), texture portal_small_n, using texture_portal_small_n_BumpMap.png for _BumpMap.
+loading cached texture for texture_portal_small_n_BumpMap
+object portal_wood, MeshRenderer Portal_destruction.005_Cube.008, material portal_small (Instance), texture portal_small_e, using texture_portal_small_e_EmissionMap.png for _EmissionMap.
+loading cached texture for texture_portal_small_e_EmissionMap
+object portal_wood, MeshRenderer Portal_destruction_Cube.003, material portal_small (Instance), texture portal_small_d, using texture_portal_small_d_MainTex.png for _MainTex.
+loading cached texture for texture_portal_small_d_MainTex
+object portal_wood, MeshRenderer Portal_destruction_Cube.003, material portal_small (Instance), texture portal_small_n, using texture_portal_small_n_BumpMap.png for _BumpMap.
+loading cached texture for texture_portal_small_n_BumpMap
+object portal_wood, MeshRenderer Portal_destruction_Cube.003, material portal_small (Instance), texture portal_small_e, using texture_portal_small_e_EmissionMap.png for _EmissionMap.
+loading cached texture for texture_portal_small_e_EmissionMap
+object skeleton_bow, MeshRenderer bow, material bow (Instance), texture Planks5c_low, using texture_Planks5c_low_MainTex.png for _MainTex.
+loading cached texture for texture_Planks5c_low_MainTex
+object skeleton_bow, MeshRenderer bow, material bow (Instance), texture Planks5_Normal, using texture_Planks5_Normal_BumpMap.png for _BumpMap.
+loading cached texture for texture_Planks5_Normal_BumpMap
+object skeleton_bow, MeshRenderer Cube, material bow (Instance), texture Planks5c_low, using texture_Planks5c_low_MainTex.png for _MainTex.
+loading cached texture for texture_Planks5c_low_MainTex
+object skeleton_bow, MeshRenderer Cube, material bow (Instance), texture Planks5_Normal, using texture_Planks5_Normal_BumpMap.png for _BumpMap.
+loading cached texture for texture_Planks5_Normal_BumpMap
+object SwampTree1_Stub, MeshRenderer swamptree1_stub, material Stump_tip (Instance), texture Stump_tip_d, using texture_Stump_tip_d_MainTex.png for _MainTex.
+loading cached texture for texture_Stump_tip_d_MainTex
+object SwampTree1_Stub, MeshRenderer swamptree1_stub, material Stump_tip (Instance), texture Stump_tip_n, using texture_Stump_tip_n_BumpMap.png for _BumpMap.
+loading cached texture for texture_Stump_tip_n_BumpMap
+object Trailership, MeshRenderer plank, material ship_wood_worn (Instance), texture Planks5c_low, using texture_Planks5c_low_MainTex.png for _MainTex.
+loading cached texture for texture_Planks5c_low_MainTex
+object Trailership, MeshRenderer plank (1), material ship_wood_worn (Instance), texture Planks5c_low, using texture_Planks5c_low_MainTex.png for _MainTex.
+loading cached texture for texture_Planks5c_low_MainTex
+object Trailership, MeshRenderer plank, material ship_wood_worn (Instance), texture Planks5c_low, using texture_Planks5c_low_MainTex.png for _MainTex.
+loading cached texture for texture_Planks5c_low_MainTex
+object Trailership, MeshRenderer plank (1), material ship_wood_worn (Instance), texture Planks5c_low, using texture_Planks5c_low_MainTex.png for _MainTex.
+loading cached texture for texture_Planks5c_low_MainTex
+object vfx_beech_cut, ParticleSystemRenderer leafs, material beech_particle (Instance), texture beech_leaf, using texture_beech_leaf_MainTex.png for _MainTex.
+loading custom texture for texture_beech_leaf_MainTex 0 layers
+loading custom texture file for texture_beech_leaf_MainTex
+object vfx_beech_cut, ParticleSystemRenderer leafs, material beech_particle (Instance), texture beech_leaf_n, using texture_beech_leaf_n_BumpMap.png for _BumpMap.
+loading custom texture for texture_beech_leaf_n_BumpMap 0 layers
+loading custom texture file for texture_beech_leaf_n_BumpMap
+object vfx_beech_cut, ParticleSystemRenderer twiggs, material branch (Instance), texture acacia_trunk01, using texture_acacia_trunk01_MainTex.png for _MainTex.
+loading cached texture for texture_acacia_trunk01_MainTex
+object vfx_beech_small1_destroy, ParticleSystemRenderer leafs, material beech_particle (Instance), texture beech_leaf, using texture_beech_leaf_MainTex.png for _MainTex.
+loading cached texture for texture_beech_leaf_MainTex
+object vfx_beech_small1_destroy, ParticleSystemRenderer leafs, material beech_particle (Instance), texture beech_leaf_n, using texture_beech_leaf_n_BumpMap.png for _BumpMap.
+loading cached texture for texture_beech_leaf_n_BumpMap
+object vfx_beech_small1_destroy, ParticleSystemRenderer twiggs, material branch (Instance), texture acacia_trunk01, using texture_acacia_trunk01_MainTex.png for _MainTex.
+loading cached texture for texture_acacia_trunk01_MainTex
+object vfx_beech_small2_destroy, ParticleSystemRenderer leafs, material beech_particle (Instance), texture beech_leaf, using texture_beech_leaf_MainTex.png for _MainTex.
+loading cached texture for texture_beech_leaf_MainTex
+object vfx_beech_small2_destroy, ParticleSystemRenderer leafs, material beech_particle (Instance), texture beech_leaf_n, using texture_beech_leaf_n_BumpMap.png for _BumpMap.
+loading cached texture for texture_beech_leaf_n_BumpMap
+object vfx_beech_small2_destroy, ParticleSystemRenderer twiggs, material branch (Instance), texture acacia_trunk01, using texture_acacia_trunk01_MainTex.png for _MainTex.
+loading cached texture for texture_acacia_trunk01_MainTex
+object vfx_birch1_aut_cut, ParticleSystemRenderer leafs, material birch_particle (Instance), texture birch_leaf, using texture_birch_leaf_MainTex.png for _MainTex.
+loading custom texture for texture_birch_leaf_MainTex 0 layers
+loading custom texture file for texture_birch_leaf_MainTex
+object vfx_birch1_aut_cut, ParticleSystemRenderer leafs, material birch_particle (Instance), texture birch_leaf_n, using texture_birch_leaf_n_BumpMap.png for _BumpMap.
+loading custom texture for texture_birch_leaf_n_BumpMap 0 layers
+loading custom texture file for texture_birch_leaf_n_BumpMap
+object vfx_birch1_aut_cut, ParticleSystemRenderer twiggs, material branch (Instance), texture acacia_trunk01, using texture_acacia_trunk01_MainTex.png for _MainTex.
+loading cached texture for texture_acacia_trunk01_MainTex
+object vfx_birch1_cut, ParticleSystemRenderer leafs, material birch_particle (Instance), texture birch_leaf, using texture_birch_leaf_MainTex.png for _MainTex.
+loading cached texture for texture_birch_leaf_MainTex
+object vfx_birch1_cut, ParticleSystemRenderer leafs, material birch_particle (Instance), texture birch_leaf_n, using texture_birch_leaf_n_BumpMap.png for _BumpMap.
+loading cached texture for texture_birch_leaf_n_BumpMap
+object vfx_birch1_cut, ParticleSystemRenderer twiggs, material branch (Instance), texture acacia_trunk01, using texture_acacia_trunk01_MainTex.png for _MainTex.
+loading cached texture for texture_acacia_trunk01_MainTex
+object vfx_birch2_aut_cut, ParticleSystemRenderer leafs, material birch_particle (Instance), texture birch_leaf, using texture_birch_leaf_MainTex.png for _MainTex.
+loading cached texture for texture_birch_leaf_MainTex
+object vfx_birch2_aut_cut, ParticleSystemRenderer leafs, material birch_particle (Instance), texture birch_leaf_n, using texture_birch_leaf_n_BumpMap.png for _BumpMap.
+loading cached texture for texture_birch_leaf_n_BumpMap
+object vfx_birch2_aut_cut, ParticleSystemRenderer twiggs, material branch (Instance), texture acacia_trunk01, using texture_acacia_trunk01_MainTex.png for _MainTex.
+loading cached texture for texture_acacia_trunk01_MainTex
+object vfx_birch2_cut, ParticleSystemRenderer leafs, material birch_particle (Instance), texture birch_leaf, using texture_birch_leaf_MainTex.png for _MainTex.
+loading cached texture for texture_birch_leaf_MainTex
+object vfx_birch2_cut, ParticleSystemRenderer leafs, material birch_particle (Instance), texture birch_leaf_n, using texture_birch_leaf_n_BumpMap.png for _BumpMap.
+loading cached texture for texture_birch_leaf_n_BumpMap
+object vfx_birch2_cut, ParticleSystemRenderer twiggs, material branch (Instance), texture acacia_trunk01, using texture_acacia_trunk01_MainTex.png for _MainTex.
+loading cached texture for texture_acacia_trunk01_MainTex
+object vfx_bush2_en_destroyed, ParticleSystemRenderer twiggs, material branch (Instance), texture acacia_trunk01, using texture_acacia_trunk01_MainTex.png for _MainTex.
+loading cached texture for texture_acacia_trunk01_MainTex
+object vfx_Destroyed_VikingShip, MeshRenderer skull_head, material ship_wood_worn (Instance), texture Planks5c_low, using texture_Planks5c_low_MainTex.png for _MainTex.
+loading cached texture for texture_Planks5c_low_MainTex
+object vfx_Destroyed_VikingShip, MeshRenderer AFT, material ship_wood_worn (Instance), texture Planks5c_low, using texture_Planks5c_low_MainTex.png for _MainTex.
+loading cached texture for texture_Planks5c_low_MainTex
+object vfx_draugrpile_destroyed, ParticleSystemRenderer vfx_RockHit (1), material pilechunk (Instance), texture 9436-normal, using texture_9436-normal_BumpMap.png for _BumpMap.
+loading cached texture for texture_9436-normal_BumpMap
+object vfx_firetreecut, ParticleSystemRenderer twiggs, material branch (Instance), texture acacia_trunk01, using texture_acacia_trunk01_MainTex.png for _MainTex.
+loading cached texture for texture_acacia_trunk01_MainTex
+object vfx_firetreecut_dead, ParticleSystemRenderer twiggs, material branch (Instance), texture acacia_trunk01, using texture_acacia_trunk01_MainTex.png for _MainTex.
+loading cached texture for texture_acacia_trunk01_MainTex
+object vfx_greydwarf_root_destroyed, ParticleSystemRenderer twiggs, material branch (Instance), texture acacia_trunk01, using texture_acacia_trunk01_MainTex.png for _MainTex.
+loading cached texture for texture_acacia_trunk01_MainTex
+object vfx_greydwarfnest_destroyed, ParticleSystemRenderer twiggs, material branch (Instance), texture acacia_trunk01, using texture_acacia_trunk01_MainTex.png for _MainTex.
+loading cached texture for texture_acacia_trunk01_MainTex
+object vfx_greydwarfnest_destroyed, ParticleSystemRenderer twiggs_ground, material branch (Instance), texture acacia_trunk01, using texture_acacia_trunk01_MainTex.png for _MainTex.
+loading cached texture for texture_acacia_trunk01_MainTex
+object vfx_greydwarfnest_hit, ParticleSystemRenderer twiggs, material branch (Instance), texture acacia_trunk01, using texture_acacia_trunk01_MainTex.png for _MainTex.
+loading cached texture for texture_acacia_trunk01_MainTex
+object vfx_oak_cut, ParticleSystemRenderer twiggs, material branch (Instance), texture acacia_trunk01, using texture_acacia_trunk01_MainTex.png for _MainTex.
+loading cached texture for texture_acacia_trunk01_MainTex
+object vfx_pinetreecut, ParticleSystemRenderer twiggs, material branch (Instance), texture acacia_trunk01, using texture_acacia_trunk01_MainTex.png for _MainTex.
+loading cached texture for texture_acacia_trunk01_MainTex
+object vfx_shrub_2_destroyed, ParticleSystemRenderer twiggs, material branch (Instance), texture acacia_trunk01, using texture_acacia_trunk01_MainTex.png for _MainTex.
+loading cached texture for texture_acacia_trunk01_MainTex
+object vfx_shrub_2_heath_destroyed, ParticleSystemRenderer twiggs, material branch (Instance), texture acacia_trunk01, using texture_acacia_trunk01_MainTex.png for _MainTex.
+loading cached texture for texture_acacia_trunk01_MainTex
+object vfx_swamptree_cut, ParticleSystemRenderer twiggs, material branch (Instance), texture acacia_trunk01, using texture_acacia_trunk01_MainTex.png for _MainTex.
+loading cached texture for texture_acacia_trunk01_MainTex
+object vfx_vines_destroyed, ParticleSystemRenderer twiggs, material branch (Instance), texture acacia_trunk01, using texture_acacia_trunk01_MainTex.png for _MainTex.
+loading cached texture for texture_acacia_trunk01_MainTex
+object VikingShip, MeshRenderer plank, material ship_wood_worn (Instance), texture Planks5c_low, using texture_Planks5c_low_MainTex.png for _MainTex.
+loading cached texture for texture_Planks5c_low_MainTex
+object VikingShip, MeshRenderer plank (1), material ship_wood_worn (Instance), texture Planks5c_low, using texture_Planks5c_low_MainTex.png for _MainTex.
+loading cached texture for texture_Planks5c_low_MainTex
+object VikingShip, MeshRenderer plank, material ship_wood_worn (Instance), texture Planks5c_low, using texture_Planks5c_low_MainTex.png for _MainTex.
+loading cached texture for texture_Planks5c_low_MainTex
+object VikingShip, MeshRenderer plank (1), material ship_wood_worn (Instance), texture Planks5c_low, using texture_Planks5c_low_MainTex.png for _MainTex.
+loading cached texture for texture_Planks5c_low_MainTex
+object Wood, MeshRenderer log (1), material wood_item (Instance), texture woodpile_diffuse, using texture_woodpile_diffuse_MainTex.png for _MainTex.
+loading cached texture for texture_woodpile_diffuse_MainTex
+object Wood, MeshRenderer log (1), material wood_item (Instance), texture woodpile_generaten, using texture_woodpile_generaten_BumpMap.png for _BumpMap.
+loading cached texture for texture_woodpile_generaten_BumpMap
+[Info   : Unity Log] CustomTextures ZNetScene RunTime 00:00:04.22
+[Info   : Unity Log] CustomTextures Reloading Environment textures
+[Info   : Unity Log] CustomTextures Reloading 9 Environment textures
+[Info   :OpenDatabase] Loaded Item Amber
+[Info   :OpenDatabase] Loaded Item AmberPearl
+[Info   :OpenDatabase] Loaded Item AncientSeed
+[Info   :OpenDatabase] Loaded Item ArmorBronzeChest
+[Info   :OpenDatabase] Loaded Item ArmorBronzeLegs
+[Info   :OpenDatabase] Loaded Item ArmorIronChest
+[Info   :OpenDatabase] Loaded Item ArmorIronLegs
+[Info   :OpenDatabase] Loaded Item ArmorLeatherChest
+[Info   :OpenDatabase] Loaded Item ArmorLeatherLegs
+[Info   :OpenDatabase] Loaded Item ArmorPaddedCuirass
+[Info   :OpenDatabase] Loaded Item ArmorPaddedGreaves
+[Info   :OpenDatabase] Loaded Item ArmorRagsChest
+[Info   :OpenDatabase] Loaded Item ArmorRagsLegs
+[Info   :OpenDatabase] Loaded Item ArmorTrollLeatherChest
+[Info   :OpenDatabase] Loaded Item ArmorTrollLeatherLegs
+[Info   :OpenDatabase] Loaded Item ArmorWolfChest
+[Info   :OpenDatabase] Loaded Item ArmorWolfLegs
+[Info   :OpenDatabase] Loaded Item ArrowBronze
+[Info   :OpenDatabase] Loaded Item ArrowFire
+[Info   :OpenDatabase] Loaded Item ArrowFlint
+[Info   :OpenDatabase] Loaded Item ArrowFrost
+[Info   :OpenDatabase] Loaded Item ArrowIron
+[Info   :OpenDatabase] Loaded Item ArrowNeedle
+[Info   :OpenDatabase] Loaded Item ArrowObsidian
+[Info   :OpenDatabase] Loaded Item ArrowPoison
+[Info   :OpenDatabase] Loaded Item ArrowSilver
+[Info   :OpenDatabase] Loaded Item ArrowWood
+[Info   :OpenDatabase] Loaded Item AtgeirBlackmetal
+[Info   :OpenDatabase] Loaded Item AtgeirBronze
+[Info   :OpenDatabase] Loaded Item AtgeirIron
+[Info   :OpenDatabase] Loaded Item AxeBlackMetal
+[Info   :OpenDatabase] Loaded Item AxeBronze
+[Info   :OpenDatabase] Loaded Item AxeFlint
+[Info   :OpenDatabase] Loaded Item AxeIron
+[Info   :OpenDatabase] Loaded Item AxeStone
+[Info   :OpenDatabase] Loaded Item Barley
+[Info   :OpenDatabase] Loaded Item BarleyFlour
+[Info   :OpenDatabase] Loaded Item BarleyWine
+[Info   :OpenDatabase] Loaded Item BarleyWineBase
+[Info   :OpenDatabase] Loaded Item Battleaxe
+[Info   :OpenDatabase] Loaded Item Beard1
+[Info   :OpenDatabase] Loaded Item Beard10
+[Info   :OpenDatabase] Loaded Item Beard2
+[Info   :OpenDatabase] Loaded Item Beard3
+[Info   :OpenDatabase] Loaded Item Beard4
+[Info   :OpenDatabase] Loaded Item Beard5
+[Info   :OpenDatabase] Loaded Item Beard6
+[Info   :OpenDatabase] Loaded Item Beard7
+[Info   :OpenDatabase] Loaded Item Beard8
+[Info   :OpenDatabase] Loaded Item Beard9
+[Info   :OpenDatabase] Loaded Item BeardNone
+[Info   :OpenDatabase] Loaded Item BeechSeeds
+[Info   :OpenDatabase] Loaded Item BeltStrength
+[Info   :OpenDatabase] Loaded Item BlackMetal
+[Info   :OpenDatabase] Loaded Item BlackMetalScrap
+[Info   :OpenDatabase] Loaded Item blob_attack_aoe
+[Info   :OpenDatabase] Loaded Item blobelite_attack_aoe
+[Info   :OpenDatabase] Loaded Item Bloodbag
+[Info   :OpenDatabase] Loaded Item BloodPudding
+[Info   :OpenDatabase] Loaded Item Blueberries
+[Info   :OpenDatabase] Loaded Item boar_base_attack
+[Info   :OpenDatabase] Loaded Item BombOoze
+[Info   :OpenDatabase] Loaded Item BoneFragments
+[Info   :OpenDatabase] Loaded Item bonemass_attack_aoe
+[Info   :OpenDatabase] Loaded Item bonemass_attack_punch
+[Info   :OpenDatabase] Loaded Item bonemass_attack_spawn
+[Info   :OpenDatabase] Loaded Item bonemass_attack_throw
+[Info   :OpenDatabase] Loaded Item Bow
+[Info   :OpenDatabase] Loaded Item BowDraugrFang
+[Info   :OpenDatabase] Loaded Item BowFineWood
+[Info   :OpenDatabase] Loaded Item BowHuntsman
+[Info   :OpenDatabase] Loaded Item Bread
+[Info   :OpenDatabase] Loaded Item Bronze
+[Info   :OpenDatabase] Loaded Item BronzeNails
+[Info   :OpenDatabase] Loaded Item CapeDeerHide
+[Info   :OpenDatabase] Loaded Item CapeLinen
+[Info   :OpenDatabase] Loaded Item CapeLox
+[Info   :OpenDatabase] Loaded Item CapeOdin
+[Info   :OpenDatabase] Loaded Item CapeTest
+[Info   :OpenDatabase] Loaded Item CapeTrollHide
+[Info   :OpenDatabase] Loaded Item CapeWolf
+[Info   :OpenDatabase] Loaded Item Carrot
+[Info   :OpenDatabase] Loaded Item CarrotSeeds
+[Info   :OpenDatabase] Loaded Item CarrotSoup
+[Info   :OpenDatabase] Loaded Item Chain
+[Info   :OpenDatabase] Loaded Item Chitin
+[Info   :OpenDatabase] Loaded Item Cloudberry
+[Info   :OpenDatabase] Loaded Item Club
+[Info   :OpenDatabase] Loaded Item Coal
+[Info   :OpenDatabase] Loaded Item Coins
+[Info   :OpenDatabase] Loaded Item CookedLoxMeat
+[Info   :OpenDatabase] Loaded Item CookedMeat
+[Info   :OpenDatabase] Loaded Item Copper
+[Info   :OpenDatabase] Loaded Item CopperOre
+[Info   :OpenDatabase] Loaded Item CryptKey
+[Info   :OpenDatabase] Loaded Item Crystal
+[Info   :OpenDatabase] Loaded Item Cultivator
+[Info   :OpenDatabase] Loaded Item Dandelion
+[Info   :OpenDatabase] Loaded Item Deathsquito_sting
+[Info   :OpenDatabase] Loaded Item DeerHide
+[Info   :OpenDatabase] Loaded Item dragon_bite
+[Info   :OpenDatabase] Loaded Item dragon_claw_left
+[Info   :OpenDatabase] Loaded Item dragon_claw_right
+[Info   :OpenDatabase] Loaded Item dragon_coldbreath
+[Info   :OpenDatabase] Loaded Item dragon_coldbreath_OLD
+[Info   :OpenDatabase] Loaded Item dragon_spit_shotgun
+[Info   :OpenDatabase] Loaded Item dragon_taunt
+[Info   :OpenDatabase] Loaded Item DragonEgg
+[Info   :OpenDatabase] Loaded Item DragonTear
+[Info   :OpenDatabase] Loaded Item draugr_arrow
+[Info   :OpenDatabase] Loaded Item draugr_axe
+[Info   :OpenDatabase] Loaded Item draugr_bow
+[Info   :OpenDatabase] Loaded Item draugr_sword
+[Info   :OpenDatabase] Loaded Item Eikthyr_antler
+[Info   :OpenDatabase] Loaded Item Eikthyr_charge
+[Info   :OpenDatabase] Loaded Item Eikthyr_flegs_OLD
+[Info   :OpenDatabase] Loaded Item Eikthyr_stomp
+[Info   :OpenDatabase] Loaded Item ElderBark
+[Info   :OpenDatabase] Loaded Item Entrails
+[Info   :OpenDatabase] Loaded Item Feathers
+[Info   :OpenDatabase] Loaded Item Fenring_attack_claw
+[Info   :OpenDatabase] Loaded Item Fenring_attack_jump
+[Info   :OpenDatabase] Loaded Item Fenring_taunt
+[Info   :OpenDatabase] Loaded Item FineWood
+[Info   :OpenDatabase] Loaded Item FirCone
+[Info   :OpenDatabase] Loaded Item FishCooked
+[Info   :OpenDatabase] Loaded Item FishingBait
+[Info   :OpenDatabase] Loaded Item FishingRod
+[Info   :OpenDatabase] Loaded Item FishRaw
+[Info   :OpenDatabase] Loaded Item FishWraps
+[Info   :OpenDatabase] Loaded Item Flametal
+[Info   :OpenDatabase] Loaded Item FlametalOre
+[Info   :OpenDatabase] Loaded Item Flax
+[Info   :OpenDatabase] Loaded Item Flint
+[Info   :OpenDatabase] Loaded Item FreezeGland
+[Info   :OpenDatabase] Loaded Item gd_king_punch
+[Info   :OpenDatabase] Loaded Item gd_king_rootspawn
+[Info   :OpenDatabase] Loaded Item gd_king_scream
+[Info   :OpenDatabase] Loaded Item gd_king_shoot
+[Info   :OpenDatabase] Loaded Item gd_king_stomp
+[Info   :OpenDatabase] Loaded Item Ghost_attack
+[Info   :OpenDatabase] Loaded Item GoblinArmband
+[Info   :OpenDatabase] Loaded Item GoblinBrute_ArmGuard
+[Info   :OpenDatabase] Loaded Item GoblinBrute_Attack
+[Info   :OpenDatabase] Loaded Item GoblinBrute_Backbones
+[Info   :OpenDatabase] Loaded Item GoblinBrute_ExecutionerCap
+[Info   :OpenDatabase] Loaded Item GoblinBrute_HipCloth
+[Info   :OpenDatabase] Loaded Item GoblinBrute_LegBones
+[Info   :OpenDatabase] Loaded Item GoblinBrute_RageAttack
+[Info   :OpenDatabase] Loaded Item GoblinBrute_ShoulderGuard
+[Info   :OpenDatabase] Loaded Item GoblinBrute_Taunt
+[Info   :OpenDatabase] Loaded Item GoblinClub
+[Info   :OpenDatabase] Loaded Item GoblinHelmet
+[Info   :OpenDatabase] Loaded Item GoblinKing_Beam
+[Info   :OpenDatabase] Loaded Item GoblinKing_Meteors
+[Info   :OpenDatabase] Loaded Item GoblinKing_Nova
+[Info   :OpenDatabase] Loaded Item GoblinKing_Taunt
+[Info   :OpenDatabase] Loaded Item GoblinLegband
+[Info   :OpenDatabase] Loaded Item GoblinLoin
+[Info   :OpenDatabase] Loaded Item GoblinShaman_attack_fireball
+[Info   :OpenDatabase] Loaded Item GoblinShaman_attack_poke
+[Info   :OpenDatabase] Loaded Item GoblinShaman_attack_protect
+[Info   :OpenDatabase] Loaded Item GoblinShaman_Headdress_antlers
+[Info   :OpenDatabase] Loaded Item GoblinShaman_Headdress_feathers
+[Info   :OpenDatabase] Loaded Item GoblinShaman_Staff_Bones
+[Info   :OpenDatabase] Loaded Item GoblinShaman_Staff_Feathers
+[Info   :OpenDatabase] Loaded Item GoblinShoulders
+[Info   :OpenDatabase] Loaded Item GoblinSpear
+[Info   :OpenDatabase] Loaded Item GoblinSword
+[Info   :OpenDatabase] Loaded Item GoblinTorch
+[Info   :OpenDatabase] Loaded Item GoblinTotem
+[Info   :OpenDatabase] Loaded Item Greydwarf_attack
+[Info   :OpenDatabase] Loaded Item Greydwarf_elite_attack
+[Info   :OpenDatabase] Loaded Item Greydwarf_shaman_attack
+[Info   :OpenDatabase] Loaded Item Greydwarf_shaman_heal
+[Info   :OpenDatabase] Loaded Item Greydwarf_throw
+[Info   :OpenDatabase] Loaded Item GreydwarfEye
+[Info   :OpenDatabase] Loaded Item Greyling_attack
+[Info   :OpenDatabase] Loaded Item Guck
+[Info   :OpenDatabase] Loaded Item Hair1
+[Info   :OpenDatabase] Loaded Item Hair10
+[Info   :OpenDatabase] Loaded Item Hair11
+[Info   :OpenDatabase] Loaded Item Hair12
+[Info   :OpenDatabase] Loaded Item Hair13
+[Info   :OpenDatabase] Loaded Item Hair14
+[Info   :OpenDatabase] Loaded Item Hair2
+[Info   :OpenDatabase] Loaded Item Hair3
+[Info   :OpenDatabase] Loaded Item Hair4
+[Info   :OpenDatabase] Loaded Item Hair5
+[Info   :OpenDatabase] Loaded Item Hair6
+[Info   :OpenDatabase] Loaded Item Hair7
+[Info   :OpenDatabase] Loaded Item Hair8
+[Info   :OpenDatabase] Loaded Item Hair9
+[Info   :OpenDatabase] Loaded Item HairNone
+[Info   :OpenDatabase] Loaded Item Hammer
+[Info   :OpenDatabase] Loaded Item HardAntler
+[Info   :OpenDatabase] Loaded Item hatchling_spit_cold
+[Info   :OpenDatabase] Loaded Item HealthUpgrade_Bonemass
+[Info   :OpenDatabase] Loaded Item HealthUpgrade_GDKing
+[Info   :OpenDatabase] Loaded Item HelmetBronze
+[Info   :OpenDatabase] Loaded Item HelmetDrake
+[Info   :OpenDatabase] Loaded Item HelmetDverger
+[Info   :OpenDatabase] Loaded Item HelmetIron
+[Info   :OpenDatabase] Loaded Item HelmetLeather
+[Info   :OpenDatabase] Loaded Item HelmetOdin
+[Info   :OpenDatabase] Loaded Item HelmetPadded
+[Info   :OpenDatabase] Loaded Item HelmetTrollLeather
+[Info   :OpenDatabase] Loaded Item HelmetYule
+[Info   :OpenDatabase] Loaded Item Hoe
+[Info   :OpenDatabase] Loaded Item Honey
+[Info   :OpenDatabase] Loaded Item imp_fireball_attack
+[Info   :OpenDatabase] Loaded Item Iron
+[Info   :OpenDatabase] Loaded Item IronNails
+[Info   :OpenDatabase] Loaded Item IronOre
+[Info   :OpenDatabase] Loaded Item IronScrap
+[Info   :OpenDatabase] Loaded Item KnifeBlackMetal
+[Info   :OpenDatabase] Loaded Item KnifeChitin
+[Info   :OpenDatabase] Loaded Item KnifeCopper
+[Info   :OpenDatabase] Loaded Item KnifeFlint
+[Info   :OpenDatabase] Loaded Item LeatherScraps
+[Info   :OpenDatabase] Loaded Item Leech_BiteAttack
+[Info   :OpenDatabase] Loaded Item LinenThread
+[Info   :OpenDatabase] Loaded Item lox_bite
+[Info   :OpenDatabase] Loaded Item lox_stomp
+[Info   :OpenDatabase] Loaded Item LoxMeat
+[Info   :OpenDatabase] Loaded Item LoxPelt
+[Info   :OpenDatabase] Loaded Item LoxPie
+[Info   :OpenDatabase] Loaded Item MaceBronze
+[Info   :OpenDatabase] Loaded Item MaceIron
+[Info   :OpenDatabase] Loaded Item MaceNeedle
+[Info   :OpenDatabase] Loaded Item MaceSilver
+[Info   :OpenDatabase] Loaded Item MeadBaseFrostResist
+[Info   :OpenDatabase] Loaded Item MeadBaseHealthMedium
+[Info   :OpenDatabase] Loaded Item MeadBaseHealthMinor
+[Info   :OpenDatabase] Loaded Item MeadBasePoisonResist
+[Info   :OpenDatabase] Loaded Item MeadBaseStaminaMedium
+[Info   :OpenDatabase] Loaded Item MeadBaseStaminaMinor
+[Info   :OpenDatabase] Loaded Item MeadBaseTasty
+[Info   :OpenDatabase] Loaded Item MeadFrostResist
+[Info   :OpenDatabase] Loaded Item MeadHealthMedium
+[Info   :OpenDatabase] Loaded Item MeadHealthMinor
+[Info   :OpenDatabase] Loaded Item MeadPoisonResist
+[Info   :OpenDatabase] Loaded Item MeadStaminaMedium
+[Info   :OpenDatabase] Loaded Item MeadStaminaMinor
+[Info   :OpenDatabase] Loaded Item MeadTasty
+[Info   :OpenDatabase] Loaded Item Mushroom
+[Info   :OpenDatabase] Loaded Item MushroomBlue
+[Info   :OpenDatabase] Loaded Item MushroomYellow
+[Info   :OpenDatabase] Loaded Item Neck_BiteAttack
+[Info   :OpenDatabase] Loaded Item NeckTail
+[Info   :OpenDatabase] Loaded Item NeckTailGrilled
+[Info   :OpenDatabase] Loaded Item Needle
+[Info   :OpenDatabase] Loaded Item Obsidian
+[Info   :OpenDatabase] Loaded Item Ooze
+[Info   :OpenDatabase] Loaded Item PickaxeAntler
+[Info   :OpenDatabase] Loaded Item PickaxeBronze
+[Info   :OpenDatabase] Loaded Item PickaxeIron
+[Info   :OpenDatabase] Loaded Item PickaxeStone
+[Info   :OpenDatabase] Loaded Item PineCone
+[Info   :OpenDatabase] Loaded Item PlayerUnarmed
+[Info   :OpenDatabase] Loaded Item QueenBee
+[Info   :OpenDatabase] Loaded Item QueensJam
+[Info   :OpenDatabase] Loaded Item Raspberry
+[Info   :OpenDatabase] Loaded Item RawMeat
+[Info   :OpenDatabase] Loaded Item Resin
+[Info   :OpenDatabase] Loaded Item RoundLog
+[Info   :OpenDatabase] Loaded Item Ruby
+[Info   :OpenDatabase] Loaded Item Sausages
+[Info   :OpenDatabase] Loaded Item Serpent_attack
+[Info   :OpenDatabase] Loaded Item Serpent_taunt
+[Info   :OpenDatabase] Loaded Item SerpentMeat
+[Info   :OpenDatabase] Loaded Item SerpentMeatCooked
+[Info   :OpenDatabase] Loaded Item SerpentScale
+[Info   :OpenDatabase] Loaded Item SerpentStew
+[Info   :OpenDatabase] Loaded Item SharpeningStone
+[Info   :OpenDatabase] Loaded Item ShieldBanded
+[Info   :OpenDatabase] Loaded Item ShieldBlackmetal
+[Info   :OpenDatabase] Loaded Item ShieldBlackmetalTower
+[Info   :OpenDatabase] Loaded Item ShieldBronzeBuckler
+[Info   :OpenDatabase] Loaded Item ShieldIronSquare
+[Info   :OpenDatabase] Loaded Item ShieldIronTower
+[Info   :OpenDatabase] Loaded Item ShieldKnight
+[Info   :OpenDatabase] Loaded Item ShieldSerpentscale
+[Info   :OpenDatabase] Loaded Item ShieldSilver
+[Info   :OpenDatabase] Loaded Item ShieldWood
+[Info   :OpenDatabase] Loaded Item ShieldWoodTower
+[Info   :OpenDatabase] Loaded Item Silver
+[Info   :OpenDatabase] Loaded Item SilverNecklace
+[Info   :OpenDatabase] Loaded Item SilverOre
+[Info   :OpenDatabase] Loaded Item skeleton_bow
+[Info   :OpenDatabase] Loaded Item skeleton_mace
+[Info   :OpenDatabase] Loaded Item skeleton_sword
+[Info   :OpenDatabase] Loaded Item SledgeIron
+[Info   :OpenDatabase] Loaded Item SledgeStagbreaker
+[Info   :OpenDatabase] Loaded Item SpearBronze
+[Info   :OpenDatabase] Loaded Item SpearChitin
+[Info   :OpenDatabase] Loaded Item SpearElderbark
+[Info   :OpenDatabase] Loaded Item SpearFlint
+[Info   :OpenDatabase] Loaded Item SpearWolfFang
+[Info   :OpenDatabase] Loaded Item StaminaUpgrade_Greydwarf
+[Info   :OpenDatabase] Loaded Item StaminaUpgrade_Troll
+[Info   :OpenDatabase] Loaded Item StaminaUpgrade_Wraith
+[Info   :OpenDatabase] Loaded Item Stone
+[Info   :OpenDatabase] Loaded Item stonegolem_attack_doublesmash
+[Info   :OpenDatabase] Loaded Item stonegolem_attack_sonicboom_NOTUSED
+[Info   :OpenDatabase] Loaded Item stonegolem_attack1_spike
+[Info   :OpenDatabase] Loaded Item stonegolem_attack2_left_groundslam
+[Info   :OpenDatabase] Loaded Item stonegolem_attack3_spikesweep
+[Info   :OpenDatabase] Loaded Item StoneGolem_clubs
+[Info   :OpenDatabase] Loaded Item StoneGolem_hat
+[Info   :OpenDatabase] Loaded Item StoneGolem_spikes
+[Info   :OpenDatabase] Loaded Item SurtlingCore
+[Info   :OpenDatabase] Loaded Item SwordBlackmetal
+[Info   :OpenDatabase] Loaded Item SwordBronze
+[Info   :OpenDatabase] Loaded Item SwordCheat
+[Info   :OpenDatabase] Loaded Item SwordIron
+[Info   :OpenDatabase] Loaded Item SwordIronFire
+[Info   :OpenDatabase] Loaded Item SwordSilver
+[Info   :OpenDatabase] Loaded Item Tankard
+[Info   :OpenDatabase] Loaded Item TankardOdin
+[Info   :OpenDatabase] Loaded Item tentaroot_attack
+[Info   :OpenDatabase] Loaded Item Thistle
+[Info   :OpenDatabase] Loaded Item Tin
+[Info   :OpenDatabase] Loaded Item TinOre
+[Info   :OpenDatabase] Loaded Item Torch
+[Info   :OpenDatabase] Loaded Item troll_groundslam
+[Info   :OpenDatabase] Loaded Item troll_log_swing_h
+[Info   :OpenDatabase] Loaded Item troll_log_swing_v
+[Info   :OpenDatabase] Loaded Item troll_punch
+[Info   :OpenDatabase] Loaded Item troll_throw
+[Info   :OpenDatabase] Loaded Item TrollHide
+[Info   :OpenDatabase] Loaded Item TrophyBlob
+[Info   :OpenDatabase] Loaded Item TrophyBoar
+[Info   :OpenDatabase] Loaded Item TrophyBonemass
+[Info   :OpenDatabase] Loaded Item TrophyDeathsquito
+[Info   :OpenDatabase] Loaded Item TrophyDeer
+[Info   :OpenDatabase] Loaded Item TrophyDragonQueen
+[Info   :OpenDatabase] Loaded Item TrophyDraugr
+[Info   :OpenDatabase] Loaded Item TrophyDraugrElite
+[Info   :OpenDatabase] Loaded Item TrophyDraugrFem
+[Info   :OpenDatabase] Loaded Item TrophyEikthyr
+[Info   :OpenDatabase] Loaded Item TrophyFenring
+[Info   :OpenDatabase] Loaded Item TrophyForestTroll
+[Info   :OpenDatabase] Loaded Item TrophyFrostTroll
+[Info   :OpenDatabase] Loaded Item TrophyGoblin
+[Info   :OpenDatabase] Loaded Item TrophyGoblinBrute
+[Info   :OpenDatabase] Loaded Item TrophyGoblinKing
+[Info   :OpenDatabase] Loaded Item TrophyGoblinShaman
+[Info   :OpenDatabase] Loaded Item TrophyGreydwarf
+[Info   :OpenDatabase] Loaded Item TrophyGreydwarfBrute
+[Info   :OpenDatabase] Loaded Item TrophyGreydwarfShaman
+[Info   :OpenDatabase] Loaded Item TrophyHatchling
+[Info   :OpenDatabase] Loaded Item TrophyLeech
+[Info   :OpenDatabase] Loaded Item TrophyLox
+[Info   :OpenDatabase] Loaded Item TrophyNeck
+[Info   :OpenDatabase] Loaded Item TrophySerpent
+[Info   :OpenDatabase] Loaded Item TrophySGolem
+[Info   :OpenDatabase] Loaded Item TrophySkeleton
+[Info   :OpenDatabase] Loaded Item TrophySkeletonPoison
+[Info   :OpenDatabase] Loaded Item TrophySurtling
+[Info   :OpenDatabase] Loaded Item TrophyTheElder
+[Info   :OpenDatabase] Loaded Item TrophyWolf
+[Info   :OpenDatabase] Loaded Item TrophyWraith
+[Info   :OpenDatabase] Loaded Item Turnip
+[Info   :OpenDatabase] Loaded Item TurnipSeeds
+[Info   :OpenDatabase] Loaded Item TurnipStew
+[Info   :OpenDatabase] Loaded Item VegvisirShard_Bonemass
+[Info   :OpenDatabase] Loaded Item Wishbone
+[Info   :OpenDatabase] Loaded Item WitheredBone
+[Info   :OpenDatabase] Loaded Item Wolf_Attack1
+[Info   :OpenDatabase] Loaded Item Wolf_Attack2
+[Info   :OpenDatabase] Loaded Item Wolf_Attack3
+[Info   :OpenDatabase] Loaded Item WolfFang
+[Info   :OpenDatabase] Loaded Item WolfPelt
+[Info   :OpenDatabase] Loaded Item Wood
+[Info   :OpenDatabase] Loaded Item wraith_melee
+[Info   :OpenDatabase] Loaded Item YagluthDrop
+[Info   :OpenDatabase] Loaded Item YmirRemains
+[Info   :OpenDatabase] Loaded Item RunestoneMagic
+[Info   :OpenDatabase] Loaded Item RunestoneRare
+[Info   :OpenDatabase] Loaded Item RunestoneEpic
+[Info   :OpenDatabase] Loaded Item RunestoneLegendary
+[Info   :OpenDatabase] Loaded Item ShardMagic
+[Info   :OpenDatabase] Loaded Item ShardRare
+[Info   :OpenDatabase] Loaded Item ShardEpic
+[Info   :OpenDatabase] Loaded Item ShardLegendary
+[Info   :OpenDatabase] Loaded Item DustMagic
+[Info   :OpenDatabase] Loaded Item DustRare
+[Info   :OpenDatabase] Loaded Item DustEpic
+[Info   :OpenDatabase] Loaded Item DustLegendary
+[Info   :OpenDatabase] Loaded Item ReagentMagic
+[Info   :OpenDatabase] Loaded Item ReagentRare
+[Info   :OpenDatabase] Loaded Item ReagentEpic
+[Info   :OpenDatabase] Loaded Item ReagentLegendary
+[Info   :OpenDatabase] Loaded Item EssenceMagic
+[Info   :OpenDatabase] Loaded Item EssenceRare
+[Info   :OpenDatabase] Loaded Item EssenceEpic
+[Info   :OpenDatabase] Loaded Item EssenceLegendary
+[Info   :OpenDatabase] Loaded Item LeatherBelt
+[Info   :OpenDatabase] Loaded Item SilverRing
+[Info   :OpenDatabase] Loaded Item GoldRubyRing
+[Info   :OpenDatabase] Found 4 Crafting/Repair-Stations. [$piece_forge, $piece_workbench, $piece_cauldron, $piece_stonecutter]
+[Info   :OpenDatabase] Loaded ArmorBronzeChest with 2 ingredients
+[Info   :OpenDatabase] Loaded ArmorBronzeLegs with 2 ingredients
+[Info   :OpenDatabase] Loaded ArmorIronChest with 2 ingredients
+[Info   :OpenDatabase] Loaded ArmorIronLegs with 2 ingredients
+[Info   :OpenDatabase] Loaded ArmorLeatherChest with 2 ingredients
+[Info   :OpenDatabase] Loaded ArmorLeatherLegs with 2 ingredients
+[Info   :OpenDatabase] Loaded ArmorPaddedCuirass with 2 ingredients
+[Info   :OpenDatabase] Loaded ArmorPaddedGreaves with 2 ingredients
+[Info   :OpenDatabase] Loaded ArmorRagsChest with 1 ingredients
+[Info   :OpenDatabase] Loaded ArmorRagsLegs with 1 ingredients
+[Info   :OpenDatabase] Loaded ArmorTrollLeatherChest with 1 ingredients
+[Info   :OpenDatabase] Loaded ArmorTrollLeatherLegs with 1 ingredients
+[Info   :OpenDatabase] Loaded ArmorWolfChest with 3 ingredients
+[Info   :OpenDatabase] Loaded ArmorWolfLegs with 3 ingredients
+[Info   :OpenDatabase] Loaded ArrowBronze with 3 ingredients
+[Info   :OpenDatabase] Loaded ArrowFire with 3 ingredients
+[Info   :OpenDatabase] Loaded ArrowFlint with 3 ingredients
+[Info   :OpenDatabase] Loaded ArrowFrost with 4 ingredients
+[Info   :OpenDatabase] Loaded ArrowIron with 3 ingredients
+[Info   :OpenDatabase] Loaded ArrowNeedle with 2 ingredients
+[Info   :OpenDatabase] Loaded ArrowObsidian with 3 ingredients
+[Info   :OpenDatabase] Loaded ArrowPoison with 4 ingredients
+[Info   :OpenDatabase] Loaded ArrowSilver with 3 ingredients
+[Info   :OpenDatabase] Loaded ArrowWood with 1 ingredients
+[Info   :OpenDatabase] Loaded AtgeirBlackmetal with 3 ingredients
+[Info   :OpenDatabase] Loaded AtgeirBronze with 3 ingredients
+[Info   :OpenDatabase] Loaded AtgeirIron with 3 ingredients
+[Info   :OpenDatabase] Loaded AxeBlackMetal with 3 ingredients
+[Info   :OpenDatabase] Loaded AxeBronze with 3 ingredients
+[Info   :OpenDatabase] Loaded AxeFlint with 3 ingredients
+[Info   :OpenDatabase] Loaded AxeIron with 3 ingredients
+[Info   :OpenDatabase] Loaded AxeStone with 2 ingredients
+[Info   :OpenDatabase] Loaded BarleyWineBase with 2 ingredients
+[Info   :OpenDatabase] Loaded Battleaxe with 3 ingredients
+[Info   :OpenDatabase] Loaded BloodPudding with 3 ingredients
+[Info   :OpenDatabase] Loaded BombOoze with 3 ingredients
+[Info   :OpenDatabase] Loaded Bow with 3 ingredients
+[Info   :OpenDatabase] Loaded BowDraugrFang with 4 ingredients
+[Info   :OpenDatabase] Loaded BowFineWood with 3 ingredients
+[Info   :OpenDatabase] Loaded BowHuntsman with 4 ingredients
+[Info   :OpenDatabase] Loaded Bread with 1 ingredients
+[Info   :OpenDatabase] Loaded Bronze with 2 ingredients
+[Info   :OpenDatabase] Loaded Bronze with 2 ingredients
+[Info   :OpenDatabase] Loaded BronzeNails with 1 ingredients
+[Info   :OpenDatabase] Loaded CapeDeerHide with 2 ingredients
+[Info   :OpenDatabase] Loaded CapeLinen with 2 ingredients
+[Info   :OpenDatabase] Loaded CapeLox with 2 ingredients
+[Info   :OpenDatabase] Loaded CapeOdin with 2 ingredients
+[Info   :OpenDatabase] Loaded CapeTrollHide with 2 ingredients
+[Info   :OpenDatabase] Loaded CapeWolf with 3 ingredients
+[Info   :OpenDatabase] Loaded CarrotSoup with 2 ingredients
+[Info   :OpenDatabase] Loaded Club with 2 ingredients
+[Info   :OpenDatabase] Loaded Cultivator with 2 ingredients
+[Info   :OpenDatabase] Loaded FishWraps with 2 ingredients
+[Info   :OpenDatabase] Loaded Hammer with 2 ingredients
+[Info   :OpenDatabase] Loaded HelmetBronze with 2 ingredients
+[Info   :OpenDatabase] Loaded HelmetDrake with 3 ingredients
+[Info   :OpenDatabase] Loaded HelmetIron with 2 ingredients
+[Info   :OpenDatabase] Loaded HelmetLeather with 2 ingredients
+[Info   :OpenDatabase] Loaded HelmetOdin with 2 ingredients
+[Info   :OpenDatabase] Loaded HelmetPadded with 2 ingredients
+[Info   :OpenDatabase] Loaded HelmetTrollLeather with 2 ingredients
+[Info   :OpenDatabase] Loaded Hoe with 2 ingredients
+[Info   :OpenDatabase] Loaded IronNails with 1 ingredients
+[Info   :OpenDatabase] Loaded KnifeBlackMetal with 3 ingredients
+[Info   :OpenDatabase] Loaded KnifeChitin with 3 ingredients
+[Info   :OpenDatabase] Loaded KnifeCopper with 3 ingredients
+[Info   :OpenDatabase] Loaded KnifeFlint with 3 ingredients
+[Info   :OpenDatabase] Loaded LoxPie with 3 ingredients
+[Info   :OpenDatabase] Loaded MaceBronze with 3 ingredients
+[Info   :OpenDatabase] Loaded MaceIron with 3 ingredients
+[Info   :OpenDatabase] Loaded MaceNeedle with 4 ingredients
+[Info   :OpenDatabase] Loaded MaceSilver with 4 ingredients
+[Info   :OpenDatabase] Loaded MeadBaseFrostResist with 4 ingredients
+[Info   :OpenDatabase] Loaded MeadBaseHealthMedium with 4 ingredients
+[Info   :OpenDatabase] Loaded MeadBaseHealthMinor with 4 ingredients
+[Info   :OpenDatabase] Loaded MeadBasePoisonResist with 4 ingredients
+[Info   :OpenDatabase] Loaded MeadBaseStaminaMedium with 3 ingredients
+[Info   :OpenDatabase] Loaded MeadBaseStaminaMinor with 3 ingredients
+[Info   :OpenDatabase] Loaded MeadBaseTasty with 3 ingredients
+[Info   :OpenDatabase] Loaded PickaxeAntler with 2 ingredients
+[Info   :OpenDatabase] Loaded PickaxeBronze with 2 ingredients
+[Info   :OpenDatabase] Loaded PickaxeIron with 2 ingredients
+[Info   :OpenDatabase] Loaded PickaxeStone with 2 ingredients
+[Info   :OpenDatabase] Loaded MeadHealthMinor with 3 ingredients
+[Info   :OpenDatabase] Loaded MeadStaminaMinor with 3 ingredients
+[Info   :OpenDatabase] Loaded QueensJam with 2 ingredients
+[Info   :OpenDatabase] Loaded Sausages with 3 ingredients
+[Info   :OpenDatabase] Loaded SerpentStew with 3 ingredients
+[Info   :OpenDatabase] Loaded SharpeningStone with 1 ingredients
+[Info   :OpenDatabase] Loaded ShieldBanded with 2 ingredients
+[Info   :OpenDatabase] Loaded ShieldBlackmetal with 3 ingredients
+[Info   :OpenDatabase] Loaded ShieldBlackmetalTower with 3 ingredients
+[Info   :OpenDatabase] Loaded ShieldBronzeBuckler with 2 ingredients
+[Info   :OpenDatabase] Loaded ShieldIronSquare with 2 ingredients
+[Info   :OpenDatabase] Loaded ShieldIronTower with 2 ingredients
+[Info   :OpenDatabase] Loaded ShieldSerpentscale with 3 ingredients
+[Info   :OpenDatabase] Loaded ShieldSilver with 2 ingredients
+[Info   :OpenDatabase] Loaded ShieldWood with 3 ingredients
+[Info   :OpenDatabase] Loaded ShieldWoodTower with 2 ingredients
+[Info   :OpenDatabase] Loaded SledgeIron with 4 ingredients
+[Info   :OpenDatabase] Loaded SledgeStagbreaker with 4 ingredients
+[Info   :OpenDatabase] Loaded SpearBronze with 3 ingredients
+[Info   :OpenDatabase] Loaded SpearChitin with 3 ingredients
+[Info   :OpenDatabase] Loaded SpearElderbark with 3 ingredients
+[Info   :OpenDatabase] Loaded SpearFlint with 3 ingredients
+[Info   :OpenDatabase] Loaded SpearWolfFang with 4 ingredients
+[Info   :OpenDatabase] Loaded SwordBlackmetal with 3 ingredients
+[Info   :OpenDatabase] Loaded SwordBronze with 3 ingredients
+[Info   :OpenDatabase] Loaded SwordIronFire with 4 ingredients
+[Info   :OpenDatabase] Loaded SwordIron with 3 ingredients
+[Info   :OpenDatabase] Loaded SwordSilver with 4 ingredients
+[Info   :OpenDatabase] Loaded Tankard with 2 ingredients
+[Info   :OpenDatabase] Loaded TankardOdin with 3 ingredients
+[Info   :OpenDatabase] Loaded Torch with 2 ingredients
+[Info   :OpenDatabase] Loaded TurnipStew with 2 ingredients
+[Info   :OpenDatabase] Loaded LeatherBelt with 2 ingredients
+[Info   :OpenDatabase] Loaded SilverRing with 1 ingredients
+[Info   :OpenDatabase] Loaded GoldRubyRing with 2 ingredients
+[Info   :OpenDatabase] Loaded ShardRare with 2 ingredients
+[Info   :OpenDatabase] Loaded ShardEpic with 2 ingredients
+[Info   :OpenDatabase] Loaded ShardLegendary with 2 ingredients
+[Info   :OpenDatabase] Loaded DustRare with 2 ingredients
+[Info   :OpenDatabase] Loaded DustEpic with 2 ingredients
+[Info   :OpenDatabase] Loaded DustLegendary with 2 ingredients
+[Info   :OpenDatabase] Loaded ReagentRare with 2 ingredients
+[Info   :OpenDatabase] Loaded ReagentEpic with 2 ingredients
+[Info   :OpenDatabase] Loaded ReagentLegendary with 2 ingredients
+[Info   :OpenDatabase] Loaded EssenceRare with 2 ingredients
+[Info   :OpenDatabase] Loaded EssenceEpic with 2 ingredients
+[Info   :OpenDatabase] Loaded EssenceLegendary with 2 ingredients
+[Info   :OpenDatabase] Loaded RunestoneRare with 2 ingredients
+[Info   :OpenDatabase] Loaded RunestoneEpic with 2 ingredients
+[Info   :OpenDatabase] Loaded RunestoneLegendary with 2 ingredients
+[Info   :OpenDatabase] Loaded DustMagic with 2 ingredients
+[Info   :OpenDatabase] Loaded EssenceMagic with 2 ingredients
+[Info   :OpenDatabase] Loaded ReagentMagic with 2 ingredients
+[Info   :OpenDatabase] Loaded DustRare with 2 ingredients
+[Info   :OpenDatabase] Loaded EssenceRare with 2 ingredients
+[Info   :OpenDatabase] Loaded ReagentRare with 2 ingredients
+[Info   :OpenDatabase] Loaded DustEpic with 2 ingredients
+[Info   :OpenDatabase] Loaded EssenceEpic with 2 ingredients
+[Info   :OpenDatabase] Loaded ReagentEpic with 2 ingredients
+[Info   :OpenDatabase] Loaded DustLegendary with 2 ingredients
+[Info   :OpenDatabase] Loaded EssenceLegendary with 2 ingredients
+[Info   :OpenDatabase] Loaded ReagentLegendary with 2 ingredients
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LeatherBelt
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_SilverRing
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_GoldRubyRing
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToReagent_Conversion
+[Info   :ValheimLib] Added custom item : $ArmorPlateIronHelmetJD
+[Info   :ValheimLib] Added custom item : $ArmorPlateIronChestJD
+[Info   :ValheimLib] Added custom item : $ArmorPlateIronLegsJD
+[Info   :ValheimLib] Added recipe for : $ArmorPlateIronHelmetJD
+[Info   :ValheimLib] Added recipe for : $ArmorPlateIronChestJD
+[Info   :ValheimLib] Added recipe for : $ArmorPlateIronLegsJD
+[Info   : Unity Log] 03/26/2021 03:31:04: Audioman already exist, destroying self
+
+[Info   :ServerSideMap] Minimap awake
+[Info   : Unity Log] 03/26/2021 03:31:04: Loaded 580556 map points from disk.
+
+[Info   : Unity Log] Version generator started.
+[Info   : Unity Log] Version generated with enforced mod : 0.148.6@0.9.6
+[Info   : Unity Log] CustomTextures Clutter system awake
+[Info   : Unity Log] CustomTextures Checking 17 clutters
+[Info   : Unity Log] CustomTextures 
+object instanced_small_rock1, InstanceRenderer instanced_small_rock1, material ground_rocks, texture rock_low, using texture_rock_low_MainTex.png for _MainTex.
+loading cached texture for texture_rock_low_MainTex
+object instanced_small_rock1, InstanceRenderer instanced_small_rock1, material ground_rocks, texture rock_normal_low, using texture_rock_normal_low_BumpMap.png for _BumpMap.
+loading cached texture for texture_rock_normal_low_BumpMap
+object small_rock2, MeshRenderer model, material ground_rocks (Instance), texture rock_low, using texture_rock_low_MainTex.png for _MainTex.
+loading cached texture for texture_rock_low_MainTex
+object small_rock2, MeshRenderer model, material ground_rocks (Instance), texture rock_normal_low, using texture_rock_normal_low_BumpMap.png for _BumpMap.
+loading cached texture for texture_rock_normal_low_BumpMap
+[Info   : Unity Log] NexusUpdate remote version: 0.1.0.
+[Info   : Unity Log] NexusUpdate Instant Monster Drop 164 current version: 0.2.1
+[Info   : Unity Log] NexusUpdate remote version: 0.2.1.
+[Info   : Unity Log] NexusUpdate Nexus Update 102 current version: 1.1.1
+[Info   : Unity Log] NexusUpdate remote version: 1.1.1.
+[Info   : Unity Log] NexusUpdate Tree Respawn 37 current version: 0.5.0
+[Info   : Unity Log] NexusUpdate remote version: 0.5.0.
+[Info   : Unity Log] NexusUpdate SimpleRecycling 205 current version: 0.0.13
+[Info   : Unity Log] 03/26/2021 03:31:07: Zonesystem Start 5
+
+[Info   : Unity Log] 03/26/2021 03:31:07: DungeonDB Start 5
+
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_LeatherBelt): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LeatherBelt
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_SilverRing): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_SilverRing
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_GoldRubyRing): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_GoldRubyRing
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_ShardRareUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_ShardEpicUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_ShardLegendaryUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_DustRareUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_DustEpicUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_DustLegendaryUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_ReagentRareUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_ReagentEpicUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_ReagentLegendaryUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_EssenceRareUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_EssenceEpicUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_EssenceLegendaryUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_RunestoneRareUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_RunestoneEpicUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_RunestoneLegendaryUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_MagicShardToDust_Conversion): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_MagicShardToEssence_Conversion): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_MagicShardToReagent_Conversion): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_RareShardToDust_Conversion): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_RareShardToEssence_Conversion): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_RareShardToReagent_Conversion): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_EpicShardToDust_Conversion): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_EpicShardToEssence_Conversion): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_EpicShardToReagent_Conversion): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_LegendaryShardToDust_Conversion): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_LegendaryShardToEssence_Conversion): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_LegendaryShardToReagent_Conversion): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToReagent_Conversion
+[Info   : Unity Log] NexusUpdate remote version: 0.0.13.
+[Info   : Unity Log] NexusUpdate SkillInjectorMod 341 current version: 1.1.1
+[Info   : Unity Log] NexusUpdate remote version: 1.1.1.
+[Info   : Unity Log] NexusUpdate GatheringSkillMod 342 current version: 2.0.2
+[Info   : Unity Log] NexusUpdate remote version: 2.0.2.
+[Info   : Unity Log] NexusUpdate Cooking Skill 483 current version: 1.1.3
+[Info   : Unity Log] NexusUpdate remote version: 1.1.3.
+[Info   : Unity Log] 03/26/2021 03:31:53: Got status changed msg k_ESteamNetworkingConnectionState_Connecting
+
+[Info   : Unity Log] 03/26/2021 03:31:53: New connection
+
+[Info   : Unity Log] 03/26/2021 03:31:53: Accepting connection k_EResultOK
+
+[Info   :Network Optimizer]  Server Registered : Now Patching Network...
+[Info   :Network Optimizer]  ... Server Network Patch Complete
+[Info   : Unity Log] 03/26/2021 03:31:53: Connecting to Steamworks.SteamNetworkingIdentity
+
+[Info   : Unity Log] 03/26/2021 03:31:53: Got status changed msg k_ESteamNetworkingConnectionState_Connected
+
+[Info   : Unity Log] 03/26/2021 03:31:53: Connected
+
+[Info   : Unity Log] 03/26/2021 03:31:53: Got connection SteamID 76561198041045774
+
+[Info   :ServerSideMap] Registered Server Events
+[Info   : Unity Log] 03/26/2021 03:31:53: Got handshake from client 76561198041045774
+
+[Info   : Unity Log] Version generator started.
+[Info   : Unity Log] Version generated with enforced mod : 0.148.6@0.9.6
+[Info   : Unity Log] 03/26/2021 03:31:56: VERSION check their:0.148.6@0.9.6  mine:0.148.6@0.9.6
+
+[Info   : Unity Log] Version generator started.
+[Info   : Unity Log] Version generated with enforced mod : 0.148.6@0.9.6
+[Info   : Unity Log] Version generator started.
+[Info   : Unity Log] Version generated with enforced mod : 0.148.6@0.9.6
+[Info   : Unity Log] 03/26/2021 03:31:56: Server: New peer connected,sending global keys
+
+[Info   :ServerSideMap] Packing pins: 9
+[Info   : Unity Log] 03/26/2021 03:31:59: VPlus configuration synced to peer #3999741843
+
+[Info   : Unity Log] 03/26/2021 03:32:15: Got character ZDOID from Sino : 3999741843:1
+
+[Warning: Unity Log] Serialized config (loottables.json)
+[Warning: Unity Log] Serialized config (magiceffects.json)
+[Warning: Unity Log] Serialized config (iteminfo.json)
+[Warning: Unity Log] Serialized config (recipes.json)
+[Warning: Unity Log] Serialized config (enchantcosts.json)
+[Warning: Unity Log] Serialized config (itemnames.json)
+[Info   : Unity Log] 03/26/2021 03:32:15: Received 1213 map ranges from peer #3999741843.
+
+[Info   : Unity Log] 03/26/2021 03:32:15: -------------------------- Packages: 1
+
+[Info   : Unity Log] 03/26/2021 03:32:15: Sent map updates to all clients (1213 map ranges, 1 chunks)
+
+[Info   : Unity Log] 03/26/2021 03:41:08:  Connections 1 ZDOS:762383  sent:0 recv:71
+
+[Info   : Unity Log] 03/26/2021 03:48:06: Time 743374.638971269, day:412    nextm:743670.000010729  skipspeed:24.6134199549754
+
+[Info   : Unity Log] 03/26/2021 03:48:20: Time 743672.440010674, day:413    nextm:745470.000010729  skipspeed:149.796666671212
+
+[Info   : Unity Log] 03/26/2021 03:51:08:  Connections 1 ZDOS:762400  sent:0 recv:216
+
+[Info   : Unity Log] 03/26/2021 03:51:10: clone 786
+
+[Info   :ServerSideMap] Map saved. Pin Count: 9
+[Info   : Unity Log] 03/26/2021 04:01:09:  Connections 1 ZDOS:762384  sent:0 recv:178
+
+[Info   : Unity Log] 03/26/2021 04:11:09:  Connections 1 ZDOS:762356  sent:0 recv:60
+
+[Info   : Unity Log] 03/26/2021 04:11:11: clone 954
+
+[Info   :ServerSideMap] Map saved. Pin Count: 9
+[Info   : Unity Log] 03/26/2021 04:21:11:  Connections 1 ZDOS:762357  sent:0 recv:54
+
+[Info   : Unity Log] 03/26/2021 04:22:20: Possible events:3
+
+[Info   : Unity Log] 03/26/2021 04:22:20: Random event set:skeletons
+
+[Info   : Unity Log] 03/26/2021 04:31:11:  Connections 1 ZDOS:762359  sent:0 recv:44
+
+[Info   : Unity Log] 03/26/2021 04:31:13: clone 979
+
+[Info   :ServerSideMap] Map saved. Pin Count: 9
+[Info   : Unity Log] 03/26/2021 04:41:12:  Connections 1 ZDOS:762357  sent:0 recv:65
+
+[Info   : Unity Log] 03/26/2021 04:51:12:  Connections 1 ZDOS:762360  sent:0 recv:93
+
+[Info   : Unity Log] 03/26/2021 04:51:15: clone 968
+
+[Info   :ServerSideMap] Map saved. Pin Count: 9
+[Info   : Unity Log] 03/26/2021 05:01:13:  Connections 1 ZDOS:762356  sent:0 recv:159
+
+[Info   : Unity Log] 03/26/2021 05:11:14:  Connections 1 ZDOS:762355  sent:0 recv:188
+
+[Info   : Unity Log] 03/26/2021 05:11:16: clone 839
+
+[Info   :ServerSideMap] Map saved. Pin Count: 9
+[Info   : Unity Log] 03/26/2021 05:21:15:  Connections 1 ZDOS:762357  sent:0 recv:190
+
+[Info   : Unity Log] 03/26/2021 05:31:15:  Connections 1 ZDOS:762356  sent:0 recv:149
+
+[Info   : Unity Log] 03/26/2021 05:31:17: clone 822
+
+[Info   :ServerSideMap] Map saved. Pin Count: 9
+[Info   : Unity Log] 03/26/2021 05:41:16:  Connections 1 ZDOS:762355  sent:0 recv:184
+
+[Info   : Unity Log] 03/26/2021 05:51:16:  Connections 1 ZDOS:762356  sent:0 recv:77
+
+[Info   : Unity Log] 03/26/2021 05:51:19: clone 932
+
+[Info   :ServerSideMap] Map saved. Pin Count: 9
+[Info   : Unity Log] 03/26/2021 06:01:17:  Connections 1 ZDOS:762355  sent:0 recv:45
+
+[Info   : Unity Log] 03/26/2021 06:11:18:  Connections 1 ZDOS:762355  sent:0 recv:57
+
+[Info   : Unity Log] 03/26/2021 06:11:20: clone 857
+
+[Info   :ServerSideMap] Map saved. Pin Count: 9
+[Info   : Unity Log] 03/26/2021 06:21:18:  Connections 1 ZDOS:762356  sent:0 recv:91
+
+[Info   : Unity Log] 03/26/2021 06:31:19:  Connections 1 ZDOS:762356  sent:0 recv:160
+
+[Info   : Unity Log] 03/26/2021 06:31:22: clone 833
+
+[Info   :ServerSideMap] Map saved. Pin Count: 9
+[Info   : Unity Log] 03/26/2021 06:41:20:  Connections 1 ZDOS:762358  sent:0 recv:90
+
+[Info   : Unity Log] 03/26/2021 06:51:20:  Connections 1 ZDOS:762356  sent:0 recv:176
+
+[Info   : Unity Log] 03/26/2021 06:51:23: clone 909
+
+[Info   :ServerSideMap] Map saved. Pin Count: 9
+[Info   : Unity Log] 03/26/2021 07:01:21:  Connections 1 ZDOS:762356  sent:0 recv:90
+
+[Info   : Unity Log] 03/26/2021 07:11:21:  Connections 1 ZDOS:762356  sent:0 recv:178
+
+[Info   : Unity Log] 03/26/2021 07:11:25: clone 851
+
+[Info   :ServerSideMap] Map saved. Pin Count: 9
+[Info   : Unity Log] 03/26/2021 07:21:22:  Connections 1 ZDOS:762357  sent:0 recv:116
+
+[Info   : Unity Log] 03/26/2021 07:31:22:  Connections 1 ZDOS:762356  sent:0 recv:91
+
+[Info   : Unity Log] 03/26/2021 07:31:26: clone 831
+
+[Info   :ServerSideMap] Map saved. Pin Count: 9
+[Info   : Unity Log] 03/26/2021 07:41:23:  Connections 1 ZDOS:762356  sent:0 recv:76
+
+[Info   : Unity Log] 03/26/2021 07:51:24:  Connections 1 ZDOS:762356  sent:0 recv:144
+
+[Info   : Unity Log] 03/26/2021 07:51:28: clone 846
+
+[Info   :ServerSideMap] Map saved. Pin Count: 9
+[Info   : Unity Log] 03/26/2021 08:01:25:  Connections 1 ZDOS:762355  sent:0 recv:145
+
+[Info   : Unity Log] 03/26/2021 08:11:25:  Connections 1 ZDOS:762357  sent:0 recv:60
+
+[Info   : Unity Log] 03/26/2021 08:11:29: clone 854
+
+[Info   :ServerSideMap] Map saved. Pin Count: 9
+[Info   : Unity Log] 03/26/2021 08:21:26:  Connections 1 ZDOS:762356  sent:0 recv:60
+
+[Info   : Unity Log] 03/26/2021 08:31:26:  Connections 1 ZDOS:762359  sent:0 recv:56
+
+[Info   : Unity Log] 03/26/2021 08:31:31: clone 962
+
+[Info   :ServerSideMap] Map saved. Pin Count: 9
+[Info   : Unity Log] 03/26/2021 08:41:27:  Connections 1 ZDOS:762356  sent:0 recv:57
+
+[Info   : Unity Log] 03/26/2021 08:51:28:  Connections 1 ZDOS:762358  sent:0 recv:64
+
+[Info   : Unity Log] 03/26/2021 08:51:32: clone 859
+
+[Info   :ServerSideMap] Map saved. Pin Count: 9
+[Info   : Unity Log] 03/26/2021 09:01:29:  Connections 1 ZDOS:762356  sent:0 recv:93
+
+[Info   : Unity Log] 03/26/2021 09:11:29:  Connections 1 ZDOS:762357  sent:0 recv:118
+
+[Info   : Unity Log] 03/26/2021 09:11:34: clone 858
+
+[Info   :ServerSideMap] Map saved. Pin Count: 9
+[Info   : Unity Log] 03/26/2021 09:21:30:  Connections 1 ZDOS:762356  sent:0 recv:159
+
+[Info   : Unity Log] 03/26/2021 09:31:30:  Connections 1 ZDOS:762361  sent:0 recv:176
+
+[Info   : Unity Log] 03/26/2021 09:31:35: clone 849
+
+[Info   :ServerSideMap] Map saved. Pin Count: 9
+[Info   : Unity Log] 03/26/2021 09:41:31:  Connections 1 ZDOS:762360  sent:0 recv:45
+
+[Info   : Unity Log] 03/26/2021 09:51:31:  Connections 1 ZDOS:762360  sent:0 recv:46
+
+[Info   : Unity Log] 03/26/2021 09:51:37: clone 862
+
+[Info   :ServerSideMap] Map saved. Pin Count: 9
+[Info   : Unity Log] 03/26/2021 10:01:32:  Connections 1 ZDOS:762357  sent:0 recv:52
+
+[Info   : Unity Log] 03/26/2021 10:11:33:  Connections 1 ZDOS:762361  sent:0 recv:96
+
+[Info   : Unity Log] 03/26/2021 10:11:38: clone 854
+
+[Info   :ServerSideMap] Map saved. Pin Count: 9
+[Info   : Unity Log] 03/26/2021 10:21:33:  Connections 1 ZDOS:762360  sent:0 recv:54
+
+[Info   : Unity Log] 03/26/2021 10:30:27: Possible events:3
+
+[Info   : Unity Log] 03/26/2021 10:30:27: Random event set:foresttrolls
+
+[Info   : Unity Log] 03/26/2021 10:31:34:  Connections 1 ZDOS:762360  sent:0 recv:51
+
+[Info   : Unity Log] 03/26/2021 10:31:39: clone 846
+
+[Info   :ServerSideMap] Map saved. Pin Count: 9
+[Info   : Unity Log] 03/26/2021 10:33:15: Got status changed msg k_ESteamNetworkingConnectionState_Connecting
+
+[Info   : Unity Log] 03/26/2021 10:33:15: New connection
+
+[Info   : Unity Log] 03/26/2021 10:33:15: Accepting connection k_EResultOK
+
+[Info   :Network Optimizer]  Server Registered : Now Patching Network...
+[Info   :Network Optimizer]  ... Server Network Patch Complete
+[Info   : Unity Log] 03/26/2021 10:33:15: Connecting to Steamworks.SteamNetworkingIdentity
+
+[Info   : Unity Log] 03/26/2021 10:33:15: Got status changed msg k_ESteamNetworkingConnectionState_Connected
+
+[Info   : Unity Log] 03/26/2021 10:33:15: Connected
+
+[Info   : Unity Log] 03/26/2021 10:33:15: Got connection SteamID 76561197993457780
+
+[Info   :ServerSideMap] Registered Server Events
+[Info   : Unity Log] 03/26/2021 10:33:15: Got handshake from client 76561197993457780
+
+[Info   : Unity Log] Version generator started.
+[Info   : Unity Log] Version generated with enforced mod : 0.148.6@0.9.6
+[Info   : Unity Log] 03/26/2021 10:33:17: VERSION check their:0.148.6@0.9.6  mine:0.148.6@0.9.6
+
+[Info   : Unity Log] Version generator started.
+[Info   : Unity Log] Version generated with enforced mod : 0.148.6@0.9.6
+[Info   : Unity Log] Version generator started.
+[Info   : Unity Log] Version generated with enforced mod : 0.148.6@0.9.6
+[Info   : Unity Log] 03/26/2021 10:33:17: Server: New peer connected,sending global keys
+
+[Info   :ServerSideMap] Packing pins: 9
+[Info   : Unity Log] 03/26/2021 10:33:20: VPlus configuration synced to peer #3361961930
+
+[Info   : Unity Log] 03/26/2021 10:33:37: Got character ZDOID from Brumbar : 3361961930:1
+
+[Warning: Unity Log] Serialized config (loottables.json)
+[Warning: Unity Log] Serialized config (magiceffects.json)
+[Warning: Unity Log] Serialized config (iteminfo.json)
+[Warning: Unity Log] Serialized config (recipes.json)
+[Warning: Unity Log] Serialized config (enchantcosts.json)
+[Warning: Unity Log] Serialized config (itemnames.json)
+[Info   : Unity Log] 03/26/2021 10:33:38: Received 1213 map ranges from peer #3361961930.
+
+[Info   : Unity Log] 03/26/2021 10:33:38: -------------------------- Packages: 1
+
+[Info   : Unity Log] 03/26/2021 10:33:38: Sent map updates to all clients (1213 map ranges, 1 chunks)
+
+[Info   : Unity Log] 03/26/2021 10:41:35:  Connections 2 ZDOS:762414  sent:84 recv:363
+
+[Info   : Unity Log] 03/26/2021 10:51:35:  Connections 2 ZDOS:762420  sent:0 recv:393
+
+[Info   : Unity Log] 03/26/2021 10:51:41: clone 868
+
+[Info   :ServerSideMap] Map saved. Pin Count: 9
+[Info   : Unity Log] 03/26/2021 11:01:36:  Connections 2 ZDOS:762509  sent:0 recv:363
+
+[Info   :ServerSideMap] Server received pin by client
+[Info   :ServerSideMap] Client received pin by server
+[Info   : Unity Log] 03/26/2021 11:11:36:  Connections 2 ZDOS:762573  sent:0 recv:220
+
+[Info   : Unity Log] 03/26/2021 11:11:42: clone 892
+
+[Info   :ServerSideMap] Map saved. Pin Count: 10
+[Info   : Unity Log] 03/26/2021 11:21:37:  Connections 2 ZDOS:762508  sent:0 recv:125
+
+[Info   :ServerSideMap] Server received pin by client
+[Info   :ServerSideMap] Client received pin by server
+[Info   : Unity Log] 03/26/2021 11:31:38:  Connections 2 ZDOS:762667  sent:0 recv:297
+
+[Info   : Unity Log] 03/26/2021 11:31:44: clone 857
+
+[Info   :ServerSideMap] Map saved. Pin Count: 11
+[Info   : Unity Log] 03/26/2021 11:41:39:  Connections 2 ZDOS:762491  sent:0 recv:460
+
+[Info   : Unity Log] 03/26/2021 11:51:40:  Connections 2 ZDOS:762446  sent:0 recv:253
+
+[Info   : Unity Log] 03/26/2021 11:51:46: clone 859
+
+[Info   :ServerSideMap] Map saved. Pin Count: 11
+[Info   :ServerSideMap] Server received pin by client
+[Info   :ServerSideMap] Client received pin by server
+[Info   : Unity Log] 03/26/2021 12:01:41:  Connections 2 ZDOS:762459  sent:0 recv:362
+
+[Info   : Unity Log] 03/26/2021 12:11:41:  Connections 2 ZDOS:762377  sent:0 recv:493
+
+[Info   : Unity Log] 03/26/2021 12:11:47: clone 904
+
+[Info   :ServerSideMap] Map saved. Pin Count: 12
+[Info   : Unity Log] 03/26/2021 12:17:46: RPC_Disconnect 
+
+[Info   : Unity Log] 03/26/2021 12:17:46: Destroying abandoned non persistent zdo 3999741843:36807 owner 3999741843
+
+[Info   : Unity Log] 03/26/2021 12:17:46: Destroying abandoned non persistent zdo 3999741843:36806 owner 3999741843
+
+[Info   : Unity Log] 03/26/2021 12:17:46: Destroying abandoned non persistent zdo 3999741843:1 owner 3999741843
+
+[Info   : Unity Log] 03/26/2021 12:17:46: Disposing socket
+
+[Info   : Unity Log] 03/26/2021 12:17:46: Closing socket 76561198041045774
+
+[Info   : Unity Log] 03/26/2021 12:17:46:   send queue size:0
+
+[Info   : Unity Log] 03/26/2021 12:17:46: Disposing socket
+
+[Info   : Unity Log] 03/26/2021 12:17:46: Got status changed msg k_ESteamNetworkingConnectionState_ClosedByPeer
+
+[Info   : Unity Log] 03/26/2021 12:17:46: Socket closed by peer Steamworks.SteamNetConnectionStatusChangedCallback_t
+
+[Info   : Unity Log] 03/26/2021 12:17:46: Got status changed msg k_ESteamNetworkingConnectionState_None
+
+[Info   : Unity Log] 03/26/2021 12:21:42:  Connections 1 ZDOS:762365  sent:0 recv:340
+
+[Info   : Unity Log] 03/26/2021 12:31:42:  Connections 1 ZDOS:762363  sent:0 recv:280
+
+[Info   : Unity Log] 03/26/2021 12:31:49: clone 901
+
+[Info   :ServerSideMap] Map saved. Pin Count: 12
+[Info   : Unity Log] 03/26/2021 12:41:43:  Connections 1 ZDOS:762362  sent:0 recv:55
+
+[Info   : Unity Log] 03/26/2021 12:51:44:  Connections 1 ZDOS:762363  sent:0 recv:182
+
+[Info   : Unity Log] 03/26/2021 12:51:50: clone 819
+
+[Info   :ServerSideMap] Map saved. Pin Count: 12
+[Info   : Unity Log] 03/26/2021 13:01:44:  Connections 1 ZDOS:762370  sent:0 recv:121
+
+[Info   : Unity Log] 03/26/2021 13:11:45:  Connections 1 ZDOS:762382  sent:0 recv:53
+
+[Info   : Unity Log] 03/26/2021 13:11:51: clone 844
+
+[Info   :ServerSideMap] Map saved. Pin Count: 12
+[Info   : Unity Log] 03/26/2021 13:21:46:  Connections 1 ZDOS:762361  sent:0 recv:70
+
+[Info   : Unity Log] 03/26/2021 13:31:46:  Connections 1 ZDOS:762364  sent:0 recv:180
+
+[Info   : Unity Log] 03/26/2021 13:31:53: clone 810
+
+[Info   :ServerSideMap] Map saved. Pin Count: 12
+[Info   : Unity Log] 03/26/2021 13:34:32: Possible events:3
+
+[Info   : Unity Log] 03/26/2021 13:34:32: Random event set:surtlings
+
+[Info   : Unity Log] 03/26/2021 13:41:47:  Connections 1 ZDOS:762363  sent:0 recv:101
+
+[Info   : Unity Log] 03/26/2021 13:51:47:  Connections 1 ZDOS:762363  sent:0 recv:157
+
+[Info   : Unity Log] 03/26/2021 13:51:54: clone 836
+
+[Info   :ServerSideMap] Map saved. Pin Count: 12
+[Info   : Unity Log] 03/26/2021 14:01:48:  Connections 1 ZDOS:762366  sent:0 recv:235
+
+[Info   : Unity Log] 03/26/2021 14:11:48:  Connections 1 ZDOS:762365  sent:0 recv:104
+
+[Info   : Unity Log] 03/26/2021 14:11:55: clone 817
+
+[Info   :ServerSideMap] Map saved. Pin Count: 12
+[Info   : Unity Log] 03/26/2021 14:21:49:  Connections 1 ZDOS:762368  sent:0 recv:171
+
+[Info   : Unity Log] 03/26/2021 14:31:49:  Connections 1 ZDOS:762363  sent:0 recv:160
+
+[Info   : Unity Log] 03/26/2021 14:31:57: clone 836
+
+[Info   :ServerSideMap] Map saved. Pin Count: 12
+[Info   : Unity Log] 03/26/2021 14:41:50:  Connections 1 ZDOS:762362  sent:0 recv:263
+
+[Info   : Unity Log] 03/26/2021 14:51:51:  Connections 1 ZDOS:762371  sent:0 recv:194
+
+[Info   : Unity Log] 03/26/2021 14:51:58: clone 829
+
+[Info   :ServerSideMap] Map saved. Pin Count: 12
+[Info   : Unity Log] 03/26/2021 15:01:51:  Connections 1 ZDOS:762395  sent:0 recv:267
+
+[Info   : Unity Log] 03/26/2021 15:11:52:  Connections 1 ZDOS:762449  sent:0 recv:138
+
+[Info   : Unity Log] 03/26/2021 15:12:00: clone 817
+
+[Info   :ServerSideMap] Map saved. Pin Count: 12
+[Info   : Unity Log] 03/26/2021 15:21:53:  Connections 1 ZDOS:762471  sent:0 recv:234
+
+[Info   : Unity Log] 03/26/2021 15:31:53:  Connections 1 ZDOS:762550  sent:0 recv:82
+
+[Info   : Unity Log] 03/26/2021 15:32:01: clone 839
+
+[Info   :ServerSideMap] Map saved. Pin Count: 12
+[Info   : Unity Log] 03/26/2021 15:41:54:  Connections 1 ZDOS:762623  sent:0 recv:170
+
+[Info   : Unity Log] 03/26/2021 15:51:54:  Connections 1 ZDOS:762697  sent:0 recv:102
+
+[Info   : Unity Log] 03/26/2021 15:52:02: clone 913
+
+[Info   :ServerSideMap] Map saved. Pin Count: 12
+[Info   : Unity Log] 03/26/2021 15:52:34: Possible events:3
+
+[Info   : Unity Log] 03/26/2021 15:52:34: Random event set:surtlings
+
+[Info   : Unity Log] 03/26/2021 16:01:55:  Connections 1 ZDOS:762740  sent:302 recv:104
+
+[Info   : Unity Log] 03/26/2021 16:11:55:  Connections 1 ZDOS:762817  sent:0 recv:95
+
+[Info   : Unity Log] 03/26/2021 16:12:04: clone 829
+
+[Info   :ServerSideMap] Map saved. Pin Count: 12
+[Info   : Unity Log] 03/26/2021 16:15:41: Got status changed msg k_ESteamNetworkingConnectionState_Connecting
+
+[Info   : Unity Log] 03/26/2021 16:15:41: New connection
+
+[Info   : Unity Log] 03/26/2021 16:15:41: Accepting connection k_EResultOK
+
+[Info   :Network Optimizer]  Server Registered : Now Patching Network...
+[Info   :Network Optimizer]  ... Server Network Patch Complete
+[Info   : Unity Log] 03/26/2021 16:15:41: Connecting to Steamworks.SteamNetworkingIdentity
+
+[Info   : Unity Log] 03/26/2021 16:15:41: Got status changed msg k_ESteamNetworkingConnectionState_Connected
+
+[Info   : Unity Log] 03/26/2021 16:15:41: Connected
+
+[Info   : Unity Log] 03/26/2021 16:15:41: Got connection SteamID 76561198041045774
+
+[Info   :ServerSideMap] Registered Server Events
+[Info   : Unity Log] 03/26/2021 16:15:41: Got handshake from client 76561198041045774
+
+[Info   : Unity Log] Version generator started.
+[Info   : Unity Log] Version generated with enforced mod : 0.148.6@0.9.6
+[Info   : Unity Log] 03/26/2021 16:15:43: VERSION check their:0.148.6@0.9.6  mine:0.148.6@0.9.6
+
+[Info   : Unity Log] Version generator started.
+[Info   : Unity Log] Version generated with enforced mod : 0.148.6@0.9.6
+[Info   : Unity Log] Version generator started.
+[Info   : Unity Log] Version generated with enforced mod : 0.148.6@0.9.6
+[Info   : Unity Log] 03/26/2021 16:15:43: Server: New peer connected,sending global keys
+
+[Info   :ServerSideMap] Packing pins: 12
+[Info   : Unity Log] 03/26/2021 16:15:46: VPlus configuration synced to peer #3123152066
+
+[Info   : Unity Log] 03/26/2021 16:16:03: Got character ZDOID from Sino : 3123152066:1
+
+[Warning: Unity Log] Serialized config (loottables.json)
+[Warning: Unity Log] Serialized config (magiceffects.json)
+[Warning: Unity Log] Serialized config (iteminfo.json)
+[Warning: Unity Log] Serialized config (recipes.json)
+[Warning: Unity Log] Serialized config (enchantcosts.json)
+[Warning: Unity Log] Serialized config (itemnames.json)
+[Info   : Unity Log] 03/26/2021 16:16:03: Received 1213 map ranges from peer #3123152066.
+
+[Info   : Unity Log] 03/26/2021 16:16:03: -------------------------- Packages: 1
+
+[Info   : Unity Log] 03/26/2021 16:16:03: Sent map updates to all clients (1213 map ranges, 1 chunks)
+
+[Info   : Unity Log] 03/26/2021 16:21:56:  Connections 2 ZDOS:762887  sent:152 recv:236
+
+[Info   : Unity Log] 03/26/2021 16:31:56:  Connections 2 ZDOS:762895  sent:210 recv:293
+
+[Info   : Unity Log] 03/26/2021 16:32:05: clone 898
+
+[Info   :ServerSideMap] Map saved. Pin Count: 12
+[Info   : Unity Log] 03/26/2021 16:41:57:  Connections 2 ZDOS:762891  sent:154 recv:250
+
+[Info   : Unity Log] 03/26/2021 16:46:11: RPC_Disconnect 
+
+[Info   : Unity Log] 03/26/2021 16:46:11: Destroying abandoned non persistent zdo 3123152066:725 owner 3123152066
+
+[Info   : Unity Log] 03/26/2021 16:46:11: Destroying abandoned non persistent zdo 3123152066:1 owner 3123152066
+
+[Info   : Unity Log] 03/26/2021 16:46:11: Destroying abandoned non persistent zdo 3123152066:726 owner 3123152066
+
+[Info   : Unity Log] 03/26/2021 16:46:11: Disposing socket
+
+[Info   : Unity Log] 03/26/2021 16:46:11: Closing socket 76561198041045774
+
+[Info   : Unity Log] 03/26/2021 16:46:11:   send queue size:0
+
+[Info   : Unity Log] 03/26/2021 16:46:11: Disposing socket
+
+[Info   : Unity Log] 03/26/2021 16:46:11: Got status changed msg k_ESteamNetworkingConnectionState_ClosedByPeer
+
+[Info   : Unity Log] 03/26/2021 16:46:11: Socket closed by peer Steamworks.SteamNetConnectionStatusChangedCallback_t
+
+[Info   : Unity Log] 03/26/2021 16:46:11: Got status changed msg k_ESteamNetworkingConnectionState_None
+
+[Info   : Unity Log] 03/26/2021 16:51:58:  Connections 1 ZDOS:762889  sent:0 recv:148
+
+[Info   : Unity Log] 03/26/2021 16:52:07: clone 833
+
+[Info   :ServerSideMap] Map saved. Pin Count: 12
+[Info   : Unity Log] 03/26/2021 17:01:59:  Connections 1 ZDOS:762890  sent:0 recv:166
+
+[Info   : Unity Log] 03/26/2021 17:11:59:  Connections 1 ZDOS:762890  sent:0 recv:125
+
+[Info   : Unity Log] 03/26/2021 17:12:08: clone 806
+
+[Info   :ServerSideMap] Map saved. Pin Count: 12
+[Info   : Unity Log] 03/26/2021 17:22:00:  Connections 1 ZDOS:762891  sent:0 recv:135
+
+[Info   : Unity Log] 03/26/2021 17:22:30: Game - OnApplicationQuit
+
+[Info   : Unity Log] 03/26/2021 17:22:30: Saved 580556 map points to disk.
+
+[Info   : Unity Log] 03/26/2021 17:22:30: ZNet Shutdown
+
+[Info   : Unity Log] 03/26/2021 17:22:31: clone 795
+
+[Info   :ServerSideMap] Map saved. Pin Count: 12
+[Info   : Unity Log] 03/26/2021 17:22:33: Sending disconnect msg
+
+[Info   : Unity Log] 03/26/2021 17:22:33: Sent to 76561197993457780
+
+[Info   : Unity Log] 03/26/2021 17:22:33: Disposing socket
+
+[Info   : Unity Log] 03/26/2021 17:22:33: Stopping listening socket
+
+[Info   : Unity Log] 03/26/2021 17:22:33: Disposing socket
+
+[Info   : Unity Log] 03/26/2021 17:22:33: Closing socket 76561197993457780
+
+[Info   : Unity Log] 03/26/2021 17:22:33:   send queue size:0
+
+[Info   : Unity Log] 03/26/2021 17:22:33: Last socket, unregistering callback
+
+[Info   : Unity Log] 03/26/2021 17:22:33: ZSteamSocket  UnregisterGlobalCallbacks, existing sockets:0
+
+[Info   : Unity Log] 03/26/2021 17:22:33: Disposing socket
+
+[Info   : Unity Log] 03/26/2021 17:22:33: Last socket, unregistering callback
+
+[Info   : Unity Log] 03/26/2021 17:22:33: ZSteamSocket  UnregisterGlobalCallbacks, existing sockets:0
+
+[Info   : Unity Log] 03/26/2021 17:22:35: ZNet OnDestroy
+
+[Info   : Unity Log] 03/26/2021 17:22:35: Net scene destroyed
+
+[Info   : Unity Log] Unpatching now
+[Warning:  HarmonyX] UnpatchAll has been called with harmonyID=null - This will remove ALL HARMONY PATCHES. If you want to only unpatch patches created by this instance (harmony-auto-7ed1e20d-dd87-486c-941d-89213eabd167), use UnpatchSelf() instead.
+[Warning:  HarmonyX] UnpatchAll has been called with harmonyID=null - This will remove ALL HARMONY PATCHES. If you want to only unpatch patches created by this instance (net.github.turtton.plugins.patch), use UnpatchSelf() instead.
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+ABearCodes.Valheim.SimpleRecycling.UI.ContainerRecyclingButtonHolder.OnDestroy () (at <53d5063764fa4559bad6a861499bd690>:0)
+
+[Info   : Unity Log] 03/26/2021 17:22:39: Steam manager on destroy
+

@@ -1,0 +1,14 @@
+{
+	"recipe_id": "Recipe_SharpeningStone",
+	"result_item_id": "SharpeningStone",
+	"result_amount": 1,
+	"CraftingStation": "$piece_stonecutter",
+	"minStationLevel": 1,
+	"ingredients": [
+		{
+			"id": "Stone",
+			"amount": 5,
+			"amountPerLevel": 1
+		}
+	]
+}

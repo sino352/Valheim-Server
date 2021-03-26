@@ -1,0 +1,19 @@
+{
+	"recipe_id": "Recipe_PickaxeIron",
+	"result_item_id": "PickaxeIron",
+	"result_amount": 1,
+	"CraftingStation": "$piece_forge",
+	"minStationLevel": 2,
+	"ingredients": [
+		{
+			"id": "RoundLog",
+			"amount": 3,
+			"amountPerLevel": 1
+		},
+		{
+			"id": "Iron",
+			"amount": 20,
+			"amountPerLevel": 10
+		}
+	]
+}
